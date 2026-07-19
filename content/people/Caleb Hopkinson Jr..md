@@ -1,6 +1,6 @@
 ---
 title: Caleb Hopkinson Jr.
-updated: 07/19/2026 7:13 PM
+updated: 07/19/2026 7:31 PM
 aliases:
   - Ensign Caleb Hopkinson
   - Caleb Hopkinson II
@@ -44,18 +44,18 @@ Caleb was a landholding resident of Bradford’s East Precinct, held the colonia
 
 ## Vital information
 
-| Event | Information | Evidence |
-|---|---|---|
-| Birth | January 7, 1681 | Bradford town record |
-| Birthplace | Bradford, Massachusetts Bay Colony | Bradford town record |
-| Father | [[Caleb Hopkinson Sr.]] | Bradford birth record |
-| Mother | [[Sarah Wallingford]] | Bradford birth record |
-| Marriage | December 19, 1705 | Bradford marriage record |
-| Wife | [[Martha Spofford]] | Bradford marriage record |
-| Death | November 9, 1730 | Bradford church and gravestone records |
-| Cause of death | Injuries caused by an overturned cart | Bradford Second Congregational Church record |
-| Burial | Ancient Burying Ground at East Bradford, now Groveland | Gravestone record |
-| Age at death | Forty-nine | Birth and gravestone records |
+| Event          | Information                                            | Evidence                                     |
+| -------------- | ------------------------------------------------------ | -------------------------------------------- |
+| Birth          | January 7, 1681                                        | Bradford town record                         |
+| Birthplace     | Bradford, Massachusetts Bay Colony                     | Bradford town record                         |
+| Father         | [[Caleb Hopkinson Sr.]]                                | Bradford birth record                        |
+| Mother         | [[Sarah Wallingford]]                                  | Bradford birth record                        |
+| Marriage       | December 19, 1705                                      | Bradford marriage record                     |
+| Wife           | [[Martha Spofford]]                                    | Bradford marriage record                     |
+| Death          | November 9, 1730                                       | Bradford church and gravestone records       |
+| Cause of death | Injuries caused by an overturned cart                  | Bradford Second Congregational Church record |
+| Burial         | Ancient Burying Ground at East Bradford, now Groveland | Gravestone record                            |
+| Age at death   | Forty-nine                                             | Birth and gravestone records                 |
 
 ## Childhood and family circumstances
 
