@@ -1,6 +1,6 @@
 # yaml-language-server: $schema=./quartz/plugins/quartz-plugins.schema.json
 configuration:
-  pageTitle: Hopkinson Family History
+  pageTitle: Hopkinson History
   pageTitleSuffix: ""
   enableSPA: true
   enablePopovers: true
