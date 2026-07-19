@@ -5,7 +5,7 @@ configuration:
   enableSPA: true
   enablePopovers: true
   analytics:
-    provider: plausible
+    provider: null
   locale: en-US
   baseUrl: hopkinsonarchive.github.io/hopkinson-family-history
   ignorePatterns:
@@ -222,7 +222,7 @@ plugins:
       position: afterBody
       priority: 10
   - source: github:quartz-community/footer
-    enabled: true
+    enabled: false
     options:
       links:
         GitHub: https://github.com/jackyzha0/quartz

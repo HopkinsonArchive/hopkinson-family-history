@@ -1,6 +1,19 @@
 ---
-title: Welcome to Quartz
+title: Hopkinson Family History
+description: A documentary archive of Hopkinson family history, genealogy, biographies, and historical records.
 ---
 
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+# Hopkinson Family History
+
+This site documents the history of the Hopkinson family through genealogical research, historical records, biographies, military records, census material, and family evidence.
+
+The archive distinguishes between confirmed records, strong inferences, and unresolved questions. Conclusions may be revised as stronger evidence becomes available.
+
+## Explore the Archive
+
+- Family lineage
+- Individual biographies
+- Historical records
+- Military service
+- Census and vital records
+- Research questions and evidence
