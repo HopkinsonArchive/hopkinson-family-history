@@ -1,10 +1,8 @@
 ---
 title: Hopkinson Family Lineage
-updated: 07/19/2026 5:24 PM
+updated: 07/19/2026 5:28 PM
 description: The current reconstructed ancestral line of the Hopkinson family from colonial Massachusetts to the present generation.
 ---
-
-# Hopkinson Family Lineage
 
 This page presents the archive’s current reconstruction of the direct family line from the earliest identified colonial Hopkinson ancestor to the present generation.
 
