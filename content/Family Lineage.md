@@ -1,6 +1,6 @@
 ---
 title: Hopkinson Family Lineage
-updated: 07/19/2026 5:28 PM
+updated: 07/19/2026 5:34 PM
 description: The current reconstructed ancestral line of the Hopkinson family from colonial Massachusetts to the present generation.
 ---
 
@@ -13,14 +13,15 @@ Each person will eventually have an individual biography containing fuller histo
 
 ## 1. [[Michael Hopkinson]]
 
-**Born:** c. 1600 — location not yet confirmed  
-**Died:** 1648/49 — location not yet confirmed  
+**Born:** c. 1600 — England; exact location not yet identified  
+**Died:** 1648/49 — Rowley, Massachusetts  
+**Known residence:** Rowley, Massachusetts  
 **Parents:** Not yet identified  
 **Spouse:** Not yet entered  
 **Child continuing this line:** [[Caleb Hopkinson Sr.]]  
-**Evidence status:** Research in progress
+**Evidence status:** Documented in Rowley; English origins unresolved
 
-Michael Hopkinson is the earliest currently identified ancestor in the reconstructed direct line.
+Michael Hopkinson was one of the first settlers of Rowley, Massachusetts. He received a 1½-acre house lot and was admitted as a Massachusetts Bay freeman on May 13, 1640. His precise English birthplace and parentage remain unproven.
 
 ---
 
