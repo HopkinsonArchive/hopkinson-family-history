@@ -1,188 +1,266 @@
 ---
 title: Hopkinson Family Lineage
-updated: 07/19/2026 5:15 PM
-description: The current documented ancestral line of the Hopkinson family, from colonial Massachusetts to the present generation.
+updated: 07/19/2026 5:24 PM
+description: The current reconstructed ancestral line of the Hopkinson family from colonial Massachusetts to the present generation.
 ---
 
-This page presents the archive’s current reconstruction of the direct Hopkinson ancestral line. It connects the family’s earliest identified colonial ancestor, **Michael Hopkinson**, with his documented and proposed descendants through the present generation.
+# Hopkinson Family Lineage
 
-The lineage is a **working research baseline**. Each relationship must ultimately be supported by original or reliable contemporary evidence. Relationships that remain uncertain are identified rather than presented as settled fact.
+This page presents the archive’s current reconstruction of the direct family line from the earliest identified colonial Hopkinson ancestor to the present generation.
 
-> [!important] Maternal transmission of the Hopkinson name
-> The descent from the colonial Hopkinson family continues through **Ann Matilda Hopkinson**, mother of Lowell Herbert Hopkinson.
->
-> Lowell’s surviving Bradford birth record does not identify his biological father. He inherited and retained his unmarried mother’s surname. Consequently, this is not an uninterrupted paternal or Y-chromosome Hopkinson line.
+Each person will eventually have an individual biography containing fuller historical context, records, sources, conflicting evidence, and unresolved questions. This page serves as the central generational map.
 
-## Lineage at a Glance
+> [!note] Research status
+> This lineage is a working research baseline. Confirmed facts, strong inferences, and unresolved information are identified separately. Dates and relationships may be corrected when stronger records are found.
 
-1. [[Michael Hopkinson]] (c. 1600–1648/49)
-2. [[Caleb Hopkinson Sr.]] (1648/49–1721)
-3. [[Caleb Hopkinson Jr.]] (1681–1730)
-4. [[Samuel Hopkinson]] (1718–1785)
-5. [[Silas Hopkinson]] (1763–1828)
-6. [[Uriah Hopkinson]] (1791–1876)
-7. [[Ann Matilda Hopkinson]] (born 1817; death unknown)
-8. [[Lowell Herbert Hopkinson]] (1836–1904)
-9. [[Harry Francis Hopkinson]] (1868–1897)
-10. [[Ralph L. Hopkinson Sr.]] (1894–1946)
-11. [[Ralph L. Hopkinson Jr.]] (1920–2000)
-12. [[Dale Hopkinson]] (1946–2014)
-13. [[Seth MacLean Hopkinson]] (born 1975)
+## 1. [[Michael Hopkinson]]
 
-## Generational Lineage
+**Born:** c. 1600 — location not yet confirmed  
+**Died:** 1648/49 — location not yet confirmed  
+**Parents:** Not yet identified  
+**Spouse:** Not yet entered  
+**Child continuing this line:** [[Caleb Hopkinson Sr.]]  
+**Evidence status:** Research in progress
 
-| Generation | Person | Relationship to next generation | Current status |
-|---:|---|---|---|
-| 1 | [[Michael Hopkinson]] | Father of Caleb Sr. | Under documentation |
-| 2 | [[Caleb Hopkinson Sr.]] | Father of Caleb Jr. | Under documentation |
-| 3 | [[Caleb Hopkinson Jr.]] | Father of Samuel | Under documentation |
-| 4 | [[Samuel Hopkinson]] | Father of Silas | Under documentation |
-| 5 | [[Silas Hopkinson]] | Father of Uriah | Under documentation |
-| 6 | [[Uriah Hopkinson]] | Father of Ann Matilda | Supported by family and civil records |
-| 7 | [[Ann Matilda Hopkinson]] | Mother of Lowell | Confirmed by Lowell’s birth record |
-| 8 | [[Lowell Herbert Hopkinson]] | Father of Harry Francis | Under documentation |
-| 9 | [[Harry Francis Hopkinson]] | Father of Ralph Sr. | Under documentation |
-| 10 | [[Ralph L. Hopkinson Sr.]] | Father of Ralph Jr. | Under documentation |
-| 11 | [[Ralph L. Hopkinson Jr.]] | Father of Dale | Supported by recent family records |
-| 12 | [[Dale Hopkinson]] | Father of Seth | Confirmed by family knowledge and records |
-| 13 | [[Seth MacLean Hopkinson]] | Present generation | Living person |
+Michael Hopkinson is the earliest currently identified ancestor in the reconstructed direct line.
 
-> [!note] Documentation status
-> “Under documentation” does not necessarily mean that a relationship is doubtful. It means that the archive has not yet finished presenting and citing the primary evidence for that link on this site.
+---
 
-## Colonial Massachusetts Line
+## 2. [[Caleb Hopkinson Sr.]]
 
-### [[Michael Hopkinson]]
-
-The earliest currently identified ancestor in the direct line. Michael lived in colonial Massachusetts during the first half of the seventeenth century.
-
-**Current dates:** c. 1600–1648/49  
-**Child in the direct line:** [[Caleb Hopkinson Sr.]]
-
-### [[Caleb Hopkinson Sr.]]
-
-**Current dates:** 1648/49–1721  
+**Born:** 1648/49 — location not yet confirmed  
+**Died:** 1721 — location not yet confirmed  
 **Father:** [[Michael Hopkinson]]  
-**Child in the direct line:** [[Caleb Hopkinson Jr.]]
+**Mother:** Not yet entered  
+**Spouse:** Not yet entered  
+**Child continuing this line:** [[Caleb Hopkinson Jr.]]  
+**Evidence status:** Research in progress
 
-### [[Caleb Hopkinson Jr.]]
+---
 
-**Current dates:** 1681–1730  
+## 3. [[Caleb Hopkinson Jr.]]
+
+**Born:** 1681 — location not yet confirmed  
+**Died:** 1730 — location not yet confirmed  
 **Father:** [[Caleb Hopkinson Sr.]]  
-**Child in the direct line:** [[Samuel Hopkinson]]
+**Mother:** Not yet entered  
+**Spouse:** Not yet entered  
+**Child continuing this line:** [[Samuel Hopkinson]]  
+**Evidence status:** Research in progress
 
-### [[Samuel Hopkinson]]
+---
 
-**Current dates:** 1718–1785  
+## 4. [[Samuel Hopkinson]]
+
+**Born:** 1718 — location not yet confirmed  
+**Died:** 1785 — location not yet confirmed  
 **Father:** [[Caleb Hopkinson Jr.]]  
-**Child in the direct line:** [[Silas Hopkinson]]
+**Mother:** Not yet entered  
+**Spouse:** Not yet entered  
+**Child continuing this line:** [[Silas Hopkinson]]  
+**Evidence status:** Research in progress
 
-## Revolutionary and Early National Generations
+---
 
-### [[Silas Hopkinson]]
+## 5. [[Silas Hopkinson]]
 
-**Current dates:** 1763–1828  
+**Born:** 1763 — location not yet confirmed  
+**Died:** 1828 — location not yet confirmed  
 **Father:** [[Samuel Hopkinson]]  
-**Child in the direct line:** [[Uriah Hopkinson]]
+**Mother:** Not yet entered  
+**Spouse:** Not yet entered  
+**Child continuing this line:** [[Uriah Hopkinson]]  
+**Evidence status:** Research in progress
 
-### [[Uriah Hopkinson]]
+---
 
-**Current dates:** 1791–1876  
+## 6. [[Uriah Hopkinson]]
+
+**Born:** 1791 — location not yet confirmed  
+**Died:** 1876 — location not yet confirmed  
 **Father:** [[Silas Hopkinson]]  
-**Child in the direct line:** [[Ann Matilda Hopkinson]]
+**Mother:** Not yet entered  
+**Spouse:** [[Lucy Hopkinson]]  
+**Child continuing this line:** [[Ann Matilda Hopkinson]]  
+**Evidence status:** Research in progress
 
-Uriah’s household is especially important because surviving census evidence places his grandson Lowell within the extended Hopkinson family household. Uriah’s occupation and possible role in Lowell’s upbringing and trade remain subjects of investigation.
+Uriah and Lucy Hopkinson were the maternal grandparents of [[Lowell Herbert Hopkinson]]. Available household evidence indicates that Lowell was raised principally within their Hopkinson household.
 
-## Maternal Surname Transition
+---
+
+## 7. [[Ann Matilda Hopkinson]] and [[William Pillsbury Bailey]]
 
 ### [[Ann Matilda Hopkinson]]
 
-**Born:** 1817  
-**Death:** Not yet identified  
+**Born:** November 15, 1817 — Bradford, Massachusetts  
+**Died:** Date and location not yet identified  
+**Last confirmed living:** August 14, 1867  
 **Father:** [[Uriah Hopkinson]]  
-**Child in the direct line:** [[Lowell Herbert Hopkinson]]
+**Mother:** [[Lucy Hopkinson]]  
+**Later spouse:** [[John W. Estabrooks]]  
+**Marriage:** December 12, 1839  
+**Child continuing this line:** [[Lowell Herbert Hopkinson]]  
+**Relationship to Lowell:** Documented mother  
+**Evidence status:** Confirmed by Lowell’s birth record
 
-Ann Matilda was unmarried when Lowell was born. Lowell’s birth record identifies her as his mother but leaves the father unnamed.
+### [[William Pillsbury Bailey]]
 
-A marriage intention between Ann Matilda Hopkinson and **William Pillsbury Bailey**, dated May 7, 1836—39 days before Lowell’s birth—is significant circumstantial evidence concerning Lowell’s possible paternity. No direct record identifying Bailey as Lowell’s father has yet been found.
+**Born:** October 13, 1816 — West Newbury, Massachusetts  
+**Died:** 1898 — location not yet confirmed  
+**Father:** [[Walter Bailey]]  
+**Mother:** [[Mary Pillsbury]]  
+**Later spouse:** [[Martha A. Chase]]  
+**Later marriage:** April 26, 1838  
+**Later spouse:** [[Harriet Chase Nichols]]  
+**Later marriage:** 1889  
+**Child continuing this line:** [[Lowell Herbert Hopkinson]]  
+**Relationship to Lowell:** Working biological father  
+**Evidence status:** Strong circumstantial inference
 
-[[Lowell’s Paternity|Examine the evidence concerning Lowell’s biological father →]]
+Ann Matilda Hopkinson and William Pillsbury Bailey filed a marriage intention on **May 7, 1836**. Lowell was born on **June 15, 1836**, only 39 days later.
 
-### [[Lowell Herbert Hopkinson]]
+Lowell’s surviving Bradford birth record identifies his mother as “Miss Ann Matilda” but does not name his biological father. No record showing that Ann Matilda and William completed their intended marriage has yet been found.
 
-**Born:** June 15, 1836  
-**Died:** 1904  
+Based on the timing and nature of the marriage intention, this archive treats William Pillsbury Bailey as Lowell’s biological father. Because no surviving record has yet been found that explicitly identifies William as Lowell’s father, the conclusion is classified as a **strong inference rather than confirmed direct-record evidence**.
+
+---
+
+## 8. [[Lowell Herbert Hopkinson]]
+
+**Born:** June 15, 1836 — Bradford, Massachusetts  
+**Died:** Reportedly May 2, 1904 — Groveland, Massachusetts  
 **Mother:** [[Ann Matilda Hopkinson]]  
-**Biological father:** Not identified in the surviving birth record  
-**Child in the direct line:** [[Harry Francis Hopkinson]]
+**Working biological father:** [[William Pillsbury Bailey]]  
+**Maternal grandparents:** [[Uriah Hopkinson]] and [[Lucy Hopkinson]]  
+**Spouse:** [[Margaret Metcalf]]  
+**Child continuing this line:** [[Harry Francis Hopkinson]]  
+**Evidence status:** Mother confirmed; biological father strongly inferred
 
-Lowell retained the Hopkinson surname inherited from his mother. He later worked as a shoemaker, served during the Civil War, was wounded and captured, and became severely disabled later in life.
+Lowell inherited and retained his unmarried mother’s Hopkinson surname. After Ann Matilda married and formed a separate Estabrooks household, Lowell was raised principally within the household of his maternal grandparents, Uriah and Lucy Hopkinson.
 
-## Later Generations
+The documented colonial Hopkinson descent therefore continues through Ann Matilda. Lowell’s working paternal biological ancestry continues through William Pillsbury Bailey and the Bailey and Pillsbury families.
 
-### [[Harry Francis Hopkinson]]
+Lowell later worked as a shoemaker and served as a Union soldier during the Civil War. He was wounded, captured, and held as a prisoner of war. Later records described him as paralyzed, bedridden, and a complete invalid.
 
-**Current dates:** 1868–1897  
+---
+
+## 9. [[Harry Francis Hopkinson]]
+
+**Born:** 1868 — location not yet confirmed  
+**Died:** 1897 — location not yet confirmed  
 **Father:** [[Lowell Herbert Hopkinson]]  
-**Child in the direct line:** [[Ralph L. Hopkinson Sr.]]
+**Mother:** [[Margaret Metcalf]]  
+**Spouse:** Not yet entered  
+**Child continuing this line:** [[Ralph L. Hopkinson Sr.]]  
+**Evidence status:** Research in progress
 
-### [[Ralph L. Hopkinson Sr.]]
+---
 
-**Current dates:** 1894–1946  
+## 10. [[Ralph L. Hopkinson Sr.]]
+
+**Born:** 1894 — location not yet confirmed  
+**Died:** 1946 — location not yet confirmed  
 **Father:** [[Harry Francis Hopkinson]]  
-**Child in the direct line:** [[Ralph L. Hopkinson Jr.]]
+**Mother:** Not yet entered  
+**Spouse:** Not yet entered  
+**Child continuing this line:** [[Ralph L. Hopkinson Jr.]]  
+**Evidence status:** Research in progress
 
-### [[Ralph L. Hopkinson Jr.]]
+---
 
-**Current dates:** 1920–2000  
+## 11. [[Ralph L. Hopkinson Jr.]]
+
+**Born:** 1920 — location not yet confirmed  
+**Died:** 2000 — location not yet confirmed  
 **Father:** [[Ralph L. Hopkinson Sr.]]  
-**Child in the direct line:** [[Dale Hopkinson]]
+**Mother:** Not yet entered  
+**Spouse:** [[Lillian Hopkinson]]  
+**Child continuing this line:** [[Dale Hopkinson]]  
+**Evidence status:** Research in progress
 
-### [[Dale Hopkinson]]
+---
 
-**Current dates:** 1946–2014  
+## 12. [[Dale Hopkinson]]
+
+**Born:** 1946 — location not yet confirmed  
+**Died:** 2014 — location not yet confirmed  
 **Father:** [[Ralph L. Hopkinson Jr.]]  
-**Child in the direct line:** [[Seth MacLean Hopkinson]]
+**Mother:** [[Lillian Hopkinson]]  
+**Spouse:** [[Deborah MacLean]]  
+**Child continuing this line:** [[Seth MacLean Hopkinson]]  
+**Evidence status:** Documented family relationship
 
-### [[Seth MacLean Hopkinson]]
+---
 
-**Born:** 1975  
+## 13. [[Seth MacLean Hopkinson]]
+
+**Born:** 1975 — location not published  
 **Father:** [[Dale Hopkinson]]  
-**Generation:** Present direct-line descendant represented in this archive
+**Mother:** [[Deborah MacLean]]  
+**Evidence status:** Present generation
 
-## Evidence Still Needed
+---
 
-Research priorities for the lineage include:
+## Lineage Summary
 
-- Completing the primary-record documentation for every parent-child link
-- Finding Ann Matilda Hopkinson’s death record
-- Determining what became of Ann Matilda after the currently documented censuses
-- Finding direct evidence identifying Lowell’s biological father
-- Documenting Lowell’s relationship with Uriah’s household
-- Reconciling conflicting names, dates, and relationships in published genealogies
-- Investigating family traditions involving Revolutionary War and Bunker Hill service
+[[Michael Hopkinson]]  
+→ [[Caleb Hopkinson Sr.]]  
+→ [[Caleb Hopkinson Jr.]]  
+→ [[Samuel Hopkinson]]  
+→ [[Silas Hopkinson]]  
+→ [[Uriah Hopkinson]]  
+→ [[Ann Matilda Hopkinson]] and [[William Pillsbury Bailey]]  
+→ [[Lowell Herbert Hopkinson]]  
+→ [[Harry Francis Hopkinson]]  
+→ [[Ralph L. Hopkinson Sr.]]  
+→ [[Ralph L. Hopkinson Jr.]]  
+→ [[Dale Hopkinson]]  
+→ [[Seth MacLean Hopkinson]]
 
-## Research Standard
+## Important Lineage Distinction
 
-The archive gives priority to:
+This line should not be described as an uninterrupted male-line or Y-chromosome Hopkinson descent.
 
-1. Vital and town records
-2. Census records
-3. Probate and land records
-4. Military and pension files
-5. Church and cemetery records
-6. Contemporary newspapers
-7. Published genealogies and online trees used as research leads
+Lowell’s documented descent from the colonial Hopkinson family and his Hopkinson surname passed through his mother:
 
-No relationship should be regarded as permanently settled merely because it appears in this lineage. Conflicting evidence will be preserved and stronger evidence will supersede earlier conclusions.
+**Uriah Hopkinson → Ann Matilda Hopkinson → Lowell Herbert Hopkinson**
 
-## Related Pages
+The archive’s working reconstruction of Lowell’s biological paternal ancestry is:
+
+**William Pillsbury Bailey → Lowell Herbert Hopkinson**
+
+The surname continued through Lowell and his descendants even though Lowell’s working biological father belonged to the Bailey family.
+
+## Evidence Classifications
+
+| Classification | Meaning |
+|---|---|
+| **Confirmed** | Supported by direct primary records or highly reliable contemporary evidence |
+| **Strong inference** | Strongly supported by the available evidence, but not explicitly stated in a surviving direct record |
+| **Unverified** | Reported in family history or secondary material but not independently confirmed |
+| **Unresolved** | Evidence is missing, incomplete, or conflicting |
+| **Research in progress** | The relationship is part of the working line, but its supporting evidence has not yet been fully presented in the archive |
+
+## Current Research Priorities
+
+- Confirm the birth and death locations of every person in the direct line
+- Complete the primary-record documentation for every parent-child relationship
+- Identify Ann Matilda Hopkinson’s death date and location
+- Search for direct evidence explicitly identifying William Pillsbury Bailey as Lowell’s father
+- Investigate the intended marriage between Ann Matilda and William
+- Document Lowell’s upbringing in Uriah and Lucy Hopkinson’s household
+- Complete the Bailey and Pillsbury ancestral branches
+- Reconcile conflicting dates and relationships found in published genealogies and online family trees
+- Investigate family traditions involving Revolutionary War and Bunker Hill service
+
+## Related Sections
 
 - [[People|People and Biographies]]
 - [[Historical Records]]
 - [[Military Service]]
 - [[Census Records]]
 - [[Vital Records|Birth, Marriage, and Death Records]]
+- [[Places]]
 - [[Research Questions]]
 - [[Research Standards]]
-- [[Sources]]
+- [[Sources|Sources and Bibliography]]
