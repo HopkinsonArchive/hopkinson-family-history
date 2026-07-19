@@ -1,6 +1,6 @@
 ---
 title: Michael Hopkinson
-updated: 07/19/2026 6:19 PM
+updated: 07/19/2026 6:20 PM
 aliases:
   - Michaell Hopkinson
   - Mighill Hobkinson
@@ -13,8 +13,6 @@ occupation:
   - Farmer
 evidence_status: Confirmed in Boston and Rowley; English origins unresolved
 ---
-
-# Michael Hopkinson
 
 **Born:** c. 1600, probably England; exact date and place not confirmed  
 **Died:** February 1648/49, Rowley, Massachusetts Bay Colony  
