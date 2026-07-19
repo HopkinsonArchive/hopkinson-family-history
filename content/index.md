@@ -1,6 +1,6 @@
 ---
 title: Hopkinson Family History
-updated: 07/19/2026 5:01 PM
+updated: 07/19/2026 5:03 PM
 description: A documentary archive of Hopkinson family genealogy, biographies, historical records, and ongoing research.
 ---
 
@@ -58,17 +58,17 @@ Evidence concerning Lowell’s possible biological father is examined separately
 
 ## Featured Family History
 
-### [[Lowell Herbert Hopkinson]]
+### [[Uriah Hopkinson]]
 
-Civil War soldier, shoemaker, former prisoner of war, and later a severely disabled veteran whose life is documented through military, census, pension, and newspaper evidence.
+Father of Ann Matilda Hopkinson and grandfather of Lowell Herbert Hopkinson. His household history, occupation, and role in Lowell’s childhood remain active areas of research.
 
 ### [[Ann Matilda Hopkinson]]
 
-Lowell’s mother and the crucial link through whom the colonial Hopkinson ancestry and surname passed to subsequent generations.
+Daughter of Uriah and mother of Lowell Herbert Hopkinson. She is the crucial link through whom the colonial Hopkinson ancestry and surname passed to subsequent generations.
 
-### [[Uriah Hopkinson]]
+### [[Lowell Herbert Hopkinson]]
 
-Ann Matilda’s father and a central figure in Lowell’s childhood household. His occupation, household history, and relationship with Lowell remain active areas of research.
+Civil War soldier, shoemaker, former prisoner of war, and later a severely disabled veteran whose life is documented through military, census, pension, and newspaper evidence.
 
 ## Historical Periods
 
