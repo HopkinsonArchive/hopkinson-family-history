@@ -1,6 +1,6 @@
 ---
-title:
-updated: 07/19/2026 5:05 PM
+title: Hopkinson Family Archive
+updated: 07/19/2026 5:08 PM
 description: A documentary archive of Hopkinson family genealogy, biographies, historical records, and ongoing research.
 ---
 
