@@ -1,6 +1,7 @@
 ---
 title: Silas Hopkinson
-updated: 07/19/2026 8:30 PM
+updated: 07/19/2026 11:26 PM
+quartz-properties-collapse: true
 aliases:
   - Lieutenant Silas Hopkinson
   - Lt. Silas Hopkinson

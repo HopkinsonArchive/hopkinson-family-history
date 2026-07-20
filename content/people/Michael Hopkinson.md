@@ -1,6 +1,7 @@
 ---
 title: Michael Hopkinson
-updated: 07/19/2026 6:20 PM
+updated: 07/19/2026 11:26 PM
+quartz-properties-collapse: true
 aliases:
   - Michaell Hopkinson
   - Mighill Hobkinson

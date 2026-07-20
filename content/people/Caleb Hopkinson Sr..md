@@ -1,5 +1,7 @@
 ---
 title: Caleb Hopkinson Sr.
+updated: 07/19/2026 11:26 PM
+quartz-properties-collapse: true
 aliases:
   - Caleb Hopkinson
   - Clerk Caleb Hopkinson

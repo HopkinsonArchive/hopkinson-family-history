@@ -1,6 +1,7 @@
 ---
 title: Lowell Herbert Hopkinson
-updated: 07/19/2026 11:07 PM
+updated: 07/19/2026 11:26 PM
+quartz-properties-collapse: true
 aliases:
   - Lowell H. Hopkinson
 born: 1836-06-15

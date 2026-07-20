@@ -1,6 +1,7 @@
 ---
 title: Samuel Hopkinson
-updated: 07/19/2026 8:04 PM
+updated: 07/19/2026 11:26 PM
+quartz-properties-collapse: true
 aliases:
   - Ensign Samuel Hopkinson
 birth_date: 1718-07-14

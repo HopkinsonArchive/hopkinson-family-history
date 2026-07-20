@@ -1,6 +1,7 @@
 ---
 title: Uriah Hopkinson
-updated: 07/19/2026 9:31 PM
+updated: 07/19/2026 11:26 PM
+quartz-properties-collapse: true
 aliases:
   - Uriah Hopkinson of Groveland
 birth_date: 1791-09-28
