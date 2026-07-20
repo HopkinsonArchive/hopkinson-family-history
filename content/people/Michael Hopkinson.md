@@ -1,6 +1,6 @@
 ---
 title: Michael Hopkinson
-updated: 07/20/2026 5:09 PM
+updated: 07/20/2026 5:35 PM
 quartz-properties-collapse: true
 aliases:
   - Michaell Hopkinson
@@ -23,7 +23,7 @@ cemetery_section:
 cemetery_plot:
 parents: []
 spouses:
-  - "[[people/Ann Unknown Hopkinson Trumble Swan|Ann]]"
+  - "[[people/Ann (Gott) Hopkinson|Ann (Gott) Hopkinson]]"
 children:
   - "[[people/Jonathan Hopkinson|Jonathan Hopkinson]]"
   - "[[people/Jeremiah Hopkinson|Jeremiah Hopkinson]]"
@@ -62,7 +62,7 @@ tags:
 > **Died:** before February 28, 1648/49, probably at Rowley, Massachusetts Bay Colony  
 > **Buried:** February 28, 1648/49, Rowley  
 > **Parents:** not identified  
-> **Spouse:** [[people/Ann Unknown Hopkinson Trumble Swan|Ann]], maiden name unresolved  
+> **Spouse:** [[people/Ann (Gott) Hopkinson|Ann (Gott) Hopkinson]], whose probable maiden surname is treated as a strong inference  
 > **Occupations:** probable weaver and farmer  
 > **Direct-line successor:** [[people/Caleb Hopkinson Sr.|Caleb Hopkinson Sr.]]  
 > **Evidence status:** documented in Boston and Rowley; origins and parentage unresolved
@@ -92,11 +92,15 @@ Michael's parents and exact birthplace have not been established. His probable E
 
 A Kildwick, Yorkshire, parish entry is reported for the marriage of a Michael Hopkinson and Anna Brigge on December 2, 1624. Online trees often identify that groom with the later Rowley settler and consequently assign the Rowley man parents named Daniel Hopkinson and Susan Emot. No record examined in this project connects the Kildwick groom directly to Boston or Rowley.[^kildwick]
 
-The proposed identification also conflicts with the age of Michael's Massachusetts widow. Ann reportedly testified on March 30, 1675/76 that she was about sixty, implying birth around 1615/16 and making her only about eight or nine in December 1624. The conflict could theoretically reflect two different Michaels, two wives both named Ann, or a substantially inaccurate reported age. No evidence presently establishes a second wife. The project therefore records the Rowley settler's wife as **Ann, maiden name unknown**, and treats the Kildwick identification and proposed parents as unverified.[^pope][^kildwick]
+The proposed identification also conflicts with the age of Michael's Massachusetts widow. Ann reportedly testified on March 30, 1675/76 that she was about sixty, implying birth around 1615/16 and making her only about eight or nine in December 1624. The conflict could theoretically reflect two different Michaels, two wives both named Ann, or a substantially inaccurate reported age. No evidence presently establishes a second wife. The project therefore treats the Kildwick identification and proposed parents as unverified.[^pope][^kildwick]
 
 ### Wife
 
-Michael's documented wife was [[people/Ann Unknown Hopkinson Trumble Swan|Ann]]. After Michael's death, she married John Trumble in 1650 and later Richard Swan on March 1, 1658/59. Her later estate and the 1657 court proceedings preserve the connection to her Hopkinson sons.[^pope][^court-division]
+Michael's documented wife was [[people/Ann (Gott) Hopkinson|Ann (Gott) Hopkinson]]. **Gott is treated here as her probable maiden surname by strong inference, not as a confirmed vital-record fact.** Her 1678 will left Caleb Hopkinson a chest described in the published probate transcription as one that “father Gott made.” In this context, “father Gott” most naturally indicates a familial Gott connection: Caleb's biological father was Michael Hopkinson, and his later stepfathers were John Trumble and Richard Swan. Although an honorific or another non-parental relationship cannot be absolutely excluded, Congregational ministers in seventeenth-century Massachusetts were not ordinarily styled “Father,” making that explanation less likely.[^ann-probate]
+
+The will does not identify “father Gott” more precisely or expressly state Ann's maiden name. Accordingly, the page title follows the project's working conclusion while preserving the evidentiary limitation. The frequently repeated claim that Ann was a daughter of the immigrant Charles Gott and Gift Palmer is not accepted: their documented 1625 marriage and known children do not fit Ann's reported birth around 1615/16. Her exact parentage remains unresolved.[^ann-probate][^pope][^gott]
+
+After Michael's death, Ann married John Trumble in August 1650 and later Richard Swan on March 1, 1658/59. Her later estate and the 1657 court proceedings preserve the connection to her Hopkinson sons.[^pope][^court-division][^ann-probate]
 
 ### Children
 
@@ -195,6 +199,7 @@ Michael died when Caleb was only days old. The direct surname line continues thr
 - His specialized loom equipment indicates that he probably worked as a weaver or textile producer.[^probate]
 - His land, crops, livestock, and agricultural equipment indicate that farming was another significant livelihood.[^probate]
 - He probably died at Rowley shortly before his recorded burial there.[^rowley-vr][^probate]
+- Gott was probably Ann's maiden surname. The principal evidence is her 1678 bequest to Caleb of a chest that “father Gott made,” considered together with the identities of Caleb's father and stepfathers.[^ann-probate]
 
 ### Unverified
 
@@ -208,7 +213,7 @@ Michael died when Caleb was only days old. The direct surname line continues thr
 
 - Michael's exact birth date, birthplace, parents, and English household.
 - His immigration date, ship, port of departure, and port of arrival.
-- Ann's maiden name and English origins.
+- Ann's exact Gott relationship, parentage, and English origins; although Gott is the project's probable maiden-name conclusion, the will does not expressly state the relationship.
 - The nature and duration of Michael's service to Jacob Elyott.
 - Michael's exact death date and cause of death.
 - The location of his burial within Rowley and whether a grave marker ever existed.
@@ -223,6 +228,8 @@ Michael died when Caleb was only days old. The direct surname line continues thr
 5. Obtain and compare the original Essex County probate file, General Court petition, and quarterly-court estate division with the published transcriptions.
 6. Investigate the boat share and Michael's neighbors for possible textile, fishing, transport, or trading associations.
 7. Search for a burial-ground record, plot evidence, or early monument transcription beyond the town burial entry.
+8. Examine the original manuscript of Ann's 1678 will, Essex County probate docket 26,876, to verify the published reading “father Gott” and determine whether handwriting or context supplies a more precise relationship.
+9. Search contemporary Gott probate, church, land, and court records for a man old enough to have been Ann's father or stepfather and for references to Ann under the surnames Hopkinson, Trumble, or Swan. Do not attach her to Charles Gott and Gift Palmer without evidence overcoming the chronological conflict.
 
 ## Sources
 
@@ -242,9 +249,13 @@ Michael died when Caleb was only days old. The direct surname line continues thr
 
 [^research-note]: WikiTree Puritan Great Migration Project discussions concerning Michael Hopkinson and the proposed Hopkinson daughters, accessed July 20, 2026. These collaborative discussions identify useful English and New England leads but do not replace the original records or resolve the immigrant's identity.
 
+[^ann-probate]: George Francis Dow, ed., *The Probate Records of Essex County, Massachusetts*, vol. 3, 1675–1681 (Salem, Mass.: Essex Institute, 1920), 253, will of Ann Swan of Rowley, dated July 4, 1678, proved September 24, 1678. The published transcription includes the bequest to Caleb Hopkinson of a chest that “father Gott made.” The original Essex County probate papers, docket 26,876, have not yet been examined in this project.
+
+[^gott]: Robert Charles Anderson, *The Great Migration Begins: Immigrants to New England, 1620–1633* (Boston: New England Historic Genealogical Society, 1995), profile of Charles Gott; see also the contemporary marriage record for Charles Gott and Gift Palmer at St. Andrew the Great, Cambridge, October 30, 1625. These records place the couple's marriage roughly a decade after Ann's inferred birth and do not establish her as their daughter.
+
 ## Related people
 
-- [[people/Ann Unknown Hopkinson Trumble Swan|Ann]] — wife
+- [[people/Ann (Gott) Hopkinson|Ann (Gott) Hopkinson]] — wife; Gott is her probable maiden surname by strong inference
 - Jonathan Hopkinson — infant son; no separate person page
 - [[people/Jonathan Hopkinson|Jonathan Hopkinson]] — son
 - [[people/Jeremiah Hopkinson|Jeremiah Hopkinson]] — son
