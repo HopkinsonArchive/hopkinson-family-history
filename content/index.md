@@ -12,7 +12,7 @@ tags:
 
 ![[assets/hopkinson-family-heritage-banner.png|Hopkinson Family Archive]]
 
-Hopkinson Family History documents more than four centuries of family history through genealogical research, biographies, vital records, censuses, probate files, military records, newspapers, cemetery records, town histories, and surviving family evidence.
+The Hopkinson Family History documents more than four centuries through genealogical research, biographies, vital records, censuses, probate files, military records, newspapers, cemetery records, town histories, and surviving family evidence.
 
 The currently reconstructed lineage begins with **[[Michael Hopkinson]]**, an early settler of Rowley, Massachusetts, and continues through documented descendants into the twentieth century.
 
