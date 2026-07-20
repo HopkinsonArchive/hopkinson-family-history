@@ -1,6 +1,6 @@
 ---
 title: Lowell Herbert Hopkinson
-updated: 07/19/2026 10:56 PM
+updated: 07/19/2026 11:02 PM
 aliases:
   - Lowell H. Hopkinson
 born: 1836-06-15
@@ -111,12 +111,12 @@ Lowell initially received a federal pension for his wartime arm wound and kidney
 
 | Date or period | Monthly pension |
 |---|---:|
-| Initial award | $5 |
-| September 17, 1890 | $8 |
-| November 12, 1895 | $12 |
-| Special act approved June 20, 1898 | $30 |
+| Initial award | &#36;5 |
+| September 17, 1890 | &#36;8 |
+| November 12, 1895 | &#36;12 |
+| Special act approved June 20, 1898 | &#36;30 |
 
-By December 1896 Lowell was described as **“paralyzed and bedridden,”** entirely helpless, and unable to care for himself. The report stated that he depended upon the charity of friends apart from his small pension. A bill initially proposed $50 per month; the Senate recommended $30, and the private act was approved June 20, 1898.
+By December 1896 Lowell was described as **“paralyzed and bedridden,”** entirely helpless, and unable to care for himself. The report stated that he depended upon the charity of friends apart from his small pension. A bill initially proposed &#36;50 per month; the Senate recommended &#36;30, and the private act was approved June 20, 1898.
 
 The report establishes complete disability by late 1896 without identifying its onset, anatomical pattern, or diagnosis.
 
