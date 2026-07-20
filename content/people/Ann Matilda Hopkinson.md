@@ -1,6 +1,6 @@
 ---
 title: Ann Matilda Hopkinson
-updated: 07/20/2026 12:13 AM
+updated: 07/20/2026 12:16 AM
 aliases:
   - Ann Matilda Estabrook
   - Ann M. Estabrook
@@ -138,7 +138,7 @@ Ann may have stitched shoe components at home or in a shop, but the census does 
 
 John R. Estabrooks died in 1864. His Essex County probate file, case **38586**, named Ann as his widow and an administrator of his estate alongside Samuel Elliott and George E. Elliott. John L., then nineteen, was identified as John’s son.
 
-The estate included multiple parcels and buildings appraised at approximately $3,300. Probate material described Ann as being in **“feeble health and not able to do much for her own support.”** She received a widow’s allowance of $400.
+The estate included multiple parcels and buildings appraised at approximately $3,300. Probate material described Ann as being in “**feeble health and not able to do much for her own support.**” She received a widow’s allowance of $400.
 
 This statement is the only presently known description of Ann’s health. It does not identify a disease or disability. Despite that assessment, the following year’s census recorded her working as a shoe stitcher, possibly in a limited or home-based capacity.
 
