@@ -1,6 +1,6 @@
 ---
 title: Samuel Hopkinson
-updated: 07/19/2026 11:26 PM
+updated: 07/20/2026 4:31 PM
 quartz-properties-collapse: true
 aliases:
   - Ensign Samuel Hopkinson
@@ -213,3 +213,4 @@ The direct line continues through his son Silas:
 - [[Elizabeth Green Palmer]] — mother-in-law
 - [[Silas Hopkinson]] — son and next direct-line ancestor
 - [[David Hopkinson]] — older brother and probable fellow member of the 1780 wartime committee
+```
