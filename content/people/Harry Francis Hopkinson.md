@@ -1,6 +1,6 @@
 ---
 title: Harry Francis Hopkinson
-updated: 07/20/2026 3:26 PM
+updated: 07/20/2026 3:32 PM
 quartz-properties-collapse: true
 aliases:
   - Harry F. Hopkinson
@@ -60,7 +60,7 @@ tags:
 > **Wife:** [[people/Flora Barnhill|Flora Barnhill]]  
 > **Children:** [[people/Marion Maude Hopkinson|Marion Maude Hopkinson]] and [[people/Ralph L. Hopkinson Sr.|Ralph L. Hopkinson Sr.]]  
 > **Occupation:** Not yet confirmed  
-> **Direct-line position:** Lowell Herbert Hopkinson → **Harry Francis Hopkinson** → Ralph L. Hopkinson Sr.  
+> **Direct-line position:** [[Lowell Herbert Hopkinson]] → **Harry Francis Hopkinson** → [[Ralph L. Hopkinson Sr.]]  
 > **Evidence status:** Birth, parentage, wife, children, death, and burial confirmed; marriage details, occupation, and cause of death unresolved
 
 **Harry Francis Hopkinson** was born at Groveland, Massachusetts, on October 4, 1868, the son of [[people/Lowell Herbert Hopkinson|Lowell Herbert Hopkinson]] and [[people/Margaret Metcalf|Margaret Metcalf]].[^1] He married [[people/Flora Barnhill|Flora Barnhill]] and became the father of two documented children, Marion Maude and Ralph L. Hopkinson.[^2][^3]
@@ -74,11 +74,11 @@ His death was followed ninety-six days later by the death of his five-year-old d
 | Event | Date and place | Status | Sources |
 |---|---|---|---|
 | Birth | October 4, 1868, Groveland, Massachusetts | **Confirmed** | Groveland birth transcription[^1] |
-| Parents | Lowell H. Hopkinson and Margaret Metcalf | **Confirmed** | Groveland birth transcription[^1] |
+| Parents | [[Lowell Herbert Hopkinson]] and Margaret Metcalf | **Confirmed** | Groveland birth transcription[^1] |
 | Marriage | Probably about 1890, apparently associated with Haverhill, Massachusetts | **Strong inference** for approximate date and place; original return unresolved | Marginal annotation in Harry's birth entry[^1] |
 | Wife | Flora Barnhill | **Confirmed** | Groveland records of the couple's children[^2][^3] |
 | Daughter | Marion Maude Hopkinson, born June 16, 1892, Groveland | **Confirmed** | Groveland birth transcription[^2] |
-| Son | Ralph L. Hopkinson Sr., born February 11, 1894, Groveland | **Confirmed**; later census date conflicts | Groveland birth entry and 1901 census[^3][^6] |
+| Son | [[Ralph L. Hopkinson Sr.]], born February 11, 1894, Groveland | **Confirmed**; later census date conflicts | Groveland birth entry and 1901 census[^3][^6] |
 | Death | November 1, 1897, Groveland | **Confirmed** | Groveland death transcription and annual report[^4][^7] |
 | Cause of death | Not yet confirmed | **Unresolved** | Complete original death record still needed[^4] |
 | Burial | Riverview Cemetery, Holly 1, plot 290, Groveland | **Confirmed** | Annual report and town cemetery database[^7][^8] |
