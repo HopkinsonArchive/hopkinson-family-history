@@ -1,6 +1,6 @@
 ---
 title: Lowell Herbert Hopkinson
-updated: 07/19/2026 10:49 PM
+updated: 07/19/2026 10:51 PM
 aliases:
   - Lowell H. Hopkinson
 born: 1836-06-15
@@ -150,7 +150,7 @@ Severe trauma, imprisonment, infection, malnutrition, and prolonged physiologica
 The complete federal pension file may contain examinations describing muscular wasting, reflexes, sensation, speech, swallowing, contractures, and the sequence of functional loss.
 
 ## Home, death, and burial
-![[assets/lowell-h-hopkinsons-house-groveland-ma.jpg|Lowell H. Hopkinson’s house in Groveland, Massachusetts, photographed in 1899]]
+
 Woodbury’s 1899 glass-plate photograph shows a two-story light-colored dwelling, an adjacent wooden structure, and a picket fence. It records the setting of Lowell’s profound disability, but its catalogue title does not by itself prove legal ownership. See [Lowell H. Hopkinson’s house, Historic New England](https://www.historicnewengland.org/explore/collections-access/gusn/394359).
 
 Lowell reportedly died in Groveland on **May 2, 1904**, aged sixty-seven, and was buried in Riverview Cemetery. The original death record, cemetery register, and obituary have not yet been examined. Margaret survived him and reportedly died in 1917; whether she filed a widow’s pension claim remains unresolved.
