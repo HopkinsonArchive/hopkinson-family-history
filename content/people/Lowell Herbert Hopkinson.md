@@ -65,7 +65,7 @@ Lowell retained his mother’s surname. By the 1850 census, at age thirteen, he 
 
 Lowell became a **shoemaker**, an occupation recorded in both military enlistments and characteristic of the Merrimack Valley economy. Ann was later recorded as a shoe stitcher, while other relatives worked as cordwainers or in shoe factories.
 
-Lowell married **Margaret Metcalf**. Their reported children include Clarence E., Lewis Brown, Annie Low, and [[Harry Francis Hopkinson|Harry Francis Hopkinson]], who continues the direct line.
+Lowell married **Margaret Metcalf**. Their reported children include Clarence E., Lewis Brown, Annie Low, and [[Harry Francis Hopkinson]], who continues the direct line.
 
 ## First enlistment: 11th Massachusetts Infantry
 
