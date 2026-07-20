@@ -1,6 +1,6 @@
 ---
 title: Lowell Herbert Hopkinson
-updated: 07/20/2026 3:50 PM
+updated: 07/20/2026 3:52 PM
 quartz-properties-collapse: true
 aliases:
   - Lowell H. Hopkinson
@@ -78,7 +78,7 @@ tags:
 
 **Lowell Herbert Hopkinson** was born in Bradford, Massachusetts, on June 15, 1836, to [[people/Ann Matilda Hopkinson|Ann Matilda Hopkinson]]. His birth record does not name a father. Ann's marriage intention with [[people/William Pillsbury Bailey|William Pillsbury Bailey]], filed thirty-nine days before Lowell's birth, makes William the strongly inferred biological father, but direct proof has not been found.[^birth-parentage]
 
-By 1850 Lowell lived in Groveland with his maternal grandparents, [[people/Uriah Hopkinson|Uriah Hopkinson]] and [[people/Inez Lucy Chase|Inez “Lucy” Chase]]. He became a shoemaker, married [[people/Margaret Metcalf|Margaret Metcalf]], and raised a family in Groveland. During the Civil War he was wounded at Second Bull Run, reenlisted, was captured at Cold Harbor, survived approximately six months in Confederate captivity, and completed his service as a sergeant.[^census-1850][^roster-11th][^roster-59th]
+By 1850 Lowell lived in Groveland with his maternal grandparents, [[Uriah Hopkinson]] and [[people/Inez Lucy Chase|Inez “Lucy” Chase]]. He became a shoemaker, married [[Margaret Metcalf]], and raised a family in Groveland. During the Civil War he was wounded at Second Bull Run, reenlisted, was captured at Cold Harbor, survived approximately six months in Confederate captivity, and completed his service as a sergeant.[^census-1850][^roster-11th][^roster-59th]
 
 Lowell later served as a Groveland constable and belonged to a local Grand Army of the Republic post. By December 1896 a congressional report described him as paralyzed, bedridden, entirely helpless, and unable to care for himself. The cause and progression of that disability remain unknown.[^constable][^gar][^pension-report]
 
@@ -87,8 +87,8 @@ Lowell later served as a Groveland constable and belonged to a local Grand Army 
 | Event | Date and place | Status | Sources |
 |---|---|---|---|
 | Birth | June 15, 1836; Bradford, Essex County, Massachusetts | **Confirmed**; one later transcription gives June 13 | [^birth-parentage] |
-| Parentage | Mother: [[people/Ann Matilda Hopkinson|Ann Matilda Hopkinson]]; probable biological father: [[people/William Pillsbury Bailey|William Pillsbury Bailey]] | Mother **Confirmed**; father **Strong inference** | [^birth-parentage] |
-| Marriage | [[people/Margaret Metcalf|Margaret Metcalf]]; date and place not yet established here | Relationship **Confirmed**; event details **Unresolved** | [^family] |
+| Parentage | Mother: [[Ann Matilda Hopkinson]]; probable biological father: [[William Pillsbury Bailey]] | Mother **Confirmed**; father **Strong inference** | [^birth-parentage] |
+| Marriage | [[Margaret Metcalf]]; date and place not yet established here | Relationship **Confirmed**; event details **Unresolved** | [^family] |
 | Occupation | Shoemaker; Groveland, Massachusetts | **Confirmed** | [^roster-11th][^roster-59th] |
 | Military service | 11th Massachusetts Infantry, 1861–1862; 59th/57th Massachusetts Infantry, 1863–1865 | **Confirmed** | [^roster-11th][^roster-59th][^pension-report] |
 | Later disability | Described as paralyzed, bedridden, helpless, and unable to care for himself by December 1896 | **Confirmed** as a contemporary description; diagnosis **Unresolved** | [^pension-report] |
@@ -105,10 +105,10 @@ Lowell married Margaret Metcalf. The following child list is preserved from the 
 
 | Child | Birth–death | Relationship evidence | Notes |
 |---|---|---|---|
-| [[people/Clarence E. Hopkinson|Clarence E. Hopkinson]] | Reported 1857–1859 | **Unverified** in this review | Original vital records needed |
-| [[people/Lewis Brown Hopkinson|Lewis Brown Hopkinson]] | Reported 1859–1951 | **Unverified** in this review | Original birth record needed |
-| [[people/Annie Low Hopkinson|Annie Low Hopkinson]] | Born 1861; death not established here | **Unverified** in this review | Death and later-life identity unresolved |
-| [[people/Harry Francis Hopkinson|Harry Francis Hopkinson]] | 1868–1897 | **Confirmed** direct-line relationship | Direct-line successor |
+| [[Clarence E. Hopkinson]] | Reported 1857–1859 | **Unverified** in this review | Original vital records needed |
+| [[Lewis Brown Hopkinson]] | Reported 1859–1951 | **Unverified** in this review | Original birth record needed |
+| [[Annie Low Hopkinson]] | Born 1861; death not established here | **Unverified** in this review | Death and later-life identity unresolved |
+| [[Harry Francis Hopkinson]] | 1868–1897 | **Confirmed** direct-line relationship | Direct-line successor |
 
 ## Chronology
 
