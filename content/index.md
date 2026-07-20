@@ -1,7 +1,7 @@
 ---
-title: Hopkinson Family Archive
+title: Hopkinson Family History
 description: A documentary archive of Hopkinson family genealogy, biographies, historical records, and continuing research.
-updated: 07/19/2026 7:23 PM
+updated: 07/19/2026 11:28 PM
 tags:
   - archive-index
   - hopkinson-family
