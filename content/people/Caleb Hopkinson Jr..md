@@ -1,309 +1,253 @@
 ---
 title: Caleb Hopkinson Jr.
-updated: 07/19/2026 11:25 PM
+updated: 07/20/2026 4:43 PM
 quartz-properties-collapse: true
 aliases:
   - Ensign Caleb Hopkinson
   - Caleb Hopkinson II
+page_type: person
+person_id: caleb-hopkinson-jr-1681
+description: Bradford landholder, militia ensign, East Precinct church founder, and direct-line Hopkinson ancestor who died in a cart accident in 1730.
 birth_date: 1681-01-07
-birth_place: Bradford, Massachusetts Bay Colony
+birth_date_display: January 7, 1681
+birth_date_status: confirmed
+birth_place: Bradford, Essex County, Massachusetts Bay Colony
 death_date: 1730-11-09
-death_place: Bradford, Province of Massachusetts Bay
+death_date_display: November 9, 1730
+death_date_status: confirmed
+death_place: Bradford, Essex County, Province of Massachusetts Bay
+cause_of_death: Killed when a cart overturned upon him
+cause_of_death_status: confirmed
 burial_place: Ancient Burying Ground, East Bradford, now Groveland, Massachusetts
-father: "[[Caleb Hopkinson Sr.]]"
-mother: "[[Sarah Wallingford]]"
-spouse:
-  - "[[Martha Spofford]]"
-direct_line_child: "[[Samuel Hopkinson]]"
+cemetery_section:
+cemetery_plot:
+parents:
+  - "[[people/Caleb Hopkinson Sr.|Caleb Hopkinson Sr.]]"
+  - "[[people/Sarah Wallingford|Sarah Wallingford]]"
+spouses:
+  - "[[people/Martha Spofford|Martha Spofford]]"
+children:
+  - "[[people/John Hopkinson (1706–1784)|John Hopkinson]]"
+  - "[[people/David Hopkinson (1708–1794)|David Hopkinson]]"
+  - "[[people/Sarah Hopkinson (1710–after 1764)|Sarah Hopkinson]]"
+  - "[[people/Nathaniel Hopkinson (1713–1733)|Nathaniel Hopkinson]]"
+  - "[[people/Martha Hopkinson (1714–1716)|Martha Hopkinson]]"
+  - "[[people/Ebenezer Hopkinson (1716–1718)|Ebenezer Hopkinson]]"
+  - "[[people/Samuel Hopkinson|Samuel Hopkinson]]"
+  - "[[people/Ebenezer Hopkinson (1721–1796)|Ebenezer Hopkinson]]"
+  - "[[people/Caleb Hopkinson (born 1723)|Caleb Hopkinson]]"
+direct_line: true
+direct_line_predecessor: "[[people/Caleb Hopkinson Sr.|Caleb Hopkinson Sr.]]"
+direct_line_successor: "[[people/Samuel Hopkinson|Samuel Hopkinson]]"
+family_lines:
+  - Hopkinson
+  - Spofford
+occupations: []
+military_service: true
 evidence_status: confirmed
+research_status: active
+last_reviewed: 2026-07-20
 tags:
   - person
-  - hopkinson
-  - direct-line
-  - colonial-america
-  - massachusetts
-  - essex-county
-  - bradford-massachusetts
-  - groveland-massachusetts
-  - colonial-militia
-  - ensign
-  - congregational-church
-  - landowner
-  - accidental-death
-  - seventeenth-century
-  - eighteenth-century
+  - family/hopkinson
+  - family/spofford
+  - lineage/direct
+  - century/17th
+  - century/18th
+  - place/massachusetts
+  - place/massachusetts/bradford
+  - place/massachusetts/groveland
+  - military/massachusetts-militia
+  - military/rank/ensign
+  - religion/congregational
+  - religion/church-member
+  - status/military-service-unresolved
 ---
 
-**Caleb Hopkinson Jr.** was born January 7, 1681, in Bradford, Massachusetts Bay Colony, the only documented child of [[Caleb Hopkinson Sr.]] and [[Sarah Wallingford]]. He married [[Martha Spofford]] in 1705 and became the father of nine children, including the direct-line ancestor [[Samuel Hopkinson]].
+> [!summary] Profile
+> **Born:** January 7, 1681, Bradford, Massachusetts Bay Colony  
+> **Died:** November 9, 1730, Bradford, Province of Massachusetts Bay  
+> **Parents:** [[people/Caleb Hopkinson Sr.|Caleb Hopkinson Sr.]] and [[people/Sarah Wallingford|Sarah Wallingford]]  
+> **Spouse:** [[people/Martha Spofford|Martha Spofford]]  
+> **Direct-line child:** [[people/Samuel Hopkinson|Samuel Hopkinson]]  
+> **Known roles:** Massachusetts militia ensign and founding member of Bradford’s East Precinct Congregational church  
+> **Evidence status:** Confirmed identity and principal life events; property history and the extent of his militia service require further documentation
 
-Caleb was a landholding resident of Bradford’s East Precinct, held the colonial militia rank of ensign, and was one of the original members of the Congregational church organized there in 1727. He died in 1730 after a cart overturned upon him.
+**Caleb Hopkinson Jr.** was born at Bradford on January 7, 1681, the son of [[Caleb Hopkinson Sr.]] and [[Sarah Wallingford]]. He married [[Martha Spofford]] in 1705. Bradford’s records name nine children of the couple, including the direct-line ancestor [[Samuel Hopkinson]].[^1]
 
-> [!summary] Evidence status
-> Caleb’s birth, parentage, marriage, children, militia title, church membership, death, cause of death, age, and burial are supported by Bradford town, church, cemetery, and estate records.
->
-> His precise occupation, militia company, commission date, and complete probate inventory have not yet been confirmed.
+Caleb was styled **Ensign** in both a church death record and his gravestone. In 1727 he was among the original members of the Congregational church formed for Bradford’s East Precinct, the district later incorporated as Groveland. He died at forty-nine when a cart overturned upon him, an unusually specific cause preserved in the contemporary church record.[^2][^3]
 
 ## Vital information
 
-| Event          | Information                                            | Evidence                                     |
-| -------------- | ------------------------------------------------------ | -------------------------------------------- |
-| Birth          | January 7, 1681                                        | Bradford town record                         |
-| Birthplace     | Bradford, Massachusetts Bay Colony                     | Bradford town record                         |
-| Father         | [[Caleb Hopkinson Sr.]]                                | Bradford birth record                        |
-| Mother         | [[Sarah Wallingford]]                                  | Bradford birth record                        |
-| Marriage       | December 19, 1705                                      | Bradford marriage record                     |
-| Wife           | [[Martha Spofford]]                                    | Bradford marriage record                     |
-| Death          | November 9, 1730                                       | Bradford church and gravestone records       |
-| Cause of death | Injuries caused by an overturned cart                  | Bradford Second Congregational Church record |
-| Burial         | Ancient Burying Ground at East Bradford, now Groveland | Gravestone record                            |
-| Age at death   | Forty-nine                                             | Birth and gravestone records                 |
+| Event | Date and place | Status | Sources |
+|---|---|---|---|
+| Birth | January 7, 1681; Bradford, Massachusetts Bay Colony | Confirmed | Bradford town-record transcription[^1] |
+| Parents | [[Caleb Hopkinson Sr.]] and [[Sarah Wallingford]] | Confirmed | Bradford town-record transcription[^1] |
+| Marriage | December 19, 1705; Bradford | Confirmed | Bradford marriage-record transcription[^1] |
+| Spouse | [[Martha Spofford]] | Confirmed | Bradford marriage record; Spofford family history[^1][^4] |
+| Death | November 9, 1730; Bradford | Confirmed | Second Congregational Church and gravestone transcriptions[^1][^2] |
+| Cause of death | A cart overturned upon him | Confirmed | Second Congregational Church transcription[^1] |
+| Burial | Ancient Burying Ground at East Bradford, now Groveland | Confirmed | Gravestone transcription designated G.R.2; independent published inscription[^1][^2] |
 
-## Childhood and family circumstances
+## Family and relationships
 
-Caleb was the son of [[Caleb Hopkinson Sr.]] and [[Sarah Wallingford]]. Bradford recorded his birth as:
+### Parents and the connected Hopkinson–Spofford household
 
-> Caleb, son of Caleb and Sarah, January 7, 1681.
+Caleb’s parents married at Bradford on November 25, 1679. His mother, Sarah Wallingford, died on February 9, 1682, when he was about thirteen months old.[^1] The surviving Bradford record identifies Caleb as the couple’s child; no additional child of this marriage has been established in the sources examined for this page.
 
-His parents had married on November 25, 1679. Sarah Wallingford died on February 9, 1682, when Caleb was approximately thirteen months old. Caleb therefore grew up without his biological mother.
+On June 12, 1701, Caleb Sr. married **Sarah Wheeler Spofford**, widow of John Spofford. Her daughter Martha subsequently married Caleb Jr. on December 19, 1705.[^1][^4] Consequently, Caleb Jr. and Martha had become step-siblings through their widowed parents’ marriage four years before their own marriage. They were not biologically related.
 
-His father remained unmarried for approximately nineteen years. On June 12, 1701, Caleb Sr. married the widow **Sarah Wheeler Spofford**.
+### Marriage
 
-Sarah Wheeler was the mother of [[Martha Spofford]], whom Caleb Jr. married four years later. Caleb and Martha were not biologically related, but their widowed parents’ marriage made them step-siblings before their own marriage.
+The Bradford record names the couple as “Caleb, jr., and Martha Spofford” and dates their marriage to December 19, 1705.[^1] Their marriage continued until Caleb’s accidental death in November 1730. Martha survived him and married Ebenezer Kimball on June 5, 1732, according to the Bradford marriage transcription.[^1]
 
-## Marriage to Martha Spofford
+### Children
 
-Caleb married [[Martha Spofford]] at Bradford on December 19, 1705.
+Bradford’s town records identify nine children of Caleb and Martha.[^1]
 
-Martha was the daughter of John Spofford and Sarah Wheeler. She belonged to the early Spofford family associated with Rowley, Bradford, and Georgetown.
+| Child | Birth–death | Relationship evidence | Notes |
+|---|---|---|---|
+| [[John Hopkinson]] | Born September 10, 1706; death not assessed here | Bradford birth record[^1] | Eldest recorded child |
+| [[David Hopkinson]] | Born November 26, 1708; death not assessed here | Bradford birth record[^1] | A later historical account says the family homestead passed to him[^5] |
+| [[Sarah Hopkinson]] | Born October 22, 1710; death not assessed here | Bradford birth record[^1] | Later life requires original-record development |
+| [[Nathaniel Hopkinson]] | January 4, 1712/13–June 4 or 5, 1733 | Bradford birth, church, and gravestone transcriptions[^1] | Church and stone differ by one day |
+| [[Martha Hopkinson]] | October 5, 1714–August 14, 1716 | Bradford birth and gravestone transcriptions[^1] | Died in her second year |
+| [[Ebenezer Hopkinson]] | August 11, 1716–March 28, 1718 | Bradford birth and gravestone transcriptions[^1] | Died aged about one year and eight months |
+| [[Samuel Hopkinson]] | July 14, 1718–February 1, 1785 | Bradford birth record[^1] | Direct-line successor |
+| [[Ebenezer Hopkinson]] | Born January 13, 1720/21; death not assessed here | Bradford birth record[^1] | Received the name of his deceased brother |
+| [[Caleb Hopkinson]] | Born February 11, 1723; death unresolved | Bradford birth record[^1] | Youngest recorded child |
 
-The Bradford marriage record identifies the couple as:
+The town transcription fixes Samuel’s birth as **July 14, 1718**. The June 14 date repeated in some derivative genealogies is not supported by the Bradford entry and should not be used unless an original record demonstrates otherwise.[^1]
 
-> Caleb, Jr., and Martha Spofford, December 19, 1705.
+## Chronology
 
-Their marriage lasted almost twenty-five years, ending with Caleb’s accidental death in November 1730.
+| Date | Event | Place | Status | Sources |
+|---|---|---|---|---|
+| January 7, 1681 | Born to Caleb Hopkinson Sr. and Sarah Wallingford | Bradford | Confirmed | Bradford town-record transcription[^1] |
+| February 9, 1682 | His mother, Sarah Wallingford, died | Bradford | Confirmed | Bradford death-record transcription[^1] |
+| June 12, 1701 | His father married widow Sarah Wheeler Spofford, Martha’s mother | Bradford | Confirmed | Bradford marriage record[^1] |
+| December 19, 1705 | Married Martha Spofford | Bradford | Confirmed | Bradford marriage record[^1] |
+| 1706–1723 | Nine children were recorded to Caleb and Martha | Bradford | Confirmed | Bradford birth records[^1] |
+| 1724 | A later deed-based genealogy reports a Bradford land purchase from Caleb | Bradford | Unverified | Later Hale genealogy citing Essex Deeds 44:77–78; deed not inspected[^6] |
+| June 7, 1727 | Named among the original members of the East Precinct church | East Bradford | Confirmed | Published transcription of church organization[^3] |
+| July 28, 1727 | Martha was admitted to the East Precinct church with women transferred from the First Church | East Bradford | Confirmed | Published transcription of church records[^3] |
+| November 9, 1730 | Died when a cart overturned upon him | Bradford | Confirmed | Church and gravestone transcriptions[^1][^2] |
+| 1732 | A derivative account reports a division of his estate among Martha and surviving sons | Essex County | Unverified | Original probate proceeding not yet inspected |
+| June 5, 1732 | Widow Martha married Ebenezer Kimball | Bradford | Confirmed | Bradford marriage-record transcription[^1] |
 
-Martha survived him and married **Ebenezer Kimball** on June 5, 1732. Her exact death date requires additional confirmation.
+## Early life and marriage
 
-## Children
+Caleb was born into the Bradford branch of a family established in Massachusetts by his grandfather [[people/Michael Hopkinson|Michael Hopkinson]]. His biological mother died during his infancy. The records examined do not identify who provided his daily care during childhood, so no particular household arrangement should be asserted.
 
-Bradford recorded nine children of Caleb and Martha:
+The 1701 marriage between Caleb Sr. and Sarah Wheeler Spofford joined two established local families. Four years later, the marriage of their children Caleb Jr. and Martha created a second Hopkinson–Spofford union within the connected household network.[^1][^4]
 
-| Child | Birth | Later information |
-|---|---:|---|
-| [[John Hopkinson]] | September 10, 1706 | Eldest son named in the estate division |
-| [[David Hopkinson]] | November 26, 1708 | Eventually received the Hopkinson homestead |
-| [[Sarah Hopkinson]] | October 22, 1710 | Survived childhood |
-| [[Nathaniel Hopkinson]] | January 4, 1712/13 | Died June 4 or 5, 1733, aged about twenty |
-| [[Martha Hopkinson]] | October 5, 1714 | Died August 14, 1716 |
-| [[Ebenezer Hopkinson (1716–1718)]] | August 11, 1716 | Died March 28, 1718 |
-| [[Samuel Hopkinson]] | July 14, 1718 | Direct-line ancestor |
-| [[Ebenezer Hopkinson]] | January 13, 1720/21 | Named after his deceased brother |
-| [[Caleb Hopkinson]] | February 11, 1723 | Youngest recorded child |
+## East Precinct church
 
-The birth record establishes **July 14, 1718**, as Samuel’s birth date. The June 14 date appearing in some compiled family trees appears to be a transcription error.
+Bradford’s East Precinct was incorporated on June 17, 1726, and its Congregational church was organized on June 7, 1727. A published transcription names **Caleb Hopkinson** among the original male members. On July 28, Martha Hopkinson was among the women dismissed from Bradford’s First Church and admitted to the new congregation.[^3]
 
-The reuse of the name Ebenezer was customary for the period. After the first Ebenezer died in infancy, Caleb and Martha gave the name to a later son.
+The church membership establishes a substantive connection to East Bradford. In 1850 this part of Bradford was incorporated as Groveland, which explains why modern genealogies sometimes place Caleb’s eighteenth-century events in Groveland. Contemporary events should nevertheless be described under the Bradford jurisdiction then in force.[^1]
 
-## The Hopkinson homestead
+## Militia rank
 
-A historical survey of Bradford residences reports that Caleb lived in a Hopkinson family house on Main Street in the part of Bradford that later became Groveland.
+Caleb’s Second Congregational Church death entry calls him **Ensign**, and the same title appears on his gravestone.[^1][^2] These independent record types confirm that he held the rank. They do not identify his company, commission date, commanders, duties, or participation in a campaign.
 
-The reconstructed succession of the property was:
+The frontmatter records military service because the militia rank itself is documented. No war or field-service claim is presently made, and no historical-event tag is applied.
 
-1. [[Caleb Hopkinson Sr.]] probably occupied the house after settling in Bradford.
-2. Caleb Jr. subsequently lived there.
-3. Caleb Jr. left it to his son [[David Hopkinson]].
-4. David divided the house and land between his sons Nathaniel and Daniel.
-5. Portions of the property continued to be occupied by Hopkinson descendants into the nineteenth century.
+## Property, probate, and estate
 
-The account identifies Caleb as an established householder with inheritable real property. Other records show him participating in Bradford land transactions, including a conveyance involving Nicholas Wallingford.
+A nineteenth-century survey of Bradford residences states that Caleb Jr. lived in a Hopkinson house on Main Street, that Caleb Sr. probably lived there earlier, and that Caleb Jr. left the property to his son David. It further traces later divisions of the house and land through David’s descendants.[^5] This is useful property history, but it was written long after Caleb’s lifetime. Until its cited land and probate trail is reconstructed, Caleb’s occupancy and the exact succession of the homestead are classified as **strong inference**, not confirmed fact.
 
-Caleb also sold Bradford land in 1724. The underlying Essex County deeds should eventually be inspected to determine the property descriptions, acreage, boundaries, consideration, and occupational descriptions used for him.
+A later Hale genealogy, apparently drawing from Essex County deed books, reports that land was bought from “Caleb Hopkinson of Bradford” in 1724 and cites Essex Deeds 44:77–78.[^6] The original deed has not been inspected for this project. It therefore supports a focused deed search but does not establish Caleb’s occupation or the complete extent of his property.
 
-> [!note] Occupation
-> Caleb clearly held and transferred real property, but no record examined so far explicitly identifies his occupation. He should not yet be described as a farmer, husbandman, or tradesman merely because he owned land.
+The existing page also preserved a report that a 1732 estate division named widow Martha and Caleb’s six surviving sons: John, David, Nathaniel, Samuel, Ebenezer, and Caleb. Because the original probate document and a dependable full transcription have not yet been examined, that detailed distribution remains **unverified**. In particular, no conclusion should yet be drawn about daughter Sarah’s inheritance.
 
-## Ensign in the colonial militia
+No inspected record assigns Caleb an occupation. Landholding and estate transmission do not by themselves justify calling him a farmer, husbandman, yeoman, or tradesman.
 
-Both Caleb’s church death record and gravestone call him **Ensign Caleb Hopkinson**.
+## Death and burial
 
-An ensign was a commissioned junior officer in a colonial militia company, traditionally responsible for carrying or protecting the company’s colors. The title indicates that Caleb occupied a recognized position in the local military and civic hierarchy.
+Caleb died on November 9, 1730. Bradford’s Second Congregational Church recorded that he was “bro’t to his end by the turning over of a Cart on him.”[^1] The wording directly confirms the cause but does not say where the accident occurred, what the cart carried, what Caleb was doing, whether he died immediately, or whether the accident was occupational.
 
-No record has yet been found establishing:
-
-- The date of his commission
-- His particular company
-- His commanding officers
-- Whether he participated in active military operations
-- Whether the position was principally a local peacetime office
-
-His rank is **confirmed**, but participation in any particular war or campaign remains **unverified**.
-
-## Bradford’s East Precinct church
-
-Bradford’s East Precinct was incorporated on June 17, 1726. A Congregational church for the new precinct was organized on June 7, 1727.
-
-Caleb Hopkinson appears among the original men who constituted the church. Martha Hopkinson appears among the women dismissed from Bradford’s First Church and admitted into the new East Precinct congregation.
-
-Their participation shows that the family was firmly established in East Bradford and involved in organizing one of the community’s principal institutions.
-
-The East Precinct later became part of the town of Groveland. This historical boundary change explains why later sources sometimes assign Caleb’s life events directly to Groveland, even though Bradford was the correct municipality during his lifetime.
-
-## Fatal cart accident
-
-Caleb died on November 9, 1730, at the age of forty-nine.
-
-Bradford’s Second Congregational Church recorded that Ensign Caleb was:
-
-> “bro’t to his end by the turning over of a Cart on him”
-
-The statement confirms that an overturned cart caused his death. It does not establish:
-
-- Where the accident happened
-- What the cart was carrying
-- Whether Caleb was driving, riding, loading, or working beside it
-- Whether he died immediately or survived briefly
-- Whether the accident was related to farming, transportation, construction, or another activity
-
-The specificity of the church entry nevertheless gives a rare contemporary description of how a colonial ancestor died.
-
-## Burial and gravestone
-
-Caleb was buried in the Ancient Burying Ground at East Bradford, now in Groveland, Massachusetts.
-
-His gravestone was transcribed as:
+His gravestone was recorded at the Ancient Burying Ground in East Bradford, now Groveland. The published inscription reads:
 
 > Here lyes buried  
 > the body of Ensign  
 > Caleb Hopkinson  
 > who died November  
 > the 9th 1730 in ye  
-> 49 year of his age
+> 49 year of his age[^2]
 
-The inscription independently supports his militia title, death date, age, and burial in East Bradford.
+The stone independently confirms his title, death date, approximate age, and burial place.
 
-## Estate settlement
+## Direct-line position
 
-Caleb apparently died without completing the distribution of his property among his children. A 1732 division of his estate reportedly named:
+Caleb occupies the third position in the published direct line:
 
-- His widow, Martha
-- John, identified as the eldest son
-- David
-- Nathaniel
-- Samuel
-- Ebenezer
-- Caleb
+[[people/Michael Hopkinson|Michael Hopkinson]]  
+→ [[people/Caleb Hopkinson Sr.|Caleb Hopkinson Sr.]]  
+→ **Caleb Hopkinson Jr.**  
+→ [[people/Samuel Hopkinson|Samuel Hopkinson]]  
+→ [[people/Silas Hopkinson|Silas Hopkinson]]
 
-These were all six sons living after Caleb’s death.
-
-The children Martha and the first Ebenezer had already died. Sarah was not included in the reported list of sons and may have been handled separately, possibly because of an earlier marriage settlement or a different form of inheritance. The complete probate proceeding must be examined before reaching a conclusion about her share.
-
-The estate division independently supports the parent-child relationship between Caleb and the direct-line ancestor [[Samuel Hopkinson]].
-
-> [!warning] Probate limitation
-> The reported estate division is strongly supported by genealogical source citations, but the complete original probate file and inventory have not yet been examined for this project.
-
-## Historical significance
-
-Caleb’s surviving records present him as an established member of early East Bradford:
-
-- He belonged to the second generation of his family born in Massachusetts.
-- He occupied a multigenerational family homestead.
-- He bought, held, and transferred land.
-- He held the colonial militia rank of ensign.
-- He and Martha helped establish the East Precinct Congregational church.
-- His estate supported a household containing several minor children.
-- His descendants retained the family property for multiple generations.
-
-His death under an overturned cart provides an unusually specific personal event in a period when many lives survive only as names and dates.
+The Bradford birth record directly identifies Samuel as the son of Caleb Jr. and Martha, making this generational link confirmed.[^1]
 
 ## Evidence assessment
 
 ### Confirmed
 
-- Birth on January 7, 1681
-- Birth in Bradford
-- Parentage from Caleb Sr. and Sarah Wallingford
-- Marriage to Martha Spofford
-- Marriage on December 19, 1705
-- Nine recorded children
-- Samuel’s birth on July 14, 1718
-- Residence in East Bradford
-- Membership in the East Precinct church
-- Rank of ensign
-- Death on November 9, 1730
-- Death caused by an overturned cart
-- Burial in the East Bradford burying ground
-- Gravestone identifying his age and rank
+- Caleb was born at Bradford on January 7, 1681, to Caleb Hopkinson Sr. and Sarah Wallingford.[^1]
+- He married Martha Spofford at Bradford on December 19, 1705.[^1]
+- Bradford recorded nine children to the couple, including Samuel on July 14, 1718.[^1]
+- Caleb and Martha belonged to the Congregational church organized for Bradford’s East Precinct in 1727.[^3]
+- Caleb was styled Ensign in both the Second Congregational Church death record and his gravestone inscription.[^1][^2]
+- He died on November 9, 1730, after a cart overturned upon him.[^1]
+- He was buried at the Ancient Burying Ground in East Bradford, now Groveland.[^1][^2]
 
 ### Strong inference
 
-- Caleb occupied the Hopkinson Main Street homestead inherited through the family.
-- Caleb was a locally prominent householder, based on his landholding, militia office, and role in organizing the church.
-- The 1732 estate division involved all six sons who survived him.
+- Caleb lived in the Main Street Hopkinson homestead later described in the Essex Institute’s survey, and the property passed from him to his son David.[^5] The statement is specific and consistent with the family’s East Bradford presence, but the underlying conveyance and probate chain has not yet been reconstructed.
+
+### Unverified
+
+- A 1724 Essex County deed transaction reportedly involved land sold by Caleb Hopkinson of Bradford; the cited original deed has not been inspected.[^6]
+- A reported 1732 division of Caleb’s estate named widow Martha and his six surviving sons. The original probate proceeding and a reliable complete transcription remain to be obtained.
 
 ### Unresolved
 
-- Exact occupation
-- Probate case number and complete inventory
-- Total value and composition of his estate
-- Precise modern location of the homestead
-- Militia company and commission date
-- Any active military service
-- Location and fuller circumstances of the cart accident
-- Sarah Hopkinson’s treatment in the estate settlement
-
-## Direct-line connection
-
-The documented line through Caleb is:
-
-[[Michael Hopkinson]]  
-→ [[Caleb Hopkinson Sr.]]  
-→ **Caleb Hopkinson Jr.**  
-→ [[Samuel Hopkinson]]  
-→ [[Silas Hopkinson]]  
-→ [[Uriah Hopkinson]]  
-→ [[Ann Matilda Hopkinson]]  
-→ [[Lowell Herbert Hopkinson]]
+- Caleb’s occupation.
+- His militia company, commission date, duties, and any active service.
+- The exact location, parcel history, and present-day identity of the reported Main Street homestead.
+- His probate case number, estate inventory, valuation, debts, and the shares received by each heir.
+- The location and fuller circumstances of the cart accident.
 
 ## Research priorities
 
-- [ ] Obtain the complete Essex County probate file and estate division
-- [ ] Identify the probate case number and recording volume
-- [ ] Transcribe the inventory, debts, land, livestock, tools, and household property
-- [ ] Examine Essex County deeds involving Caleb
-- [ ] Determine whether a deed identifies him as husbandman, yeoman, or by another occupation
-- [ ] Identify the Main Street homestead on a historical or modern map
-- [ ] Search Bradford town and Massachusetts militia records for his ensign commission
-- [ ] Determine whether he performed active military service
-- [ ] Look for a contemporary diary or town account describing the cart accident
-- [ ] Confirm the marriage and later life of daughter Sarah
-- [ ] Obtain the complete 1732 distribution showing how each heir was treated
+1. Locate and inspect the complete Essex County probate proceeding, including the 1732 estate division and any inventory, bond, administration, guardianship, or distribution papers.
+2. Retrieve Essex Deeds 44:77–78 and other deeds naming Caleb; determine whether they identify his occupation, residence, acreage, consideration, and property boundaries.
+3. Reconstruct the documentary chain for the Main Street homestead and correlate it with historic and modern maps.
+4. Search Bradford town and Massachusetts militia material for Caleb’s commission, company, and any active service.
+5. Look for a contemporary diary, court entry, town record, or newspaper account that adds detail to the cart accident.
+6. Develop daughter Sarah’s marriage and later life from original records and determine how she was treated in Caleb’s estate.
 
 ## Sources
 
-1. **Bradford, Massachusetts.** *Vital Records of Bradford, Massachusetts, to the End of the Year 1849.* Topsfield Historical Society, 1907.  
-   [Internet Archive full text](https://archive.org/stream/vitalrecordsofbr00brad/vitalrecordsofbr00brad_djvu.txt)
+[^1]: Bradford, Massachusetts, *Vital Records of Bradford, Massachusetts, to the End of the Year 1849* (Topsfield, Mass.: Topsfield Historical Society, 1907), 4–8, 85–86, 226–227, 328–330, entries under Hopkinson for Caleb, Martha Spofford, their children, and Ensign Caleb; compiled from town, church, court, cemetery, and private records. [Internet Archive](https://archive.org/details/vitalrecordsofbr00brad). The volume identifies C.R.2 as Bradford’s Second Congregational Church at East Bradford and G.R.2 as the Ancient Burying Ground there.
 
-2. **Gage, Thomas.** *The History of Rowley, Anciently Including Bradford, Boxford, and Georgetown.* 1840. Includes the organization and membership of Bradford’s East Precinct church.  
-   [Digitized edition](https://historicmassachusetts.org/wp-content/uploads/2021/01/rowleyhistory-gage.pdf)
+[^2]: Sidney Perley, ed., “Groveland Inscriptions,” *The Essex Antiquarian* 9 (1905): 8–10, especially the gravestone of Ensign Caleb Hopkinson. [Internet Archive](https://archive.org/details/essexantiquarian09perluoft).
 
-3. **Perley, Sidney, editor.** *The Essex Antiquarian*, volume 9. Includes transcriptions from the ancient East Bradford, later Groveland, burying ground.  
-   [Internet Archive full text](https://archive.org/stream/essexantiquarian09perluoft/essexantiquarian09perluoft_djvu.txt)
+[^3]: Thomas Gage, *The History of Rowley, Anciently Including Bradford, Boxford, and Georgetown, from the Year 1639 to the Present Time* (Boston: Ferdinand Andrews, 1840), 128–129, listing Caleb among the original members of the East Precinct church and Martha among the women admitted from the First Church. [Digitized PDF](https://historicmassachusetts.org/wp-content/uploads/2021/01/rowleyhistory-gage.pdf).
 
-4. **Spofford, Jeremiah.** *A Family Record of the Descendants of John Spofford and Elizabeth His Wife.* 1851. Provides the Spofford family relationships and Martha’s marriage to Caleb.  
-   [Digitized edition](https://upload.wikimedia.org/wikipedia/commons/e/e9/A_family_record_-_of_the_descendants_of_John_Spofford%2C_and_Elizabeth_his_wife%2C_who_came_from_England_to_America%2C_and_settled_at_Rowley%2C_in_1638_%28IA_familyrecordofde1851spof%29.pdf)
+[^4]: Jeremiah Spofford, *A Family Record of the Descendants of John Spofford, and Elizabeth His Wife* (Haverhill, Mass.: E. G. Frothingham, 1851), 16–17, identifying Martha as the daughter of John Spofford and Sarah Wheeler and recording her marriage to Caleb Hopkinson Jr. [Digitized PDF](https://upload.wikimedia.org/wikipedia/commons/e/e9/A_family_record_-_of_the_descendants_of_John_Spofford%2C_and_Elizabeth_his_wife%2C_who_came_from_England_to_America%2C_and_settled_at_Rowley%2C_in_1638_%28IA_familyrecordofde1851spof%29.pdf).
 
-5. **Essex Institute Historical Collections**, volume 46. Historical survey of Bradford residences, including the Main Street Hopkinson homestead and its descent through Caleb and David.  
-   [Internet Archive full text](https://archive.org/stream/essexinstitutehi46esseuoft/essexinstitutehi46esseuoft_djvu.txt)
+[^5]: Alfred Poore, “Old Residences and Families of Groveland, Mass.,” *Essex Institute Historical Collections* 46 (1910): 297, reporting that Caleb Jr. occupied the Main Street Hopkinson house and left it to David. [Internet Archive](https://archive.org/details/essexinstitutehi46esseuoft).
 
-## Related pages
+[^6]: Robert Safford Hale, *Genealogy of Descendants of Thomas Hale of Watton, England, and of Newbury, Mass.* (Albany, N.Y.: Weed, Parsons and Company, 1889), 80–81, reporting a 1724 purchase of land from Caleb Hopkinson of Bradford and citing Essex Deeds 44:77–78. [Internet Archive](https://archive.org/details/genealogyofdesce00hale).
 
-- [[Michael Hopkinson]]
-- [[Caleb Hopkinson Sr.]]
-- [[Sarah Wallingford]]
-- [[Martha Spofford]]
-- [[Samuel Hopkinson]]
-- [[Bradford, Massachusetts]]
-- [[Groveland, Massachusetts]]
-- [[Hopkinson Direct Line]]
+## Related people
+
+- [[people/Michael Hopkinson|Michael Hopkinson]] — grandfather
+- [[people/Caleb Hopkinson Sr.|Caleb Hopkinson Sr.]] — father and direct-line predecessor
+- [[people/Sarah Wallingford|Sarah Wallingford]] — mother
+- [[people/Martha Spofford|Martha Spofford]] — wife
+- [[people/Sarah Wheeler Spofford|Sarah Wheeler Spofford]] — stepmother and mother-in-law
+- [[people/Samuel Hopkinson|Samuel Hopkinson]] — son and direct-line successor
+- [[people/David Hopkinson (1708–1794)|David Hopkinson]] — son associated by a later account with the homestead
