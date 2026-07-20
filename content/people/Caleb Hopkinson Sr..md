@@ -1,6 +1,6 @@
 ---
 title: Caleb Hopkinson Sr.
-updated: 07/19/2026 11:26 PM
+updated: 07/20/2026 4:57 PM
 quartz-properties-collapse: true
 aliases:
   - Caleb Hopkinson
