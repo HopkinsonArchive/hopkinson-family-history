@@ -1,6 +1,6 @@
 ---
 title: Samuel Hopkinson
-updated: 07/19/2026 8:01 PM
+updated: 07/19/2026 8:03 PM
 aliases:
   - Ensign Samuel Hopkinson
 birth_date: 1718-07-14
@@ -212,4 +212,3 @@ The direct line continues through his son Silas:
 - [[Elizabeth Green Palmer]] — mother-in-law
 - [[Silas Hopkinson]] — son and next direct-line ancestor
 - [[David Hopkinson]] — older brother and probable fellow member of the 1780 wartime committee
-```
