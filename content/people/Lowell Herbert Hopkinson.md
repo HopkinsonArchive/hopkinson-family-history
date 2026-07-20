@@ -1,6 +1,6 @@
 ---
 title: Lowell Herbert Hopkinson
-updated: 07/19/2026 11:50 PM
+updated: 07/19/2026 11:52 PM
 quartz-properties-collapse: true
 aliases:
   - Lowell H. Hopkinson
@@ -42,7 +42,7 @@ His Civil War service was unusually severe. Lowell was wounded at Second Bull Ru
 | Detail | Information | Status |
 |---|---|---|
 | Birth | June 15, 1836, Bradford, Massachusetts | Confirmed; one transcription gives June 13 |
-| Mother | [[Ann Matilda Hopkinson|Ann Matilda Hopkinson]] | Confirmed |
+| Mother | [[Ann Matilda Hopkinson]] | Confirmed |
 | Biological father | [[William Pillsbury Bailey]] | Strong circumstantial inference |
 | Principal childhood household | Uriah and Lucy Hopkinson | Confirmed by 1850; exact beginning unresolved |
 | Occupation | Shoemaker | Confirmed |
