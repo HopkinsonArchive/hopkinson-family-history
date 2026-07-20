@@ -1,6 +1,6 @@
 ---
 title: Lowell Herbert Hopkinson
-updated: 07/19/2026 11:03 PM
+updated: 07/19/2026 11:07 PM
 aliases:
   - Lowell H. Hopkinson
 born: 1836-06-15
@@ -132,7 +132,7 @@ No known source identifies a particular person as Lowell’s attendant.
 
 ## Could Lowell have had a motor-neuron disease?
 
-No surviving record diagnoses Lowell with amyotrophic lateral sclerosis, progressive muscular atrophy, primary lateral sclerosis, or another motor-neuron disease.
+The recorded cause of Lowell’s progressive paralysis is unknown.
 
 A slowly progressive motor-neuron disorder remains a reasonable retrospective hypothesis because later records describe generalized paralysis rather than disability confined to the wounded arm; he became helpless and bedridden; the course may have developed over years; and he survived about eight years after being documented as bedridden. “Paralysis” could also have described profound weakness rather than complete loss of movement.
 
@@ -140,7 +140,8 @@ Alternative explanations include stroke, spinal-cord disease, cervical myelopath
 
 Severe trauma, imprisonment, infection, malnutrition, and prolonged physiological stress are important parts of Lowell’s medical history. Modern ALS research examines glutamate excitotoxicity, calcium dysregulation, mitochondrial injury, oxidative stress, lipid peroxidation, ferroptosis, proteostasis failure, and nuclear-envelope damage. Those mechanisms cannot diagnose Lowell retrospectively or establish wartime stress as the direct cause.
 
-> Lowell may have suffered from a slowly progressive motor-neuron disease or another chronic neurological disorder. ALS-spectrum disease is plausible, but the evidence presently supports a hypothesis rather than a diagnosis.
+> [!note] Leading medical hypothesis
+> Lowell’s prolonged progression from weakness to complete helplessness is most consistent with a slowly progressing form of **amyotrophic lateral sclerosis or a related motor-neuron disease**. ALS had only recently been defined as a distinct neurological disorder, and the physicians who treated him may not have recognized it. This interpretation gains additional weight from a later direct-line descendant who, after similarly severe combat trauma, developed clinically diagnosed ALS. The recurrence does not prove a shared genetic or wartime cause, but it makes an ALS-spectrum disorder the leading explanation for Lowell’s otherwise unexplained paralysis.
 
 ## Home, death, and burial
 
