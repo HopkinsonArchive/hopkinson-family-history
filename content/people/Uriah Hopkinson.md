@@ -32,8 +32,6 @@ tags:
   - status/late-life-records-unresolved
 ---
 
-# Uriah Hopkinson
-
 > [!warning] A documented life with an unresolved ending
 > Uriah is well documented in Bradford and East Bradford records from his birth through the middle of the nineteenth century. His late-life record is substantially weaker. A reported death on **February 20, 1876, in Groveland** has not been confirmed in the surviving local death compilation, no gravestone for him appears in the published transcription of the old Groveland cemetery, and no probate file has yet been located. A page-by-page examination of the original **1870 Groveland federal census** also found no household headed by, or clearly containing, Uriah Hopkinson. These absences do not prove when or where he died, but they are too significant to conceal behind an apparently certain 1876 date.
 
