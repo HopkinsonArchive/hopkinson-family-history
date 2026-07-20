@@ -1,6 +1,6 @@
 ---
 title: Lowell Herbert Hopkinson
-updated: 07/19/2026 11:55 PM
+updated: 07/20/2026 12:08 AM
 quartz-properties-collapse: true
 aliases:
   - Lowell H. Hopkinson
