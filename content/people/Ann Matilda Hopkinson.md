@@ -17,7 +17,7 @@ children:
   - Lowell Herbert Hopkinson
   - John L. Estabrook
 evidence_status: documented with unresolved death and strongly inferred paternity of Lowell
-updated: 07/20/2026 3:36 PM
+updated: 07/20/2026 3:39 PM
 description: Biography of Ann Matilda Hopkinson, daughter of Uriah and Lucy Hopkinson, mother of Lowell Herbert Hopkinson, and later wife of John R. Estabrooks.
 tags:
   - people
@@ -85,9 +85,9 @@ This separation of households is documented, but its cause is not. The evidence 
 
 The most plausible reconstruction is that Uriah and Lucy assumed the principal parental role after Ann’s intended marriage to William Bailey failed, and that Lowell remained with them after Ann entered her later marriage. This remains an inference rather than a recorded custody arrangement.
 
-## Marriage to John R. Estabrooks
+## Marriage to John R. Estabrook
 
-Ann Matilda Hopkinson of Bradford and **John R. Estabrooks of East Haverhill** recorded their marriage intention on November 9, 1839. A local Rocks Village historical reconstruction gives their completed marriage date as December 12, 1839, although the original marriage entry has not yet been examined.
+Ann Matilda Hopkinson of Bradford and **John R. Estabrook of East Haverhill** recorded their marriage intention on November 9, 1839. A local Rocks Village historical reconstruction gives their completed marriage date as December 12, 1839, although the original marriage entry has not yet been examined.
 
 John’s middle initial was **R**, not W. His surname appears in several forms, including Estabrook, Estabrooks, Esterbrook, and Easterbrooks.
 
@@ -103,9 +103,9 @@ No evidence found so far establishes that Lowell ever became a member of the Est
 
 Ann lived in East Haverhill with:
 
-- John R. Estabrooks, age 36, carpenter;
-- Ann M. Estabrooks, age 32;
-- John L. Estabrooks, age 5.
+- John R. Estabrook, age 36, carpenter;
+- Ann M. Estabrook, age 32;
+- John L. Estabrook, age 5.
 
 Lowell was enumerated separately in Uriah and Lucy Hopkinson’s household.
 
@@ -136,7 +136,7 @@ Ann may have stitched shoe components at home or in a shop, but the census does 
 
 ## Widowhood, health, and John R.’s estate
 
-John R. Estabrooks died in 1864. His Essex County probate file, case **38586**, named Ann as his widow and an administrator of his estate alongside Samuel Elliott and George E. Elliott. John L., then nineteen, was identified as John’s son.
+John R. Estabrook died in 1864. His Essex County probate file, case **38586**, named Ann as his widow and an administrator of his estate alongside Samuel Elliott and George E. Elliott. John L., then nineteen, was identified as John’s son.
 
 The estate included multiple parcels and buildings appraised at approximately $3,300. Probate material described Ann as being in **“feeble health and not able to do much for her own support.”** She received a widow’s allowance of $400.
 
@@ -224,4 +224,3 @@ This is not an uninterrupted male-line or Y-chromosome Hopkinson descent. Lowell
 - Essex County probate case 38586, estate of John R. Estabrooks.
 - Essex County deeds 727:138 and 729:118, 1867.
 - Rocks Village historical property and Estabrook-family research pages, used as secondary leads and checked against census, probate, and deed evidence where possible.
-```
