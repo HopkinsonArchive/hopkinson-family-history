@@ -1,6 +1,6 @@
 ---
 title: Lowell Herbert Hopkinson
-updated: 07/19/2026 10:51 PM
+updated: 07/19/2026 10:54 PM
 aliases:
   - Lowell H. Hopkinson
 born: 1836-06-15
