@@ -1,6 +1,6 @@
 ---
 title: Uriah Hopkinson
-updated: 07/19/2026 11:26 PM
+updated:
 quartz-properties-collapse: true
 aliases:
   - Uriah Hopkinson of Groveland
@@ -19,6 +19,7 @@ direct_line_child: "[[Ann Matilda Hopkinson]]"
 occupation:
   - joiner
 evidence_status: mixed
+updated: 07/20/2026
 tags:
   - person
   - hopkinson
@@ -142,6 +143,8 @@ Uriah's biography presently has a substantial documentary break after the middle
 
 The original 1870 federal population schedule for Groveland was examined page by page. The town occupies forty-five written census pages on Massachusetts roll M593-608. Numerous Hopkinson households appear, but **Uriah was not found by name**, and no household could be identified confidently as Uriah and Lucy under variant given names.
 
+One household contains an eighty-year-old **William Hopkinson** and a sixty-eight-year-old **Adeline Hopkinson**. The written name appears to be William, and the woman's name and age do not match Lucy. That household should not be reassigned to Uriah merely to close the gap.
+
 The negative result leaves several possibilities:
 
 1. Uriah lived outside Groveland in 1870.
@@ -249,3 +252,4 @@ Uriah's life also illustrates an important research problem. The early and middl
 - [[Lucy Chase]]
 - [[Ann Matilda Hopkinson]]
 - [[Lowell Herbert Hopkinson]]
+```
