@@ -1,7 +1,6 @@
 ---
 title: Ann Matilda Hopkinson
-updated: 07/20/2026 12:11 AM
-quartz-properties-collapse: true
+updated: 07/20/2026 12:13 AM
 aliases:
   - Ann Matilda Estabrook
   - Ann M. Estabrook
