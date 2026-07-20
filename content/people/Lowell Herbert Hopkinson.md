@@ -1,6 +1,6 @@
 ---
 title: Lowell Herbert Hopkinson
-updated: 07/19/2026 11:52 PM
+updated: 07/19/2026 11:55 PM
 quartz-properties-collapse: true
 aliases:
   - Lowell H. Hopkinson
@@ -33,7 +33,7 @@ tags:
   - unresolved-research
 ---
 
-**Lowell Herbert Hopkinson** was born in Bradford, Massachusetts, on June 15, 1836. Raised principally in the household of his maternal grandparents, [[people/Uriah Hopkinson|Uriah Hopkinson]] and [[Inez Lucy Chase|Inez “Lucy” Chase]], he became a shoemaker, husband, father, Union soldier, prisoner of war, Groveland constable, and member of the Grand Army of the Republic.
+**Lowell Herbert Hopkinson** was born in Bradford, Massachusetts, on June 15, 1836. Raised principally in the household of his maternal grandparents, [[Uriah Hopkinson]] and [[Inez Lucy Chase|Inez “Lucy” Chase]], he became a shoemaker, husband, father, Union soldier, prisoner of war, Groveland constable, and member of the Grand Army of the Republic.
 
 His Civil War service was unusually severe. Lowell was wounded at Second Bull Run during his first enlistment, returned to the army, was captured at Cold Harbor, and spent approximately six months in Confederate captivity. Decades later he developed progressive disability described in federal records as paralysis. By 1896 he was bedridden, helpless, and dependent upon a small pension and assistance from friends.
 
@@ -158,7 +158,7 @@ Lowell reportedly died in Groveland on **May 2, 1904**, aged sixty-seven, and wa
 
 The documented Hopkinson descent reaches Lowell through his mother:
 
-[[people/Uriah Hopkinson|Uriah Hopkinson]] → [[people/Ann Matilda Hopkinson|Ann Matilda Hopkinson]] → **Lowell Herbert Hopkinson**
+[[Uriah Hopkinson]] → [[Ann Matilda Hopkinson]] → **Lowell Herbert Hopkinson**
 
 The strongly inferred biological paternal connection is:
 
