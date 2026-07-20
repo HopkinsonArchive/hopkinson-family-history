@@ -1,6 +1,6 @@
 ---
 title: Uriah Hopkinson
-updated:
+updated: 07/20/2026 4:11 PM
 quartz-properties-collapse: true
 aliases:
   - Uriah Hopkinson of Groveland
@@ -19,7 +19,6 @@ direct_line_child: "[[Ann Matilda Hopkinson]]"
 occupation:
   - joiner
 evidence_status: mixed
-updated: 07/20/2026
 tags:
   - person
   - hopkinson
