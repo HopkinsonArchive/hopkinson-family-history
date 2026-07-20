@@ -1,6 +1,6 @@
 ---
 title: Caleb Hopkinson Jr.
-updated: 07/19/2026 7:31 PM
+updated: 07/19/2026 8:00 PM
 aliases:
   - Ensign Caleb Hopkinson
   - Caleb Hopkinson II
