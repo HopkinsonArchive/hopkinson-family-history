@@ -1,241 +1,275 @@
 ---
 title: Silas Hopkinson
-updated: 07/19/2026 11:26 PM
+updated: 07/20/2026 4:22 PM
 quartz-properties-collapse: true
 aliases:
   - Lieutenant Silas Hopkinson
   - Lt. Silas Hopkinson
+page_type: person
+person_id: silas-hopkinson-1763
+description: Bradford house carpenter, meetinghouse contractor, tobacco manufacturer, and direct-line Hopkinson ancestor.
 birth_date: 1763-05-22
-birth_place: Bradford, Massachusetts Bay
+birth_date_display: May 22, 1763
+birth_date_status: confirmed
+birth_place: Bradford, Essex County, Province of Massachusetts Bay
 death_date: 1828-01-29
-death_place: Bradford, Massachusetts
-burial_place: Old East Bradford Cemetery, now Riverview Cemetery, Groveland, Massachusetts
-occupation:
+death_date_display: January 29, 1828
+death_date_status: confirmed
+death_place: Bradford, Essex County, Massachusetts, United States
+cause_of_death:
+cause_of_death_status: unresolved
+burial_place: Riverview Cemetery, Groveland, Essex County, Massachusetts, United States
+cemetery_section: Old East Bradford Cemetery
+cemetery_plot:
+parents:
+  - "[[people/Samuel Hopkinson|Samuel Hopkinson]]"
+  - "[[people/Betty Palmer|Betty Palmer]]"
+spouses:
+  - "[[people/Hannah Balch|Hannah Balch]]"
+children:
+  - "[[people/William Hopkinson|William Hopkinson]]"
+  - "[[people/Uriah Hopkinson|Uriah Hopkinson]]"
+  - "[[people/Hannah Hopkinson (1794–1808)|Hannah Hopkinson]]"
+  - "[[people/Abigail Hopkinson|Abigail Hopkinson]]"
+  - "[[people/Ira Hopkinson|Ira Hopkinson]]"
+direct_line: true
+direct_line_predecessor: "[[people/Samuel Hopkinson|Samuel Hopkinson]]"
+direct_line_successor: "[[people/Uriah Hopkinson|Uriah Hopkinson]]"
+family_lines:
+  - Hopkinson
+  - Palmer
+  - Balch
+occupations:
   - house carpenter
   - building contractor
   - tobacco manufacturer
-evidence_status: confirmed
+military_service: true
+evidence_status: mixed
+research_status: active
+last_reviewed: 2026-07-20
 tags:
-  - people
-  - hopkinson-family
-  - direct-line
-  - bradford-massachusetts
-  - groveland-massachusetts
-  - house-carpenters
-  - building-contractors
-  - tobacco-manufacturing
-  - massachusetts-militia
-  - eighteenth-century
-  - nineteenth-century
+  - person
+  - family/hopkinson
+  - family/palmer
+  - lineage/direct
+  - century/18th
+  - century/19th
+  - place/massachusetts
+  - place/massachusetts/bradford
+  - place/massachusetts/groveland
+  - occupation/house-carpenter
+  - occupation/building-contractor
+  - occupation/tobacco-manufacturer
+  - military/massachusetts-militia
+  - military/rank/lieutenant
+  - status/cause-of-death-unresolved
+  - status/military-service-unresolved
 ---
 
-**Silas Hopkinson** (May 22, 1763–January 29, 1828) was a Bradford, Massachusetts, house carpenter, building contractor, master craftsman, and later tobacco manufacturer. He was one of four contractors who built Bradford's East Parish meetinghouse in 1790 and trained at least one documented apprentice in the trade of house carpentry. Records and local histories consistently called him **Lieutenant Silas Hopkinson**, although the militia company and commission behind that title have not yet been identified.
+> [!profile] Profile
+> **Silas Hopkinson** (May 22, 1763–January 29, 1828) was a Bradford house carpenter, master craftsman, building contractor, and tobacco manufacturer. He was one of four contractors credited with constructing the East Parish meetinghouse in 1790. Surviving records repeatedly call him **Lieutenant**, although his militia company, commission, and service dates remain unidentified.
 
-Silas was the son of [[Samuel Hopkinson]] and Betty Palmer. His son [[Uriah Hopkinson]] continues the direct family line documented by this archive.
+Silas spent his life in Bradford, Massachusetts, principally in its East Parish—the area incorporated as Groveland in 1850. His work connects him to two parts of the local economy: skilled building construction and Bradford's established tobacco-manufacturing trade. A later genealogy of the Perley family identifies him as the master from whom Samuel Perley learned house carpentry, while a history published during Silas's lifetime credits him and three other contractors with the parish meetinghouse.[^perley] [^perry]
 
-## At a glance
+He was the son of [[people/Samuel Hopkinson|Samuel Hopkinson]] and [[people/Betty Palmer|Betty Palmer]], married [[people/Hannah Balch|Hannah Balch]] in 1788, and was the father of five recorded children. His son [[people/Uriah Hopkinson|Uriah Hopkinson]] continues the archive's documented direct line.[^bradford-vr]
 
-| | |
-|---|---|
-| **Born** | May 22, 1763, Bradford, Massachusetts Bay |
-| **Died** | January 29, 1828, Bradford, Massachusetts |
-| **Buried** | Old East Bradford Cemetery, now Riverview Cemetery, Groveland, Massachusetts |
-| **Parents** | [[Samuel Hopkinson]] and Betty Palmer |
-| **Wife** | Hannah Balch |
-| **Next direct-line child** | [[Uriah Hopkinson]] |
-| **Occupations** | House carpenter, building contractor, tobacco manufacturer |
-| **Military title** | Lieutenant; unit and commission not yet identified |
-| **Evidence status** | Identity, parentage, marriage, occupation, direct-line relationship, death date, and burial confirmed; some property details and military service unresolved |
+## Vital information
 
-## Birth and parentage
+| Event | Date and place | Status | Sources |
+|---|---|---|---|
+| Birth | May 22, 1763; Bradford, Essex County, Province of Massachusetts Bay | Confirmed | Bradford vital records identify Silas as the son of Samuel and “Bettee” Hopkinson.[^bradford-vr] |
+| Marriage | October 11, 1788; Bradford, Massachusetts | Confirmed | Bradford marriage record for Silas Hopkinson and Hannah Balch.[^bradford-vr] |
+| Death | January 29, 1828; Bradford, Massachusetts | Confirmed | Bradford death entry and cemetery inscription agree on the date and age.[^bradford-vr] [^cemetery] |
+| Burial | Old East Bradford Cemetery, now within Riverview Cemetery, Groveland, Massachusetts | Confirmed | Published cemetery transcription identifies his stone in the old East Bradford ground.[^cemetery] |
+| Cause of death | Not identified | Unresolved | The examined Bradford death entry gives no cause.[^bradford-vr] |
 
-The published Bradford vital records identify Silas as the son of **Samuel and Bettee Hopkinson**, born in Bradford on **May 22, 1763**. His father was commonly styled **Ensign Samuel Hopkinson** and was buried under that title.
+## Family and relationships
 
-This record confirms the direct-line relationship:
+### Parents
 
-> [[Samuel Hopkinson]] → **Silas Hopkinson** → [[Uriah Hopkinson]]
+Bradford's published vital records identify Silas as a son of **Samuel Hopkinson** and **Bettee Hopkinson**, the spelling used for Betty Palmer in the entry.[^bradford-vr] Samuel is called “Ensign” in surviving sources; that title belongs to Samuel and should not be confused with Silas's later lieutenant title.
 
-Silas was born in Bradford when it remained part of the Province of Massachusetts Bay. The eastern portion of Bradford in which the family lived became the separate town of Groveland in 1850. References to Groveland in later local histories therefore describe the modern location, not the town name used during Silas's lifetime.
+### Marriage and the Balch family
 
-## Marriage to Hannah Balch
+Silas married **Hannah Balch** on October 11, 1788. Hannah was born at Bradford on June 11, 1766, to Nathaniel Balch and Joanna Day.[^bradford-vr] Her father Nathaniel was not the minister connected with the marriage. The minister was Hannah's grandfather, **Rev. William Balch**, who performed the ceremony. Silas therefore married a minister's **granddaughter**, not a minister's daughter.[^balch]
 
-Silas married **Hannah Balch** in Bradford on **October 11, 1788**. The marriage record describes both as residents of Bradford.
+Hannah outlived Silas. Her gravestone gives July 17, 1832, aged sixty-six; a compiled entry gives July 18, and the 1897 Balch genealogy gives 1831. The gravestone date is presently preferred, but the discrepancy belongs on Hannah's eventual page rather than being silently erased.[^cemetery] [^balch]
 
-Hannah was born in Bradford on **June 11, 1766**, the daughter of **Nathaniel Balch and Joanna Day**. Her grandfather was **Rev. William Balch**, who personally performed her marriage to Silas. Silas therefore married a minister's granddaughter, not a minister's daughter.
+### Children
 
-Hannah survived Silas. Her gravestone records that she died on **July 17, 1832**, aged sixty-six. A compiled civil or church entry gives July 18, while a later Balch genealogy incorrectly places her death in 1831. The gravestone date is presently preferred.
+Bradford records attribute five children to Silas and Hannah. They are listed here only to document the parental household; their lives are not developed on this page.[^bradford-vr]
 
-## Household
+| Child | Birth–death | Relationship evidence | Notes |
+|---|---|---|---|
+| [[people/William Hopkinson|William Hopkinson]] | Born July 9, 1790 | Bradford birth record names Silas and Hannah as parents | Collateral child; later life not evaluated here |
+| [[people/Uriah Hopkinson|Uriah Hopkinson]] | Born September 28, 1791; reported death unverified | Bradford birth record names Silas and Hannah as parents | Direct-line successor |
+| [[people/Hannah Hopkinson (1794–1808)|Hannah Hopkinson]] | January 30, 1794–February 24, 1808 | Bradford birth record and cemetery transcription | Died aged fourteen and was buried near her parents |
+| [[people/Abigail Hopkinson|Abigail Hopkinson]] | Born June 28, 1796 | Bradford birth record names Silas and Hannah as parents | Collateral child; later life not evaluated here |
+| [[people/Ira Hopkinson|Ira Hopkinson]] | Born April 3, 1798 | Bradford birth record names Silas and Hannah as parents | Collateral child; later life not evaluated here |
 
-Bradford records document five children born to Silas and Hannah:
+## Chronology
 
-- William Hopkinson, born July 9, 1790
-- [[Uriah Hopkinson]], born September 28, 1791
-- Hannah Hopkinson, born January 30, 1794; died February 24, 1808
-- Abigail Hopkinson, born June 28, 1796
-- Ira Hopkinson, born April 3, 1798
+| Date | Event | Place | Status | Sources |
+|---|---|---|---|---|
+| May 22, 1763 | Born to Samuel and Betty Hopkinson | Bradford, Massachusetts Bay | Confirmed | Bradford vital records.[^bradford-vr] |
+| October 11, 1788 | Married Hannah Balch | Bradford, Massachusetts | Confirmed | Bradford marriage record.[^bradford-vr] |
+| About 1788 | Reportedly acquired and occupied a Main Street house built by his brother Ebenezer | East Bradford | Unverified | Later house history; original deed not yet examined.[^poore-houses-302] |
+| 1790 | Served as one of four contractors for the East Parish meetinghouse | East Bradford | Confirmed | Near-contemporary town history published in 1820.[^perry] |
+| April 1799 | Reportedly sold the Main Street residence to Deacon Daniel Stickney | East Bradford | Unverified | Later house history; original deed not yet examined.[^poore-houses-302] |
+| 1799 | Reportedly acquired Nathaniel Balch's Cannon Hill house | East Bradford | Unverified | Later house history; original deed not yet examined.[^poore-houses-204] |
+| By 1817 | Identified as participating in tobacco manufacturing | Bradford | Confirmed | Alfred Poore's retrospective account of the town as he found it in 1817.[^poore-reminiscences] |
+| 1817–1818 | Jacob Sawyer reportedly acquired the Cannon Hill property | East Bradford | Unverified | Later house history; date is approximate and the original deed remains unexamined.[^poore-houses-204] |
+| About 1823–1828 | Listed as an occupant of the old Bailey-lot house on Main Street | East Bradford | Unverified | Later house history with overlapping occupant dates.[^poore-houses-298] |
+| January 29, 1828 | Died aged sixty-four | Bradford, Massachusetts | Confirmed | Bradford death entry and gravestone transcription.[^bradford-vr] [^cemetery] |
 
-Only Uriah's place in the direct line is developed here. The other children are listed to reconstruct Silas and Hannah's household rather than to provide separate biographies.
+## Life and historical context
 
-Their daughter Hannah died at fourteen and was buried near her parents in the old East Bradford cemetery.
+### Bradford and the East Parish
 
-## House carpenter and master craftsman
+Silas was born and died in Bradford. During his life, East Bradford remained part of that town. It became the separate town of Groveland only in 1850, so later descriptions placing his homes or burial in Groveland use the modern municipality rather than the jurisdiction in force during his lifetime.[^bradford-vr]
 
-Silas practiced the skilled trade of **house carpentry**. A history of the Perley family records that Samuel Perley of East Bradford was apprenticed to Silas and learned from him "the trade of house carpenter."
+His known work, residences, marriage connections, and burial all center on the East Parish. Those associations establish a substantial community connection, but they do not by themselves prove formal admission to Congregational church membership.
 
-That apprenticeship establishes more than a generic association with carpentry. Silas was sufficiently experienced and established to serve as a master, assume responsibility for an apprentice, and transmit the trade to another craftsman.
+### House carpenter, master, and meetinghouse contractor
 
-### The 1790 East Parish meetinghouse
+Silas practiced the skilled trade of house carpentry. M. V. B. Perley's family history reports that Samuel Perley was apprenticed to Silas and learned “the trade of house carpenter” from him.[^perley] Although this account was published later, its specific identification of the master-apprentice relationship supports describing Silas as an established craftsman who trained at least one apprentice.
 
-An 1820 history of Bradford identifies Silas as one of four contractors who constructed the new East Parish meetinghouse in **1790**:
+In 1790 Silas was one of four contractors credited with building the new East Parish meetinghouse. Gardner B. Perry's 1820 history names **Phineas Carleton, Ebenezer Hopkinson, Silas Hopkinson, and Edward Sargent** as the contractors and commends the execution of the building.[^perry] Because Perry's account appeared while Silas was alive and only thirty years after construction, it carries greater weight than a much later local recollection. Silas was about twenty-seven years old at the time.
 
-- Phineas Carleton
-- Ebenezer Hopkinson
-- Silas Hopkinson
-- Edward Sargent
+The evidence supports “house carpenter” and “building contractor” as occupations. “Master craftsman” is a description of his documented role as an apprentice's master, not a separately recorded occupational title.
 
-The account credited the committee responsible for the plan and praised the contractors' execution, describing the meetinghouse as convenient and neatly finished. Because the history was prepared while Silas was still living, it provides strong near-contemporary evidence of a major public project completed by him.
+### Tobacco manufacturing
 
-Silas was approximately twenty-seven and had been married for less than two years when the meetinghouse was constructed. His selection as one of four contractors indicates that he was already recognized locally as a capable builder.
+Alfred Poore's reminiscence of Bradford as he found it in 1817 names **Silas Hopkinson, William Hopkinson, and Bailey Greenough** among those manufacturing tobacco.[^poore-reminiscences] Perry's 1820 town history states that Moses Parker had introduced tobacco manufacturing around 1770 and that a considerable quantity was subsequently processed in Bradford.[^perry] Together, the accounts place Silas within an established local industry rather than proving that he introduced it.
 
-The contract price is not reproduced here because the surviving printed text is unclear in available scans and optical character recognition.
+The available evidence does not identify Silas's precise products, partners, workshop, output, capital, or years of operation. Those details remain unresolved.
 
-## Tobacco manufacturing
+## Residences and households
 
-Silas later entered or diversified into **tobacco manufacturing**. Dr. Alfred Poore's recollections of Bradford as he found it in **1817** state that tobacco manufacturing was then conducted by **Silas Hopkinson, William Hopkinson, and Bailey Greenough**.
+Alfred Poore's later series on Groveland houses supplies a provisional residential sequence. These are specific local-history reports, not substitutes for deeds or census schedules, and are therefore classified as unverified pending original-record confirmation.
 
-Bradford's 1820 history independently explains that Moses Parker had introduced tobacco manufacturing to the town around 1770 and that a considerable quantity was processed there. Silas was therefore participating in an established local industry. The surviving account does not identify the particular tobacco products he manufactured or the scale and organization of his business.
+### Main Street, about 1788–April 1799
 
-## Residences and property
-
-Later Groveland house histories allow a provisional reconstruction of Silas's residences. These accounts are valuable but were compiled after his lifetime, and their approximate dates should ultimately be tested against the original Essex County deeds.
-
-### Main Street, about 1788–1799
-
-Silas's brother **Ebenezer Hopkinson** reportedly built a house on Main Street and sold it to Silas around the time of Silas's 1788 marriage. Silas and Hannah lived there until Silas sold it to **Deacon Daniel Stickney in April 1799**.
-
-This was probably the couple's first married home and the residence in which their children were born, although the birth records do not give a street address.
+Poore reported that Ebenezer Hopkinson built a Main Street house, lived there until about 1788, and then sold it to his brother Silas around the time of Silas's marriage. Silas reportedly remained until selling it to Deacon Daniel Stickney in April 1799.[^poore-houses-302] The timing makes it a plausible first married home, but no examined birth record gives a street address; it should not be asserted as the birthplace of each child without further evidence.
 
 ### Cannon Hill, 1799–about 1817 or 1818
 
-In 1799, Hannah's father, **Nathaniel Balch**, reportedly sold Silas a house on Cannon Hill along High Street. The property was later known as the Sawyer House.
+Poore reported that Hannah's father, Nathaniel Balch, sold the Sawyer House on Cannon Hill to Silas in 1799. The account says Silas occupied it for twenty years but also says Jacob Sawyer bought it in 1817–1818. Those statements do not align exactly, so the occupancy duration should be treated as approximate.[^poore-houses-204]
 
-Local history states that Silas occupied it for approximately twenty years and that **Jacob Sawyer of Newbury** acquired it around 1817 or 1818. The reported twenty-year occupancy is approximate rather than mathematically exact.
+### Old Bailey lot, about 1823–1828
 
-### Final years, about 1823–1828
+Poore also listed “Lt. Silas Hopkinson” among occupants of a Main Street house on the old Bailey lot from 1823 to 1828.[^poore-houses-298] Several occupants have overlapping dates in the account, so this supports occupancy, not necessarily ownership or exclusive possession. Silas's residence from approximately 1818 through 1823 remains unresolved.
 
-Another house history places Lieutenant Silas Hopkinson in a house on the old Bailey lot on Main Street from approximately **1823 until 1828**. Several occupants are assigned overlapping dates, so the source appears to record occupancy rather than continuous ownership.
+No complete reconstruction of the Silas Hopkinson household in the 1790, 1800, 1810, and 1820 federal censuses has yet been incorporated into this page.
 
-Silas's residence between approximately 1818 and 1823 has not yet been established.
+## Occupation and economic life
 
-## The title “Lieutenant”
+Silas's documented economic activity changed or broadened over time. By 1790 he was established enough as a house carpenter to share responsibility for a major parish building, and the Perley account identifies him as an apprentice's master.[^perry] [^perley] By 1817, Poore remembered him among Bradford's tobacco manufacturers.[^poore-reminiscences]
 
-Silas was repeatedly styled **Lieutenant**:
+The evidence does not establish whether he stopped carpentry when he entered tobacco manufacturing, whether he conducted both simultaneously, or whether the work was organized as a partnership. No probate inventory or business account has yet been examined to quantify his property or enterprise.
 
-- the Bradford death record calls him “Silas, Lt.”;
-- his cemetery inscription reads “Lieut. Silas Hopkinson”;
-- local property histories call him “Lt. Silas Hopkinson”;
-- and the Balch genealogy preserves the same title.
+## Military and public service
 
-The repeated use makes the title credible, but the underlying service remains unresolved. No matching entry for Silas was found in the published Massachusetts militia records for the War of 1812. One search result that appeared to join his name to that conflict was created by adjacent printed columns: the actual men were **Silas Alden** and **William Hopkinson**.
+The title **Lieutenant** is confirmed as a title used for Silas: the Bradford death compilation gives “Silas, Lt.,” his cemetery inscription calls him “Lieut. Silas Hopkinson,” and later local histories use the same style.[^bradford-vr] [^cemetery] [^poore-houses-204] The repetition supports a Massachusetts militia association and the lieutenant rank.
 
-Silas was twelve years old at the Battle of Bunker Hill. No record presently connects him to that battle or to Revolutionary service. His rank may have come from the post-Revolutionary Massachusetts militia.
+The scope of his actual service is nevertheless unresolved. The research completed for this page did not identify his company, regiment, commission, appointment date, or active-duty record. A search of published Massachusetts War of 1812 militia material did not produce an identifying entry for this Silas. One apparent search result joining “Silas” and “Hopkinson” was caused by adjacent columns referring to **Silas Alden** and **William Hopkinson**, not Silas Hopkinson.
 
-Accordingly, the evidence supports calling him **Lieutenant Silas Hopkinson**, but it does not yet support naming a unit, war, commission date, or active service.
+Silas was twelve at the Battle of Bunker Hill. No examined source identifies him as a participant in that battle or in Revolutionary military service. The archive therefore retains his documented lieutenant title while making no claim about a particular war, unit, commission, or period of active service.
 
-## Religious and community setting
+## Property, probate, and estate
 
-Silas was closely connected with Bradford's East Parish:
+The later house histories report multiple purchases, sales, and periods of occupancy, but the corresponding Essex County deeds have not yet been examined. Prices, acreage, abutters, exact legal descriptions, and the distinction between ownership and tenancy remain unresolved.[^poore-houses-204] [^poore-houses-298] [^poore-houses-302]
 
-- he lived in East Bradford;
-- he helped construct its 1790 meetinghouse;
-- his marriage was performed by Rev. William Balch;
-- and he was buried in the East Bradford burial ground.
-
-These facts establish a strong parish connection but do not prove that Silas was formally admitted to full communion in the Congregational church. Formal church membership remains unconfirmed.
+No probate record has been found in the openly indexed material examined during this research. That limited negative search does not establish that no probate or estate proceeding occurred. Essex County docket indexes and original file images require direct examination.
 
 ## Death and burial
 
-Silas died in Bradford on **January 29, 1828**, aged sixty-four. The Bradford death record and his cemetery inscription agree on the date and age.
+Silas died at Bradford on January 29, 1828, aged sixty-four. The Bradford death compilation and the published transcription of his gravestone agree.[^bradford-vr] [^cemetery] His cause and circumstances of death have not been identified.
 
-His gravestone was transcribed as:
+He was buried in the old cemetery of East Bradford, now associated with Riverview Cemetery in Groveland. The transcribed inscription identifies him as “Lieut. Silas Hopkinson” and records the January 29 date and age sixty-four.[^cemetery]
 
-> Lieut. SILAS HOPKINSON  
-> died  
-> Jan 29, 1828;  
-> Æt. 64.
+### Correction of the June 29 death date
 
-He was buried in the old East Bradford cemetery, now generally identified as **Riverview Cemetery in Groveland**.
+Galusha B. Balch's 1897 genealogy gives Silas's death as **June 29, 1828**.[^balch] That later date conflicts with both the Bradford death entry and the cemetery inscription. It is also incompatible with the reported age of sixty-four because Silas turned sixty-five on May 22, 1828. The archive therefore treats **January 29, 1828** as confirmed and the June date as a later transcription or printing error.
 
-### Correction of a later error
+## Direct-line position
 
-The 1897 *Genealogy of the Balch Families in America* gives Silas's death as **June 29, 1828**. That date conflicts with both the Bradford death record and cemetery inscription. It also conflicts with the recorded age of sixty-four, since Silas would have been sixty-five after May 22.
+Silas occupies the documented direct-line position between his father and his son:
 
-The project therefore treats **January 29, 1828** as confirmed and the June date as a later transcription or printing error.
+**[[people/Samuel Hopkinson|Samuel Hopkinson]] → Silas Hopkinson → [[people/Uriah Hopkinson|Uriah Hopkinson]]**
 
-No cause of death has yet been found.
+The Bradford birth records directly support both parent-child links.[^bradford-vr]
 
 ## Evidence assessment
 
 ### Confirmed
 
-- Birth on May 22, 1763, in Bradford
-- Parentage as son of Samuel Hopkinson and Betty Palmer
-- Marriage to Hannah Balch on October 11, 1788
-- Hannah's parentage and her relationship to Rev. William Balch
-- Five recorded children, including direct-line son Uriah
-- Occupation as a house carpenter
-- Role as master to at least one apprentice
-- Work as a contractor on the 1790 East Parish meetinghouse
-- Participation in tobacco manufacturing by 1817
-- Repeated use of the title lieutenant
-- Death on January 29, 1828
-- Burial in the old East Bradford cemetery
+- Birth on May 22, 1763, at Bradford, and parentage as the son of Samuel and Betty Hopkinson.[^bradford-vr]
+- Marriage to Hannah Balch on October 11, 1788.[^bradford-vr]
+- Hannah's birth to Nathaniel and Joanna Balch; her grandfather's ministerial role is preserved in the Balch genealogy.[^bradford-vr] [^balch]
+- Five children recorded to Silas and Hannah, including direct-line son Uriah.[^bradford-vr]
+- House carpentry and service as Samuel Perley's apprenticeship master.[^perley]
+- Work as one of the four contractors on the 1790 East Parish meetinghouse.[^perry]
+- Participation in Bradford tobacco manufacturing by 1817.[^poore-reminiscences]
+- Repeated contemporary or record-based use of the lieutenant title.[^bradford-vr] [^cemetery]
+- Death on January 29, 1828, aged sixty-four, and burial in the old East Bradford cemetery.[^bradford-vr] [^cemetery]
 
-### Strongly supported by later local history
+### Strong inference
 
-- Ownership and occupancy of the Main Street house associated with Ebenezer Hopkinson
-- April 1799 sale to Daniel Stickney
-- Acquisition and occupancy of Nathaniel Balch's Cannon Hill property
-- Residence on the old Bailey lot during Silas's final years
+- Silas held a lieutenant rank in the Massachusetts militia. The title is repeatedly documented, but the underlying commission and unit have not been located.[^bradford-vr] [^cemetery]
+- His role as an apprentice's master indicates that he was an established or master-level house carpenter, although “master craftsman” is descriptive rather than a quoted occupational title.[^perley]
+
+### Unverified
+
+- The Main Street ownership and occupancy sequence from about 1788 through April 1799.[^poore-houses-302]
+- Purchase and occupancy of Nathaniel Balch's Cannon Hill house from 1799 until about 1817 or 1818.[^poore-houses-204]
+- Residence at the old Bailey-lot house from about 1823 through 1828.[^poore-houses-298]
+- The Balch genealogy's report that Rev. William Balch personally performed his granddaughter's marriage; consistent with the relationship and clerical role, but the original ministerial return has not been separately examined.[^balch]
 
 ### Unresolved
 
-- Original probate or estate file
-- Original deeds, prices, acreage, abutters, and legal descriptions
-- Residence from approximately 1818 to 1823
-- Household composition in the 1790–1820 federal censuses
-- Militia company, regiment, commission, and dates of service
-- Formal Congregational church membership
-- Exact products and scale of his tobacco business
-- Cause and circumstances of death
+- Militia company, regiment, commission, appointment date, and active service.
+- Residence between approximately 1818 and 1823.
+- Original deeds and the terms of the reported property transactions.
+- Household composition in each federal census from 1790 through 1820.
+- Probate, administration, inventory, or other estate proceedings.
+- Formal Congregational church membership.
+- Products, premises, business organization, and scale of the tobacco operation.
+- Cause and circumstances of death.
 
-## Research notes
+## Research priorities
 
-No openly indexed probate file has yet been located for Silas. This does not establish that no estate proceeding occurred; the Essex County docket and file images require direct examination through specialized probate collections.
-
-Future research should prioritize:
-
-1. Essex County probate docket indexes and estate files for 1828.
-2. Deeds involving Silas, Ebenezer Hopkinson, Daniel Stickney, Nathaniel Balch, and Jacob Sawyer.
-3. Bradford household schedules in the 1790, 1800, 1810, and 1820 censuses.
-4. Massachusetts militia officer commissions and Bradford company records.
-5. East Parish Congregational membership, pew, and parish records.
-6. Bradford town accounts or building papers relating to the 1790 meetinghouse.
+1. Examine Massachusetts militia officer commissions and Bradford company or regimental records for an identifying Silas Hopkinson entry.
+2. Locate and abstract Essex County deeds involving Silas Hopkinson, Ebenezer Hopkinson, Daniel Stickney, Nathaniel Balch, and Jacob Sawyer.
+3. Search Essex County probate docket indexes and original estate files for proceedings after January 29, 1828.
+4. Reconstruct and correlate the 1790, 1800, 1810, and 1820 Bradford census households without assigning unnamed household members beyond what the schedules support.
+5. Examine East Parish Congregational membership, pew, tax, and parish records.
+6. Seek Bradford town accounts, contracts, or building papers for the 1790 meetinghouse.
+7. Search tax, licensing, directory, account-book, newspaper, and deed evidence for the organization and location of Silas's tobacco business.
 
 ## Sources
 
-- *Vital Records of Bradford, Massachusetts, to the End of the Year 1849*. Birth, marriage, and death entries for the Hopkinson and Balch families. [Internet Archive](https://archive.org/download/cu31924028819402/cu31924028819402.pdf)
-- Gardner B. Perry, *History of Bradford, Mass., from the Earliest Period to the Close of 1820*. Identifies the contractors responsible for the 1790 East Parish meetinghouse and describes Bradford's tobacco industry. [Internet Archive scan](https://upload.wikimedia.org/wikipedia/commons/3/38/History_of_Bradford%2C_Mass.%2C_from_the_earliest_period_to_the_close_of_1820_%28IA_historyofbradfor00perr%29.pdf)
-- M. V. B. Perley, *History and Genealogy of the Perley Family*. Records Samuel Perley's apprenticeship to Silas and Silas's trade as a house carpenter. [Internet Archive](https://archive.org/stream/historyandgenea00perlgoog/historyandgenea00perlgoog_djvu.txt)
-- Alfred Poore, “Houses and Buildings of Groveland, Massachusetts,” in *Essex Institute Historical Collections*, volume 46. Provides the later reconstruction of Silas's residences and property transfers. [Internet Archive](https://archive.org/stream/essexinstitutehi46esseuoft/essexinstitutehi46esseuoft_djvu.txt)
-- Alfred Poore, *Reminiscences of Seventy Years, Including Half a Century in the Practice of Medicine in This Place*. Identifies Silas as a tobacco manufacturer in 1817. [Internet Archive scan](https://upload.wikimedia.org/wikipedia/commons/5/5f/Reminiscences_of_seventy_years_-_including_half_a_century_in_the_practice_of_medicine_in_this_place_%28IA_reminiscencesofs00spof%29.pdf)
-- *Inscriptions from the Old Cemetery in Groveland, Mass. (Formerly East Bradford)*. Transcriptions of the gravestones of Silas, Hannah, and their daughter Hannah. [Internet Archive scan](https://upload.wikimedia.org/wikipedia/commons/1/18/Inscriptions_from_the_old_cemetery_in_Groveland%2C_Mass._%28formerly_East_Bradford.%29_%28IA_cu31924028820856%29.pdf)
-- Galusha B. Balch, *Genealogy of the Balch Families in America* (1897). Useful for the Balch relationship, but contains incorrect death information for Silas and Hannah. [Internet Archive](https://ia801603.us.archive.org/11/items/genealogyofbalch00balc/genealogyofbalch00balc.pdf)
+[^bradford-vr]: Topsfield Historical Society, *Vital Records of Bradford, Massachusetts, to the End of the Year 1849* (Topsfield, Mass.: Topsfield Historical Society, 1907), 16, 84–86, 227, 330; entries for Hannah Balch and the Silas Hopkinson family. The volume states that its compilation draws from town, church, court, cemetery, and private records and identifies the source class for variant entries. [Internet Archive scan](https://archive.org/download/cu31924028819402/cu31924028819402.pdf).
 
-## Related pages
+[^perry]: Gardner B. Perry, *History of Bradford, Mass., from the Earliest Period to the Close of 1820* (Haverhill, Mass.: R. B. Butters, 1821), account of the East Parish meetinghouse contractors and Bradford tobacco manufacturing. [Internet Archive scan](https://upload.wikimedia.org/wikipedia/commons/3/38/History_of_Bradford%2C_Mass.%2C_from_the_earliest_period_to_the_close_of_1820_%28IA_historyofbradfor00perr%29.pdf).
 
-- [[Hopkinson Family Archive]]
-- [[Hopkinson Family Lineage]]
-- [[Samuel Hopkinson]]
-- [[Uriah Hopkinson]]
+[^perley]: Martin Van Buren Perley, *History and Genealogy of the Perley Family* (Salem, Mass.: the author, 1906), 212–213, Samuel Perley apprenticeship narrative. [Internet Archive transcription](https://archive.org/stream/historyandgenea00perlgoog/historyandgenea00perlgoog_djvu.txt).
+
+[^poore-houses-204]: Alfred Poore, “Houses and Buildings of Groveland, Massachusetts,” *Essex Institute Historical Collections* 46 (1910): 204–205, Sawyer House entry. [Internet Archive transcription](https://archive.org/stream/essexinstitutehi46esseuoft/essexinstitutehi46esseuoft_djvu.txt).
+
+[^poore-houses-298]: Alfred Poore, “Houses and Buildings of Groveland, Massachusetts,” *Essex Institute Historical Collections* 46 (1910): 297–298, old Bailey-lot house and occupant list. [Internet Archive transcription](https://archive.org/stream/essexinstitutehi46esseuoft/essexinstitutehi46esseuoft_djvu.txt).
+
+[^poore-houses-302]: Alfred Poore, “Houses and Buildings of Groveland, Massachusetts,” *Essex Institute Historical Collections* 46 (1910): 301–302, Daniel Stickney residence entry. [Internet Archive transcription](https://archive.org/stream/essexinstitutehi46esseuoft/essexinstitutehi46esseuoft_djvu.txt).
+
+[^poore-reminiscences]: Alfred Poore, *Reminiscences of Seventy Years, Including Half a Century in the Practice of Medicine in This Place* (Groveland, Mass.: 1887), recollection of Bradford industries and tobacco manufacturers in 1817. [Internet Archive scan](https://upload.wikimedia.org/wikipedia/commons/5/5f/Reminiscences_of_seventy_years_-_including_half_a_century_in_the_practice_of_medicine_in_this_place_%28IA_reminiscencesofs00spof%29.pdf).
+
+[^cemetery]: *Inscriptions from the Old Cemetery in Groveland, Mass. (Formerly East Bradford)* (Haverhill, Mass.: Chase Bros., 1892), inscriptions for Lieutenant Silas Hopkinson, Hannah Balch Hopkinson, and their daughter Hannah. [Internet Archive scan](https://upload.wikimedia.org/wikipedia/commons/1/18/Inscriptions_from_the_old_cemetery_in_Groveland%2C_Mass._%28formerly_East_Bradford.%29_%28IA_cu31924028820856%29.pdf).
+
+[^balch]: Galusha B. Balch, *Genealogy of the Balch Families in America* (Salem, Mass.: E. Putnam, 1897), Silas Hopkinson–Hannah Balch family entry. This later genealogy preserves the Balch relationship and ministerial account but gives erroneous death information for Silas and conflicting death information for Hannah. [Internet Archive scan](https://ia801603.us.archive.org/11/items/genealogyofbalch00balc/genealogyofbalch00balc.pdf).
+
+## Related people
+
+- [[people/Samuel Hopkinson|Samuel Hopkinson]] — father and direct-line predecessor
+- [[people/Betty Palmer|Betty Palmer]] — mother
+- [[people/Hannah Balch|Hannah Balch]] — wife
+- [[people/Uriah Hopkinson|Uriah Hopkinson]] — son and direct-line successor
