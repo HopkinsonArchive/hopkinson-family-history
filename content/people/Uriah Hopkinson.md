@@ -1,6 +1,6 @@
 ---
 title: Uriah Hopkinson
-updated: 07/19/2026 9:21 PM
+updated: 07/19/2026 9:31 PM
 aliases:
   - Uriah Hopkinson of Groveland
 birth_date: 1791-09-28
@@ -140,8 +140,6 @@ Uriah's biography presently has a substantial documentary break after the middle
 ### 1870 census search
 
 The original 1870 federal population schedule for Groveland was examined page by page. The town occupies forty-five written census pages on Massachusetts roll M593-608. Numerous Hopkinson households appear, but **Uriah was not found by name**, and no household could be identified confidently as Uriah and Lucy under variant given names.
-
-One household contains an eighty-year-old **William Hopkinson** and a sixty-eight-year-old **Adeline Hopkinson**. The written name appears to be William, and the woman's name and age do not match Lucy. That household should not be reassigned to Uriah merely to close the gap.
 
 The negative result leaves several possibilities:
 
