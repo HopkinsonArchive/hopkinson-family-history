@@ -4,3 +4,113 @@
 body[data-slug="index"] .article-title {
   display: none;
 }
+
+/* =========================================================
+   IMAGE ALIGNMENT
+   - Centers image embeds by default.
+   - Allows |L and |R parameters to override centering.
+   - Supports Obsidian Reading View, Live Preview, and Quartz.
+   ========================================================= */
+
+/* ---------------------------------------------------------
+   DEFAULT: CENTER IMAGE ROWS
+   Multiple images on the same Markdown line are centered
+   together as one row.
+   --------------------------------------------------------- */
+
+/* Center embedded-image paragraphs in Obsidian Reading View. */
+.markdown-rendered p:has(.image-embed) {
+  text-align: center;
+}
+
+/* Center embedded-image lines in Obsidian Live Preview. */
+.markdown-source-view.mod-cm6 .cm-line:has(.image-embed) {
+  text-align: center;
+}
+
+/* Center image paragraphs in Quartz. */
+article p:has(img) {
+  text-align: center;
+}
+
+/* ---------------------------------------------------------
+   LEFT OR RIGHT OVERRIDE
+   Remove centering from any row containing an L or R image.
+   The case-insensitive "i" allows L/l and R/r.
+   --------------------------------------------------------- */
+
+/* Restore normal alignment for Obsidian paragraphs containing |L. */
+.markdown-rendered p:has(.image-embed[alt$="|L" i]) {
+  text-align: initial;
+  display: flow-root;
+}
+
+/* Restore normal alignment for Obsidian paragraphs containing |R. */
+.markdown-rendered p:has(.image-embed[alt$="|R" i]) {
+  text-align: initial;
+  display: flow-root;
+}
+
+/* Restore normal alignment for Live Preview lines containing |L or |R. */
+.markdown-source-view.mod-cm6
+  .cm-line:has(
+    .image-embed[alt$="|L" i],
+    .image-embed[alt$="|R" i]
+  ) {
+  text-align: initial;
+}
+
+/* Restore normal alignment for Quartz paragraphs containing |L or |R. */
+article p:has(
+  img[alt$="|L" i],
+  img[alt$="|R" i]
+) {
+  text-align: initial;
+  display: flow-root;
+}
+
+/* ---------------------------------------------------------
+   LEFT ALIGNMENT
+   Float images marked with |L to the left.
+   --------------------------------------------------------- */
+
+/* Left-align Obsidian image embeds. */
+.markdown-rendered .image-embed[alt$="|L" i],
+.markdown-source-view.mod-cm6 .image-embed[alt$="|L" i] {
+  float: left;
+  margin: 0 1rem 0.75rem 0;
+}
+
+/* Left-align corresponding Quartz images. */
+article img[alt$="|L" i] {
+  float: left;
+  margin: 0 1rem 0.75rem 0;
+}
+
+/* ---------------------------------------------------------
+   RIGHT ALIGNMENT
+   Float images marked with |R to the right.
+   --------------------------------------------------------- */
+
+/* Right-align Obsidian image embeds. */
+.markdown-rendered .image-embed[alt$="|R" i],
+.markdown-source-view.mod-cm6 .image-embed[alt$="|R" i] {
+  float: right;
+  margin: 0 0 0.75rem 1rem;
+}
+
+/* Right-align corresponding Quartz images. */
+article img[alt$="|R" i] {
+  float: right;
+  margin: 0 0 0.75rem 1rem;
+}
+
+/* ---------------------------------------------------------
+   IMAGE BASELINE
+   Prevent unwanted gaps beneath ordinary inline images.
+   --------------------------------------------------------- */
+
+.image-embed img,
+article img {
+  vertical-align: middle;
+}
