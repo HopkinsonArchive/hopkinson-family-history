@@ -1,6 +1,6 @@
 ---
 title: Lowell Herbert Hopkinson
-updated: 07/21/2026 12:52 AM
+updated: 07/21/2026 1:03 AM
 quartz-properties-collapse: true
 page_url: https://hopkinsonarchive.github.io/hopkinson-family-history/people/lowell-herbert-hopkinson
 aliases:
@@ -89,7 +89,7 @@ Lowell later served as a Groveland constable and belonged to a local Grand Army 
 |---|---|---|---|
 | Birth | June 15, 1836; Bradford, Essex County, Massachusetts | **Confirmed**; one later transcription gives June 13 | [^birth-parentage] |
 | Parentage | Mother: [[Ann Matilda Hopkinson]]; probable biological father: [[William Pillsbury Bailey]] | Mother **Confirmed**; father **Strong inference** | [^birth-parentage] |
-| Marriage | [[Margaret Metcalf]]; date and place not yet established here | Relationship **Confirmed**; event details **Unresolved** | [^family] |
+| Marriage | [[Margaret (Metcalf) Hopkinson]]; date and place not yet established here | Relationship **Confirmed**; event details **Unresolved** | [^family] |
 | Occupation | Shoemaker; Groveland, Massachusetts | **Confirmed** | [^roster-11th][^roster-59th] |
 | Military service | 11th Massachusetts Infantry, 1861–1862; 59th/57th Massachusetts Infantry, 1863–1865 | **Confirmed** | [^roster-11th][^roster-59th][^pension-report] |
 | Later disability | Described as paralyzed, bedridden, helpless, and unable to care for himself by December 1896 | **Confirmed** as a contemporary description; diagnosis **Unresolved** | [^pension-report] |
@@ -206,15 +206,15 @@ Lowell is reported to have died in Groveland on May 2, 1904, at age sixty-seven,
 
 The documented Hopkinson descent reaches Lowell through his mother:
 
-[[people/Uriah Hopkinson|Uriah Hopkinson]] → [[people/Ann Matilda Hopkinson|Ann Matilda Hopkinson]] → **Lowell Herbert Hopkinson**
+[[Uriah Hopkinson]] → [[Ann Matilda Hopkinson]] → **Lowell Herbert Hopkinson**
 
 The strongly inferred biological paternal connection is:
 
-[[people/William Pillsbury Bailey|William Pillsbury Bailey]] → **Lowell Herbert Hopkinson**
+[[William Pillsbury Bailey]] → **Lowell Herbert Hopkinson**
 
 The published direct line continues:
 
-**Lowell Herbert Hopkinson** → [[people/Harry Francis Hopkinson|Harry Francis Hopkinson]]
+**Lowell Herbert Hopkinson** → [[Harry Francis Hopkinson]]
 
 Because Lowell inherited and retained his mother's surname while his biological father remains strongly inferred rather than directly proved, this portion of the archive is not described as an uninterrupted male-line or Y-chromosome Hopkinson descent.
 
