@@ -1,6 +1,6 @@
 ---
 title: Michael Hopkinson
-updated: 07/20/2026 9:59 PM
+updated: 07/21/2026 12:21 AM
 quartz-properties-collapse: true
 page_url: https://hopkinsonarchive.github.io/hopkinson-family-history/people/michael-hopkinson
 aliases:
@@ -108,10 +108,10 @@ After Michael's death, Ann married John Trumble in August 1650 and later Richard
 | Child | Birth–death | Relationship evidence | Notes |
 |---|---|---|---|
 | Jonathan Hopkinson (infant) | January 12–20, 1641/42 | Rowley birth and burial entries identify him as the son of Michaell and Ann. | Died in infancy; no separate person page. |
-| [[people/Jonathan Hopkinson]] | April 9, 1643–February 11, 1718/19 | Rowley birth record and 1657 court division. | The name Jonathan was reused after the first child's death. |
-| [[people/Jeremiah Hopkinson]] | March 26, 1645–buried February 22, 1665/66 | Rowley birth record and 1657 court division. | Survived his father but died young. |
-| [[people/John Hopkinson]] | January 7, 1646/47–May 29, 1704 | Rowley birth record and 1657 court division. | Later married Elizabeth Pearson. |
-| [[people/Caleb Hopkinson Sr.]] | February 19, 1648/49–April 17, 1721 | Rowley birth record and 1657 court division. | Youngest documented child and direct-line successor. |
+| [[Jonathan Hopkinson]] | April 9, 1643–February 11, 1718/19 | Rowley birth record and 1657 court division. | The name Jonathan was reused after the first child's death. |
+| [[Jeremiah Hopkinson]] | March 26, 1645–buried February 22, 1665/66 | Rowley birth record and 1657 court division. | Survived his father but died young. |
+| [[John Hopkinson]] | January 7, 1646/47–May 29, 1704 | Rowley birth record and 1657 court division. | Later married Elizabeth Pearson. |
+| [[Caleb Hopkinson Sr.]] | February 19, 1648/49–April 17, 1721 | Rowley birth record and 1657 court division. | Youngest documented child and direct-line successor. |
 
 The published Rowley vital records document both sons named Jonathan. The first was born January 12 and buried January 20, 1641/42. Reusing the name after an infant's death was a recognized early New England naming practice; here, however, the principal point is established directly by the two separate Rowley entries.[^rowley-vr]
 
