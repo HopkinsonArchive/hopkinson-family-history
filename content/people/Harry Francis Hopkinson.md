@@ -1,6 +1,6 @@
 ---
 title: Harry Francis Hopkinson
-updated: 07/20/2026 9:59 PM
+updated: 07/20/2026 10:06 PM
 quartz-properties-collapse: true
 page_url: https://hopkinsonarchive.github.io/hopkinson-family-history/people/harry-francis-hopkinson
 aliases:
@@ -139,6 +139,8 @@ Province-wide civil death registration in Nova Scotia was not maintained between
 The 1901 census places Flora and Ralph in the Shubenacadie household of Isaac and Hannah Barnhill. Flora was recorded as their daughter and as a widow; Ralph was recorded as their grandson.[^6] The census therefore independently confirms Harry's death before 1901, Flora's relationship to the Barnhill household, and Ralph's survival. Its March 10 birth date for Ralph conflicts with the February 11 date in the Groveland register. The contemporaneous record created in Ralph's birth town is presently preferred.[^3][^6]
 
 ## Death and burial
+
+![[harry-francis-hopkinson-grave.jpg]]
 
 Harry died in Groveland on **November 1, 1897**. The town death transcription describes him as married and gives his age as **29 years and 28 days**.[^4] That age agrees exactly with the interval from his recorded birth on October 4, 1868.
 
