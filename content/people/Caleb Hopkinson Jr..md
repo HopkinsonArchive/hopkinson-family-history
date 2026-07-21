@@ -1,7 +1,8 @@
 ---
 title: Caleb Hopkinson Jr.
-updated: 07/20/2026 4:43 PM
+updated: 07/20/2026 9:58 PM
 quartz-properties-collapse: true
+page_url: https://hopkinsonarchive.github.io/hopkinson-family-history/people/caleb-hopkinson-jr.
 aliases:
   - Ensign Caleb Hopkinson
   - Caleb Hopkinson II

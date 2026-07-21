@@ -1,7 +1,8 @@
 ---
 title: Ralph Lowell Hopkinson Sr.
-updated: 07/20/2026 9:52 PM
+updated: 07/20/2026 10:00 PM
 quartz-properties-collapse: true
+page_url: https://hopkinsonarchive.github.io/hopkinson-family-history/people/ralph-lowell-hopkinson-sr.
 aliases:
   - Ralph L. Hopkinson Sr.
   - Ralph Lowell Hopkinson

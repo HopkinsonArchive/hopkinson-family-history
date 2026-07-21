@@ -1,7 +1,8 @@
 ---
 title: Silas Hopkinson
-updated: 07/20/2026 4:22 PM
+updated: 07/20/2026 10:00 PM
 quartz-properties-collapse: true
+page_url: https://hopkinsonarchive.github.io/hopkinson-family-history/people/silas-hopkinson
 aliases:
   - Lieutenant Silas Hopkinson
   - Lt. Silas Hopkinson

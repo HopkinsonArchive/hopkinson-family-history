@@ -1,7 +1,8 @@
 ---
 title: Caleb Hopkinson Sr.
-updated: 07/20/2026 4:57 PM
+updated: 07/20/2026 9:59 PM
 quartz-properties-collapse: true
+page_url: https://hopkinsonarchive.github.io/hopkinson-family-history/people/caleb-hopkinson-sr.
 aliases:
   - Caleb Hopkinson
   - Clerk Caleb Hopkinson

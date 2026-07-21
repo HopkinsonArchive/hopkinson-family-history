@@ -1,5 +1,8 @@
 ---
 title: Ann Matilda Hopkinson
+updated: 07/20/2026 9:58 PM
+quartz-properties-collapse: true
+page_url: https://hopkinsonarchive.github.io/hopkinson-family-history/people/ann-matilda-hopkinson
 aliases:
   - Ann Matilda Estabrook
   - Ann M. Estabrook
@@ -17,7 +20,6 @@ children:
   - Lowell Herbert Hopkinson
   - John L. Estabrook
 evidence_status: documented with unresolved death and strongly inferred paternity of Lowell
-updated: 07/20/2026 3:39 PM
 description: Biography of Ann Matilda Hopkinson, daughter of Uriah and Lucy Hopkinson, mother of Lowell Herbert Hopkinson, and later wife of John R. Estabrooks.
 tags:
   - people

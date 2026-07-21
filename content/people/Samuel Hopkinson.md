@@ -1,7 +1,8 @@
 ---
 title: Samuel Hopkinson
-updated: 07/20/2026 4:31 PM
+updated: 07/20/2026 10:00 PM
 quartz-properties-collapse: true
+page_url: https://hopkinsonarchive.github.io/hopkinson-family-history/people/samuel-hopkinson
 aliases:
   - Ensign Samuel Hopkinson
 birth_date: 1718-07-14

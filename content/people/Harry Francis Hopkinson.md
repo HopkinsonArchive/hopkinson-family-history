@@ -1,7 +1,8 @@
 ---
 title: Harry Francis Hopkinson
-updated: 07/20/2026 3:32 PM
+updated: 07/20/2026 9:59 PM
 quartz-properties-collapse: true
+page_url: https://hopkinsonarchive.github.io/hopkinson-family-history/people/harry-francis-hopkinson
 aliases:
   - Harry F. Hopkinson
 page_type: person

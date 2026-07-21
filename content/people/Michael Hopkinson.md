@@ -1,7 +1,8 @@
 ---
 title: Michael Hopkinson
-updated: 07/20/2026 5:37 PM
+updated: 07/20/2026 9:59 PM
 quartz-properties-collapse: true
+page_url: https://hopkinsonarchive.github.io/hopkinson-family-history/people/michael-hopkinson
 aliases:
   - Michaell Hopkinson
   - Mighill Hobkinson

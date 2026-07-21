@@ -1,7 +1,8 @@
 ---
 title: Lowell Herbert Hopkinson
-updated: 07/20/2026 3:52 PM
+updated: 07/20/2026 9:59 PM
 quartz-properties-collapse: true
+page_url: https://hopkinsonarchive.github.io/hopkinson-family-history/people/lowell-herbert-hopkinson
 aliases:
   - Lowell H. Hopkinson
 page_type: person
