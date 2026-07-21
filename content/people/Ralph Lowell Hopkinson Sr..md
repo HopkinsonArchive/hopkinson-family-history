@@ -1,6 +1,6 @@
 ---
 title: Ralph Lowell Hopkinson Sr.
-updated: 07/20/2026 9:29 PM
+updated: 07/20/2026 9:45 PM
 quartz-properties-collapse: true
 aliases:
   - Ralph L. Hopkinson Sr.
@@ -175,6 +175,8 @@ Draft registration does not establish induction or military service. No verified
 His confirmed public service was municipal: he served as a permanent Attleboro firefighter and later appears in a city pension transaction.[^6][^7][^8]
 
 ## Death and burial
+
+![[Ralph-Lowell-Hopkinson-Sr.-Grave.jpg]]
 
 Ralph died in 1946 at the age of fifty-two. A later cemetery memorial reports May 28, 1946 at Attleboro, and the *Attleboro Sun* published his obituary on that date.[^10][^12] Because the original death certificate and a clean image of the complete obituary have not yet been examined, the exact date and place are classified as a **strong inference** rather than confirmed.
 
