@@ -1,6 +1,6 @@
 ---
 title: Caleb Hopkinson Sr.
-updated: 07/21/2026 1:38 AM
+updated: 07/21/2026 1:36 AM
 quartz-properties-collapse: true
 page_url: https://hopkinsonarchive.github.io/hopkinson-family-history/people/caleb-hopkinson-sr.
 aliases:
@@ -13,7 +13,7 @@ death_date: 1721-04-17
 death_place: Bradford, Massachusetts Bay Province
 burial_place: Ancient Burying Ground, Bradford, Massachusetts
 father: "[[Michael Hopkinson]]"
-mother: "[[Ann — wife of Michael Hopkinson]]"
+mother: "[[Ann (Gott) Hopkinson]]"
 spouses:
   - "[[Sarah Wallingford]]"
   - "[[Sarah Wheeler Spofford]]"
@@ -35,7 +35,7 @@ tags:
 > [!summary] Profile
 > **Born:** February 19, 1648/49, Rowley, Massachusetts Bay Colony  
 > **Died:** April 17, 1721, Bradford, Massachusetts Bay Province  
-> **Parents:** [[Michael Hopkinson]] and [[Ann (Gott) Hopkinson]]  
+> **Parents:** [[Michael Hopkinson]] and [[Ann — wife of Michael Hopkinson|Ann]]  
 > **Spouses:** [[Sarah Wallingford]]; [[Sarah Wheeler Spofford]]  
 > **Direct-line child:** [[Caleb Hopkinson Jr.]]  
 > **Evidence status:** Confirmed
@@ -198,7 +198,7 @@ The direct Hopkinson line continues through his only documented son:
 ## Related people
 
 - [[Michael Hopkinson]] — father
-- [[Ann (Gott) Hopkinson]] — mother
+- [[Ann — wife of Michael Hopkinson]] — mother
 - [[John Trumble]] — stepfather
 - [[Richard Swan]] — stepfather
 - [[Sarah Wallingford]] — first wife
