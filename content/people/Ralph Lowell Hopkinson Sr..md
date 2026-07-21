@@ -27,7 +27,7 @@ parents:
   - "[[people/Harry Francis Hopkinson|Harry Francis Hopkinson]]"
   - "[[people/Flora Barnhill|Flora Barnhill]]"
 spouses:
-  - "[[Alma Irene Palardy Hopkinson|Alma Irene Palardy Hopkinson]]"
+  - "[[Alma Irene (Palardy) Hopkinson|Alma Irene Palardy Hopkinson]]"
 children:
   - "[[people/Ralph L. Hopkinson Jr.|Ralph L. Hopkinson Jr.]]"
 direct_line: true
@@ -66,7 +66,7 @@ tags:
 > **Died:** May 28, 1946, probably at Attleboro, Massachusetts  
 > **Buried:** North Purchase Cemetery, section C, lot 133, Attleboro  
 > **Parents:** [[people/Harry Francis Hopkinson|Harry Francis Hopkinson]] and [[Flora Barnhill Hopkinson|Flora Barnhill]]  
-> **Wife:** [[Alma Irene Palardy Hopkinson|Alma Irene Palardy Hopkinson]]  
+> **Wife:** [[Alma Irene (Palardy) Hopkinson|Alma Irene Palardy Hopkinson]]  
 > **Documented child:** [[Ralph Lowell Hopkinson Jr.|Ralph L. Hopkinson Jr.]]  
 > **Occupation:** Attleboro firefighter  
 > **Direct-line position:** Harry Francis Hopkinson → **Ralph Lowell Hopkinson Sr.** → Ralph L. Hopkinson Jr.  
@@ -87,7 +87,7 @@ By the First World War era Ralph was established in Attleboro. He registered for
 | Childhood household | March 31, 1901, Isaac and Hannah Barnhill household, Shubenacadie, Nova Scotia | **Confirmed** | 1901 Census of Canada[^2] |
 | Return to Massachusetts | After March 1901 and no later than the 1917–1918 draft-registration period | **Strong inference**; exact date unresolved | Flora at Attleboro by 1913; Ralph's Attleboro draft registration[^3][^4] |
 | Marriage | December 25, 1918, Attleboro, Massachusetts | **Strong inference** pending examination of the original certificate | Indexed marriage record, certificate 112, p. 450[^5] |
-| Wife | [[Alma Irene Palardy Hopkinson]] | **Confirmed** | Indexed marriage record and family monument[^5][^11] |
+| Wife | [[Alma Irene (Palardy) Hopkinson]] | **Confirmed** | Indexed marriage record and family monument[^5][^11] |
 | Son | [[Ralph L. Hopkinson Jr.]], 1920–2000 | **Confirmed** | Family monument and contemporary obituaries[^10][^11] |
 | Death | May 28, 1946, Attleboro, Massachusetts | **Strong inference** pending original death record | *Attleboro Sun* obituary and cemetery memorial[^10][^12] |
 | Burial | North Purchase Cemetery, Attleboro; section C, lot 133 | **Confirmed** for cemetery; section and lot strongly supported | Family monument and cemetery memorial[^11][^12] |
@@ -272,6 +272,6 @@ Earlier summaries left Ralph's spouse, occupation, exact death, obituary, and bu
 - [[people/Harry Francis Hopkinson|Harry Francis Hopkinson]] — father and direct-line predecessor
 - [[people/Flora Barnhill|Flora Barnhill]] — mother
 - [[people/Marion Maude Hopkinson|Marion Maude Hopkinson]] — sister
-- [[Alma Irene Palardy Hopkinson|Alma Irene Palardy Hopkinson]] — wife
+- [[Alma Irene (Palardy) Hopkinson|Alma Irene Palardy Hopkinson]] — wife
 - [[people/Ralph L. Hopkinson Jr.|Ralph L. Hopkinson Jr.]] — son and direct-line successor
 ```

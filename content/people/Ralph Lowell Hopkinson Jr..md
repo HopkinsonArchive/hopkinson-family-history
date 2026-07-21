@@ -1,6 +1,6 @@
 ---
 title: Ralph Lowell Hopkinson Jr.
-updated: 07/21/2026 12:05 AM
+updated: 07/21/2026 12:10 AM
 quartz-properties-collapse: true
 page_url: https://hopkinsonarchive.github.io/hopkinson-family-history/people/ralph-lowell-hopkinson-jr.
 aliases:
@@ -26,7 +26,7 @@ cemetery_section: C
 cemetery_plot: Lot 133
 parents:
   - "[[people/Ralph L. Hopkinson Sr.|Ralph L. Hopkinson Sr.]]"
-  - "[[people/Alma Irene Palardy Hopkinson|Alma Irene Palardy Hopkinson]]"
+  - "[[Alma Irene (Palardy) Hopkinson|Alma Irene (Palardy) Hopkinson]]"
 spouses:
   - "[[people/Lillian M. Higson Hopkinson|Lillian M. Higson Hopkinson]]"
 children:
@@ -64,7 +64,7 @@ tags:
 > **Born:** February 2, 1920, reportedly at Attleboro; the underlying birth source has not yet been inspected  
 > **Died:** December 14, 2000; FamilySearch reports Webster, Massachusetts, but the death-place source remains to be examined  
 > **Buried:** North Purchase Cemetery, Attleboro; section C, lot 133 is reported  
-> **Parents:** [[Ralph Lowell Hopkinson Sr.]] and [[Alma Irene Palardy Hopkinson|Alma Irene Palardy Hopkinson]]  
+> **Parents:** [[Ralph Lowell Hopkinson Sr.]] and [[Alma Irene (Palardy) Hopkinson]]  
 > **Wife:** [[Lillian May (Higson) Hopkinson]]  
 > **Children:** two living daughters, [[Dale Hopkinson|Dale Hopkinson]], and [[people/Ralph Lowell Hopkinson III|Ralph L. Hopkinson III]]  
 > **Education:** Attleboro High School, Technical course, class of 1938  
@@ -75,7 +75,7 @@ tags:
 
 # Ralph Lowell Hopkinson Jr.
 
-**Ralph Lowell Hopkinson Jr.**, known at school as **“Hoppy,”** was born in 1920 to [[people/Ralph L. Hopkinson Sr.]] and [[Alma Irene Palardy Hopkinson]]. A FamilySearch profile reports an exact birth of **February 2, 1920, at Attleboro**, and displays ten attached sources for the birth conclusion. The saved Details page does not identify or reproduce those sources, so the exact date and place remain **Unverified** until the attached record is examined.[^1][^5]
+**Ralph Lowell Hopkinson Jr.**, known at school as **“Hoppy,”** was born in 1920 to [[people/Ralph L. Hopkinson Sr.]] and [[Alma Irene (Palardy) Hopkinson]]. A FamilySearch profile reports an exact birth of **February 2, 1920, at Attleboro**, and displays ten attached sources for the birth conclusion. The saved Details page does not identify or reproduce those sources, so the exact date and place remain **Unverified** until the attached record is examined.[^1][^5]
 
 Ralph completed the Technical course at Attleboro High School in 1938. His senior profile identified him as “Hoppy” and named **“Technical Cadet, United States Maritime Commission”** as his intended destination. That contemporary statement documents a maritime ambition but does not establish that he entered the cadet program or later served in the Merchant Marine, Naval Reserve, or Navy.[^2]
 
@@ -280,7 +280,7 @@ Through Ralph Sr., Harry Francis Hopkinson, and Lowell Herbert Hopkinson, Ralph 
 ## Related people
 
 - [[people/Ralph L. Hopkinson Sr.|Ralph Lowell Hopkinson Sr.]] — father and direct-line predecessor
-- [[people/Alma Irene Palardy Hopkinson|Alma Irene Palardy Hopkinson]] — mother
+- [[Alma Irene (Palardy) Hopkinson|Alma Irene (Palardy) Hopkinson]] — mother
 - [[people/Lillian M. Higson Hopkinson|Lillian May Higson Hopkinson]] — wife
 - [[Dale Hopkinson|Dale Hopkinson]] — son and direct-line successor
 - [[people/Ralph L. Hopkinson III|Ralph L. Hopkinson III]] — son
