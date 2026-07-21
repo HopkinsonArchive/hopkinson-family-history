@@ -1,6 +1,6 @@
 ---
 title: Lowell Herbert Hopkinson
-updated: 07/21/2026 1:52 AM
+updated: 07/21/2026 6:56 PM
 quartz-properties-collapse: true
 page_url: https://hopkinsonarchive.github.io/hopkinson-family-history/people/lowell-herbert-hopkinson
 aliases:
@@ -156,7 +156,7 @@ An 1899 glass-plate photograph cataloged by Historic New England as **“Lowell 
 Both Massachusetts military roster entries identify Lowell as a **shoemaker** and a resident of Groveland. This is direct evidence of his occupation in 1861 and again in 1863. The records reviewed do not yet establish his employer, workshop, specialty, property holdings, or the full duration of his trade.[^roster-11th][^roster-59th]
 
 ## Military and public service
-
+![[lowell-herbert-hopkinson-civil-war-escutcheon.jpg]]
 ### First enlistment: 11th Massachusetts Infantry
 
 The Massachusetts roster records Lowell as a twenty-four-year-old Groveland shoemaker when he enlisted and mustered as a private in Company H, 11th Massachusetts Volunteer Infantry, on June 13, 1861. A later congressional report gives April 20, 1861, as the beginning of this service. The reason for that date conflict remains unresolved; the detailed state roster is preferred for the formal enlistment and muster date.[^roster-11th][^pension-report]
