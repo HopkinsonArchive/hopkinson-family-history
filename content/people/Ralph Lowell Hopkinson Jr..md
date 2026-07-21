@@ -1,6 +1,6 @@
 ---
 title: Ralph Lowell Hopkinson Jr.
-updated: 07/21/2026 12:13 AM
+updated: 07/21/2026 12:15 AM
 quartz-properties-collapse: true
 page_url: https://hopkinsonarchive.github.io/hopkinson-family-history/people/ralph-lowell-hopkinson-jr.
 aliases:
@@ -75,11 +75,11 @@ tags:
 
 # Ralph Lowell Hopkinson Jr.
 
-**Ralph Lowell Hopkinson Jr.**, known at school as **“Hoppy,”** was born in 1920 to [[people/Ralph L. Hopkinson Sr.]] and [[Alma Irene (Palardy) Hopkinson]]. A FamilySearch profile reports an exact birth of **February 2, 1920, at Attleboro**, and displays ten attached sources for the birth conclusion. The saved Details page does not identify or reproduce those sources, so the exact date and place remain **Unverified** until the attached record is examined.[^1][^5]
+**Ralph Lowell Hopkinson Jr.**, known at school as **“Hoppy,”** was born in 1920 to [[Ralph Lowell Hopkinson Sr.]] and [[Alma Irene (Palardy) Hopkinson]]. A FamilySearch profile reports an exact birth of **February 2, 1920, at Attleboro**, and displays ten attached sources for the birth conclusion. The saved Details page does not identify or reproduce those sources, so the exact date and place remain **Unverified** until the attached record is examined.[^1][^5]
 
 Ralph completed the Technical course at Attleboro High School in 1938. His senior profile identified him as “Hoppy” and named **“Technical Cadet, United States Maritime Commission”** as his intended destination. That contemporary statement documents a maritime ambition but does not establish that he entered the cadet program or later served in the Merchant Marine, Naval Reserve, or Navy.[^2]
 
-Ralph married his high-school classmate [[Lillian May (Higson) Hopkinson]]. In 1950 he was recorded as a married household head and **jewelry toolmaker** employed in jewelry manufacturing. Ralph and Lillian had four children: two living daughters whose identities are withheld from the public archive, [[Dale Hopkinson|Dale Hopkinson]], and [[people/Ralph Lowell Hopkinson III]]. Ralph died on **December 14, 2000**. FamilySearch reports that the death occurred at **Webster, Worcester County, Massachusetts**, but the underlying death-place source has not yet been inspected.[^3][^4][^5][^6][^7]
+Ralph married his high-school classmate [[Lillian May (Higson) Hopkinson]]. In 1950 he was recorded as a married household head and **jewelry toolmaker** employed in jewelry manufacturing. Ralph and Lillian had four children: two living daughters whose identities are withheld from the public archive, [[Dale Hopkinson]], and [[Ralph Lowell Hopkinson III]]. Ralph died on **December 14, 2000**. FamilySearch reports that the death occurred at **Webster, Worcester County, Massachusetts**, but the underlying death-place source has not yet been inspected.[^3][^4][^5][^6][^7]
 
 ## Vital information
 
