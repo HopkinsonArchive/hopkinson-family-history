@@ -1,6 +1,6 @@
 ---
 title: Ralph Lowell Hopkinson Jr.
-updated: 07/20/2026 11:51 PM
+updated: 07/21/2026 12:05 AM
 quartz-properties-collapse: true
 page_url: https://hopkinsonarchive.github.io/hopkinson-family-history/people/ralph-lowell-hopkinson-jr.
 aliases:
@@ -30,11 +30,11 @@ parents:
 spouses:
   - "[[people/Lillian M. Higson Hopkinson|Lillian M. Higson Hopkinson]]"
 children:
-  - "[[people/Dale Hopkinson|Dale Hopkinson]]"
+  - "[[Dale Hopkinson|Dale Hopkinson]]"
   - "[[people/Ralph L. Hopkinson III|Ralph L. Hopkinson III]]"
 direct_line: true
 direct_line_predecessor: "[[people/Ralph L. Hopkinson Sr.|Ralph L. Hopkinson Sr.]]"
-direct_line_successor: "[[people/Dale Hopkinson|Dale Hopkinson]]"
+direct_line_successor: "[[Dale Hopkinson|Dale Hopkinson]]"
 family_lines:
   - Hopkinson
   - Palardy
@@ -64,9 +64,9 @@ tags:
 > **Born:** February 2, 1920, reportedly at Attleboro; the underlying birth source has not yet been inspected  
 > **Died:** December 14, 2000; FamilySearch reports Webster, Massachusetts, but the death-place source remains to be examined  
 > **Buried:** North Purchase Cemetery, Attleboro; section C, lot 133 is reported  
-> **Parents:** [[people/Ralph L. Hopkinson Sr.|Ralph Lowell Hopkinson Sr.]] and [[people/Alma Irene Palardy Hopkinson|Alma Irene Palardy Hopkinson]]  
-> **Wife:** [[people/Lillian M. Higson Hopkinson|Lillian May Higson Hopkinson]]  
-> **Children:** two living daughters, [[people/Dale Hopkinson|Dale Hopkinson]], and [[people/Ralph L. Hopkinson III|Ralph L. Hopkinson III]]  
+> **Parents:** [[Ralph Lowell Hopkinson Sr.]] and [[Alma Irene Palardy Hopkinson|Alma Irene Palardy Hopkinson]]  
+> **Wife:** [[Lillian May (Higson) Hopkinson]]  
+> **Children:** two living daughters, [[Dale Hopkinson|Dale Hopkinson]], and [[people/Ralph Lowell Hopkinson III|Ralph L. Hopkinson III]]  
 > **Education:** Attleboro High School, Technical course, class of 1938  
 > **Occupation:** Jewelry toolmaker in jewelry manufacturing, documented in the 1950 census  
 > **Military evidence:** first-hand family testimony remembers United States Navy service; no identifying service record has yet been found  
@@ -75,11 +75,11 @@ tags:
 
 # Ralph Lowell Hopkinson Jr.
 
-**Ralph Lowell Hopkinson Jr.**, known at school as **“Hoppy,”** was born in 1920 to [[people/Ralph L. Hopkinson Sr.|Ralph Lowell Hopkinson Sr.]] and [[people/Alma Irene Palardy Hopkinson|Alma Irene Palardy Hopkinson]]. A FamilySearch profile reports an exact birth of **February 2, 1920, at Attleboro**, and displays ten attached sources for the birth conclusion. The saved Details page does not identify or reproduce those sources, so the exact date and place remain **Unverified** until the attached record is examined.[^1][^5]
+**Ralph Lowell Hopkinson Jr.**, known at school as **“Hoppy,”** was born in 1920 to [[people/Ralph L. Hopkinson Sr.]] and [[Alma Irene Palardy Hopkinson]]. A FamilySearch profile reports an exact birth of **February 2, 1920, at Attleboro**, and displays ten attached sources for the birth conclusion. The saved Details page does not identify or reproduce those sources, so the exact date and place remain **Unverified** until the attached record is examined.[^1][^5]
 
 Ralph completed the Technical course at Attleboro High School in 1938. His senior profile identified him as “Hoppy” and named **“Technical Cadet, United States Maritime Commission”** as his intended destination. That contemporary statement documents a maritime ambition but does not establish that he entered the cadet program or later served in the Merchant Marine, Naval Reserve, or Navy.[^2]
 
-Ralph married his high-school classmate [[people/Lillian M. Higson Hopkinson|Lillian May Higson]]. In 1950 he was recorded as a married household head and **jewelry toolmaker** employed in jewelry manufacturing. Ralph and Lillian had four children: two living daughters whose identities are withheld from the public archive, [[people/Dale Hopkinson|Dale Hopkinson]], and [[people/Ralph L. Hopkinson III|Ralph L. Hopkinson III]]. Ralph died on **December 14, 2000**. FamilySearch reports that the death occurred at **Webster, Worcester County, Massachusetts**, but the underlying death-place source has not yet been inspected.[^3][^4][^5][^6][^7]
+Ralph married his high-school classmate [[Lillian May (Higson) Hopkinson]]. In 1950 he was recorded as a married household head and **jewelry toolmaker** employed in jewelry manufacturing. Ralph and Lillian had four children: two living daughters whose identities are withheld from the public archive, [[Dale Hopkinson|Dale Hopkinson]], and [[people/Ralph Lowell Hopkinson III]]. Ralph died on **December 14, 2000**. FamilySearch reports that the death occurred at **Webster, Worcester County, Massachusetts**, but the underlying death-place source has not yet been inspected.[^3][^4][^5][^6][^7]
 
 ## Vital information
 
@@ -118,7 +118,7 @@ Lillian's obituary also reports that Ralph and Lillian served together as co-cha
 | Living daughter | Withheld | 1950 census, Lillian's obituary, and first-hand family testimony[^3][^6][^7] | Name and identifying details withheld under the archive's living-person policy |
 | Living daughter | Withheld | 1950 census, Lillian's obituary, and first-hand family testimony[^3][^6][^7] | Name and identifying details withheld under the archive's living-person policy |
 | [[Dale Hopkinson]] | 1946–2014 | 1950 census, obituaries, FamilySearch profile, and first-hand testimony from Dale's child[^3][^4][^5][^6][^7] | Direct-line successor; died from ALS, confirmed by first-hand testimony from his child |
-| [[Ralph L. Hopkinson III]] | 1953–2025 | Funeral-home obituary and FamilySearch profile identify Ralph Jr. and Lillian as his parents[^4][^5] | Born and raised in Attleboro; cause of death unresolved |
+| [[Ralph Lowell Hopkinson III]] | 1953–2025 | Funeral-home obituary and FamilySearch profile identify Ralph Jr. and Lillian as his parents[^4][^5] | Born and raised in Attleboro; cause of death unresolved |
 
 The saved FamilySearch profile displays only Dale and Ralph III as children. That tree view is incomplete for public family reconstruction because the two daughters are living and are documented by the 1950 census, Lillian's obituary, and direct family testimony.[^3][^5][^6][^7]
 
@@ -188,7 +188,7 @@ The family monument and FamilySearch profile associate Ralph with **North Purcha
 
 Ralph occupies the documented direct line between his father and son:
 
-**[[people/Ralph L. Hopkinson Sr.|Ralph Lowell Hopkinson Sr.]] → Ralph Lowell Hopkinson Jr. → [[people/Dale Hopkinson|Dale Hopkinson]]**
+**[[Ralph Lowell Hopkinson Sr.]] → Ralph Lowell Hopkinson Jr. → [[Dale Hopkinson|Dale Hopkinson]]**
 
 Through Ralph Sr., Harry Francis Hopkinson, and Lowell Herbert Hopkinson, Ralph inherited the Hopkinson surname and the documented colonial Hopkinson ancestry transmitted through [[people/Ann Matilda Hopkinson|Ann Matilda Hopkinson]]. The complete descent must not be described as an uninterrupted male-line or Y-chromosome Hopkinson lineage.
 
@@ -282,6 +282,6 @@ Through Ralph Sr., Harry Francis Hopkinson, and Lowell Herbert Hopkinson, Ralph 
 - [[people/Ralph L. Hopkinson Sr.|Ralph Lowell Hopkinson Sr.]] — father and direct-line predecessor
 - [[people/Alma Irene Palardy Hopkinson|Alma Irene Palardy Hopkinson]] — mother
 - [[people/Lillian M. Higson Hopkinson|Lillian May Higson Hopkinson]] — wife
-- [[people/Dale Hopkinson|Dale Hopkinson]] — son and direct-line successor
+- [[Dale Hopkinson|Dale Hopkinson]] — son and direct-line successor
 - [[people/Ralph L. Hopkinson III|Ralph L. Hopkinson III]] — son
 - Two living daughters — identities withheld from the public archive
