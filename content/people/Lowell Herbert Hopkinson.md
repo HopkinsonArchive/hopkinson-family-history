@@ -1,6 +1,6 @@
 ---
 title: Lowell Herbert Hopkinson
-updated: 07/20/2026 9:59 PM
+updated: 07/21/2026 12:52 AM
 quartz-properties-collapse: true
 page_url: https://hopkinsonarchive.github.io/hopkinson-family-history/people/lowell-herbert-hopkinson
 aliases:
@@ -299,12 +299,12 @@ Because Lowell inherited and retained his mother's surname while his biological 
 
 ## Related people
 
-- [[people/Ann Matilda Hopkinson|Ann Matilda Hopkinson]] — mother
-- [[people/William Pillsbury Bailey|William Pillsbury Bailey]] — strongly inferred biological father
-- [[people/Uriah Hopkinson|Uriah Hopkinson]] — maternal grandfather and 1850 head of household
-- [[people/Inez Lucy Chase|Inez “Lucy” Chase]] — maternal grandmother and member of the 1850 household
-- [[people/Margaret Metcalf|Margaret Metcalf]] — wife
+- [[Ann Matilda Hopkinson]] — mother
+- [[William Pillsbury Bailey]] — strongly inferred biological father
+- [[Uriah Hopkinson]] — maternal grandfather and 1850 head of household
+- [[Inez "Lucy" Chase]] — maternal grandmother and member of the 1850 household
+- [[Margaret (Metcalf) Hopkinson]] — wife
 - [[people/Clarence E. Hopkinson|Clarence E. Hopkinson]] — reported child
-- [[people/Lewis Brown Hopkinson|Lewis Brown Hopkinson]] — reported child
-- [[people/Annie Low Hopkinson|Annie Low Hopkinson]] — reported child
-- [[people/Harry Francis Hopkinson|Harry Francis Hopkinson]] — son and direct-line successor
+- [[Lewis Brown Hopkinson]] — reported child
+- [[Annie Low Hopkinson]] — reported child
+- [[Harry Francis Hopkinson]] — son and direct-line successor
