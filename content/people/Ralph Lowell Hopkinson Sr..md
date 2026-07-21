@@ -1,6 +1,6 @@
 ---
 title: Ralph Lowell Hopkinson Sr.
-updated: 07/20/2026 9:45 PM
+updated: 07/20/2026 9:52 PM
 quartz-properties-collapse: true
 aliases:
   - Ralph L. Hopkinson Sr.
@@ -117,8 +117,8 @@ No additional child of Ralph and Alma has yet been established. This is a statem
 | Date | Event | Place | Status | Sources |
 |---|---|---|---|---|
 | February 11, 1894 | Born to Harry F. Hopkinson and Flora Barnhill | Groveland, Massachusetts | **Confirmed** | [^1] |
-| November 1, 1897 | Father Harry Francis Hopkinson died | Groveland, Massachusetts | **Confirmed** | [[people/Harry Francis Hopkinson|Harry Francis Hopkinson]] page |
-| February 5, 1898 | Sister Marion Maude Hopkinson died | Shubenacadie, Nova Scotia | **Confirmed** | [[people/Harry Francis Hopkinson|Harry Francis Hopkinson]] page |
+| November 1, 1897 | Father Harry Francis Hopkinson died | Groveland, Massachusetts | **Confirmed** | [[Harry Francis Hopkinson]] |
+| February 5, 1898 | Sister Marion Maude Hopkinson died | Shubenacadie, Nova Scotia | **Confirmed** | [[Harry Francis Hopkinson]] |
 | March 31, 1901 | Enumerated with his widowed mother and maternal grandparents | Shubenacadie, Nova Scotia | **Confirmed** | [^2] |
 | December 31, 1913 | Flora B. Hopkinson documented at 19 Morey Street; Ralph's own residence not stated | Attleboro, Massachusetts | **Confirmed** for Flora | [^3] |
 | 1917–1918 | Registered for the United States draft as a United States citizen in Attleboro | Attleboro, Massachusetts | **Strong inference** from indexed record | [^4] |
