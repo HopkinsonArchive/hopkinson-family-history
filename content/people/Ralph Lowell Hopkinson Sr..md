@@ -1,6 +1,6 @@
 ---
 title: Ralph Lowell Hopkinson Sr.
-updated: 07/20/2026 10:00 PM
+updated: 07/20/2026 10:08 PM
 quartz-properties-collapse: true
 page_url: https://hopkinsonarchive.github.io/hopkinson-family-history/people/ralph-lowell-hopkinson-sr.
 aliases:
@@ -65,7 +65,7 @@ tags:
 > **Born:** February 11, 1894, Groveland, Massachusetts  
 > **Died:** May 28, 1946, probably at Attleboro, Massachusetts  
 > **Buried:** North Purchase Cemetery, section C, lot 133, Attleboro  
-> **Parents:** [[people/Harry Francis Hopkinson|Harry Francis Hopkinson]] and [[people/Flora Barnhill|Flora Barnhill]]  
+> **Parents:** [[people/Harry Francis Hopkinson|Harry Francis Hopkinson]] and [[Flora Barnhill Hopkinson|Flora Barnhill]]  
 > **Wife:** [[people/Alma Irene Palardy Hopkinson|Alma Irene Palardy Hopkinson]]  
 > **Documented child:** [[people/Ralph L. Hopkinson Jr.|Ralph L. Hopkinson Jr.]]  
 > **Occupation:** Attleboro firefighter  
