@@ -1,6 +1,6 @@
 ---
 title: Ralph Lowell Hopkinson Sr.
-updated: 07/20/2026 10:16 PM
+updated: 07/21/2026 12:31 AM
 quartz-properties-collapse: true
 page_url: https://hopkinsonarchive.github.io/hopkinson-family-history/people/ralph-lowell-hopkinson-sr.
 aliases:
@@ -65,14 +65,14 @@ tags:
 > **Born:** February 11, 1894, Groveland, Massachusetts  
 > **Died:** May 28, 1946, probably at Attleboro, Massachusetts  
 > **Buried:** North Purchase Cemetery, section C, lot 133, Attleboro  
-> **Parents:** [[people/Harry Francis Hopkinson|Harry Francis Hopkinson]] and [[Flora Barnhill Hopkinson|Flora Barnhill]]  
+> **Parents:** [[people/Harry Francis Hopkinson|Harry Francis Hopkinson]] and [[Flora (Barnhill) Hopkinson|Flora Barnhill]]  
 > **Wife:** [[Alma Irene (Palardy) Hopkinson|Alma Irene Palardy Hopkinson]]  
 > **Documented child:** [[Ralph Lowell Hopkinson Jr.|Ralph L. Hopkinson Jr.]]  
 > **Occupation:** Attleboro firefighter  
 > **Direct-line position:** Harry Francis Hopkinson → **Ralph Lowell Hopkinson Sr.** → Ralph L. Hopkinson Jr.  
 > **Evidence status:** Birth, parentage, Canadian childhood, wife, son, fire-service career, and cemetery are documented; exact death evidence, cause of death, and military-service status remain incomplete
 
-**Ralph Lowell Hopkinson Sr.** was born at Groveland, Massachusetts, on February 11, 1894, the son of [[people/Harry Francis Hopkinson|Harry Francis Hopkinson]] and [[people/Flora Barnhill|Flora Barnhill]]. The original Groveland register records the birth of an unnamed child to Harry F. and Flora Hopkinson; Ralph's identity is established by the matching date, parents, place, and later records.[^1]
+**Ralph Lowell Hopkinson Sr.** was born at Groveland, Massachusetts, on February 11, 1894, the son of [[people/Harry Francis Hopkinson|Harry Francis Hopkinson]] and [[Flora (Barnhill) Hopkinson]]. The original Groveland register records the birth of an unnamed child to Harry F. and Flora Hopkinson; Ralph's identity is established by the matching date, parents, place, and later records.[^1]
 
 Ralph lost his father in 1897, when he was three. His older sister, Marion Maude Hopkinson, died at Shubenacadie, Nova Scotia, in 1898. By 1901, Ralph and his widowed mother were living in the Shubenacadie household of Flora's parents, Isaac and Hannah Barnhill.[^2] He therefore spent at least part of his childhood within his maternal family in Nova Scotia before returning to Massachusetts.
 
@@ -83,12 +83,12 @@ By the First World War era Ralph was established in Attleboro. He registered for
 | Event | Date and place | Status | Sources |
 |---|---|---|---|
 | Birth | February 11, 1894, Groveland, Massachusetts | **Confirmed** | Groveland birth register[^1] |
-| Parents | [[Harry Francis Hopkinson]] and [[Flora Barnhill]] | **Confirmed** | Groveland birth register; 1901 Canadian census[^1][^2] |
+| Parents | [[Harry Francis Hopkinson]] and [[Flora (Barnhill) Hopkinson]] | **Confirmed** | Groveland birth register; 1901 Canadian census[^1][^2] |
 | Childhood household | March 31, 1901, Isaac and Hannah Barnhill household, Shubenacadie, Nova Scotia | **Confirmed** | 1901 Census of Canada[^2] |
 | Return to Massachusetts | After March 1901 and no later than the 1917–1918 draft-registration period | **Strong inference**; exact date unresolved | Flora at Attleboro by 1913; Ralph's Attleboro draft registration[^3][^4] |
 | Marriage | December 25, 1918, Attleboro, Massachusetts | **Strong inference** pending examination of the original certificate | Indexed marriage record, certificate 112, p. 450[^5] |
 | Wife | [[Alma Irene (Palardy) Hopkinson]] | **Confirmed** | Indexed marriage record and family monument[^5][^11] |
-| Son | [[Ralph L. Hopkinson Jr.]], 1920–2000 | **Confirmed** | Family monument and contemporary obituaries[^10][^11] |
+| Son | [[Ralph Lowell Hopkinson Jr.]], 1920–2000 | **Confirmed** | Family monument and contemporary obituaries[^10][^11] |
 | Death | May 28, 1946, Attleboro, Massachusetts | **Strong inference** pending original death record | *Attleboro Sun* obituary and cemetery memorial[^10][^12] |
 | Burial | North Purchase Cemetery, Attleboro; section C, lot 133 | **Confirmed** for cemetery; section and lot strongly supported | Family monument and cemetery memorial[^11][^12] |
 | Cause of death | Not established | **Unresolved** | Original death certificate not yet examined |
@@ -109,7 +109,7 @@ The two forms of Alma's name must both be preserved. The indexed form may indica
 
 | Child | Birth–death | Relationship evidence | Notes |
 |---|---|---|---|
-| [[Ralph L. Hopkinson Jr.]] | 1920–2000 | Family monument identifies him as Ralph and Alma's son; contemporary newspaper references place him in their household[^9][^11] | Direct-line successor; husband of Lillian M. Higson |
+| [[Ralph Lowell Hopkinson Jr.]] | 1920–2000 | Family monument identifies him as Ralph and Alma's son; contemporary newspaper references place him in their household[^9][^11] | Direct-line successor; husband of Lillian M. Higson |
 
 No additional child of Ralph and Alma has yet been established. This is a statement about the presently located evidence, not proof that no other child existed.
 
@@ -189,7 +189,7 @@ Ralph was buried at **North Purchase Cemetery** in Attleboro. The photographed f
 
 Ralph occupies the documented direct line between his father and son:
 
-**[[people/Harry Francis Hopkinson|Harry Francis Hopkinson]] → Ralph Lowell Hopkinson Sr. → [[people/Ralph L. Hopkinson Jr.|Ralph L. Hopkinson Jr.]]**
+**[[people/Harry Francis Hopkinson|Harry Francis Hopkinson]] → Ralph Lowell Hopkinson Sr. → [[people/Ralph Lowell Hopkinson Jr.|Ralph L. Hopkinson Jr.]]**
 
 Through Harry and Lowell Herbert Hopkinson, Ralph inherited the Hopkinson surname and the documented colonial Hopkinson ancestry that passed through [[people/Ann Matilda Hopkinson|Ann Matilda Hopkinson]]. The complete ancestry should not be described as an uninterrupted male-line or Y-chromosome Hopkinson descent.
 
