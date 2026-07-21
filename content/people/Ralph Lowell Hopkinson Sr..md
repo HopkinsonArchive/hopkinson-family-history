@@ -1,6 +1,6 @@
 ---
 title: Ralph Lowell Hopkinson Sr.
-updated: 07/20/2026 10:08 PM
+updated: 07/20/2026 10:16 PM
 quartz-properties-collapse: true
 page_url: https://hopkinsonarchive.github.io/hopkinson-family-history/people/ralph-lowell-hopkinson-sr.
 aliases:
@@ -27,7 +27,7 @@ parents:
   - "[[people/Harry Francis Hopkinson|Harry Francis Hopkinson]]"
   - "[[people/Flora Barnhill|Flora Barnhill]]"
 spouses:
-  - "[[people/Alma Irene Palardy Hopkinson|Alma Irene Palardy Hopkinson]]"
+  - "[[Alma Irene Palardy Hopkinson|Alma Irene Palardy Hopkinson]]"
 children:
   - "[[people/Ralph L. Hopkinson Jr.|Ralph L. Hopkinson Jr.]]"
 direct_line: true
@@ -66,8 +66,8 @@ tags:
 > **Died:** May 28, 1946, probably at Attleboro, Massachusetts  
 > **Buried:** North Purchase Cemetery, section C, lot 133, Attleboro  
 > **Parents:** [[people/Harry Francis Hopkinson|Harry Francis Hopkinson]] and [[Flora Barnhill Hopkinson|Flora Barnhill]]  
-> **Wife:** [[people/Alma Irene Palardy Hopkinson|Alma Irene Palardy Hopkinson]]  
-> **Documented child:** [[people/Ralph L. Hopkinson Jr.|Ralph L. Hopkinson Jr.]]  
+> **Wife:** [[Alma Irene Palardy Hopkinson|Alma Irene Palardy Hopkinson]]  
+> **Documented child:** [[Ralph Lowell Hopkinson Jr.|Ralph L. Hopkinson Jr.]]  
 > **Occupation:** Attleboro firefighter  
 > **Direct-line position:** Harry Francis Hopkinson → **Ralph Lowell Hopkinson Sr.** → Ralph L. Hopkinson Jr.  
 > **Evidence status:** Birth, parentage, Canadian childhood, wife, son, fire-service career, and cemetery are documented; exact death evidence, cause of death, and military-service status remain incomplete
@@ -272,6 +272,6 @@ Earlier summaries left Ralph's spouse, occupation, exact death, obituary, and bu
 - [[people/Harry Francis Hopkinson|Harry Francis Hopkinson]] — father and direct-line predecessor
 - [[people/Flora Barnhill|Flora Barnhill]] — mother
 - [[people/Marion Maude Hopkinson|Marion Maude Hopkinson]] — sister
-- [[people/Alma Irene Palardy Hopkinson|Alma Irene Palardy Hopkinson]] — wife
+- [[Alma Irene Palardy Hopkinson|Alma Irene Palardy Hopkinson]] — wife
 - [[people/Ralph L. Hopkinson Jr.|Ralph L. Hopkinson Jr.]] — son and direct-line successor
 ```
