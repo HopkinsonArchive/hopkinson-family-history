@@ -1,6 +1,6 @@
 ---
 title: Caleb Hopkinson Sr.
-updated: 07/20/2026 9:59 PM
+updated: 07/21/2026 1:24 AM
 quartz-properties-collapse: true
 page_url: https://hopkinsonarchive.github.io/hopkinson-family-history/people/caleb-hopkinson-sr.
 aliases:
@@ -123,7 +123,7 @@ No dependable evidence has yet been found that Caleb Sr. and Sarah Wheeler had a
 **Evidence status: Second marriage confirmed; any children of the marriage unresolved.**
 
 ## Death and burial
-
+![[caleb-hopkinson-sr.-grave.jpeg]]
 Caleb died in Bradford on April 17, 1721, aged seventy-two. His gravestone was transcribed as:
 
 > Here Lyes Buried  
