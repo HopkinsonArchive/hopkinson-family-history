@@ -1,6 +1,6 @@
 ---
 title: Lowell Herbert Hopkinson
-updated: 07/21/2026 7:32 PM
+updated: 07/21/2026 7:42 PM
 quartz-properties-collapse: true
 page_url: https://hopkinsonarchive.github.io/hopkinson-family-history/people/lowell-herbert-hopkinson
 aliases:
@@ -157,7 +157,8 @@ Both Massachusetts military roster entries identify Lowell as a **shoemaker** an
 
 ## Military and public service
 
-![[lowell-herbert-hopkinson-civil-war-escutcheon.jpg|325]]
+![[lowell-herbert-hopkinson-civil-war-escutcheon.jpg|Decorative Civil War service escutcheon listing Lowell H. Hopkinson’s Massachusetts infantry units, battles, wound, discharge, and reenlistment.|325]]
+*Civil War service escutcheon commemorating Lowell H. Hopkinson’s Union Army service. Its central panel records his enlistment in the 11th Massachusetts Volunteer Infantry, participation in major campaigns and battles, his wounding at Second Bull Run, his 1862 discharge, and his later enlistment in the 59th Massachusetts Volunteer Infantry.*
 ### First enlistment: 11th Massachusetts Infantry
 
 The Massachusetts roster records Lowell as a twenty-four-year-old Groveland shoemaker when he enlisted and mustered as a private in Company H, 11th Massachusetts Volunteer Infantry, on June 13, 1861. A later congressional report gives April 20, 1861, as the beginning of this service. The reason for that date conflict remains unresolved; the detailed state roster is preferred for the formal enlistment and muster date.[^roster-11th][^pension-report]
