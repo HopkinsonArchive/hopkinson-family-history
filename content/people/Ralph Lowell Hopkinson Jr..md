@@ -2,7 +2,7 @@
 title: Ralph Lowell Hopkinson Jr.
 updated: 07/20/2026 11:51 PM
 quartz-properties-collapse: true
-page_url:
+page_url: https://hopkinsonarchive.github.io/hopkinson-family-history/people/ralph-lowell-hopkinson-jr.
 aliases:
   - Ralph L. Hopkinson Jr.
   - Ralph Lowell Hopkinson
@@ -10,7 +10,7 @@ aliases:
   - Hoppy
 page_type: person
 person_id: ralph-lowell-hopkinson-jr
-description: Attleboro High School technical-course graduate, jewelry toolmaker, husband of Lillian May Higson, and father of Dale Hopkinson.
+description: Attleboro High School technical-course graduate, jewelry toolmaker, husband of Lillian May Higson, and father of Dale Hopkinson and Ralph Hopkinson III.
 birth_date:
 birth_date_display: Reported as February 2, 1920
 birth_date_status: unverified
