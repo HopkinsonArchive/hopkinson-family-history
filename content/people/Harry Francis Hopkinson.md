@@ -1,6 +1,6 @@
 ---
 title: Harry Francis Hopkinson
-updated: 07/21/2026 12:35 AM
+updated: 07/21/2026 12:46 AM
 quartz-properties-collapse: true
 page_url: https://hopkinsonarchive.github.io/hopkinson-family-history/people/harry-francis-hopkinson
 aliases:
@@ -22,15 +22,15 @@ burial_place: Riverview Cemetery, Groveland, Massachusetts, United States
 cemetery_section: Holly 1
 cemetery_plot: "290"
 parents:
-  - "[[people/Lowell Herbert Hopkinson|Lowell Herbert Hopkinson]]"
-  - "[[people/Margaret Metcalf|Margaret Metcalf]]"
+  - "[[Lowell Herbert Hopkinson]]"
+  - "[[Margaret (Metcalf) Hopkinson]]"
 spouses:
   - "[[Flora (Barnhill) Hopkinson]]"
 children:
-  - "[[people/Marion Maude Hopkinson|Marion Maude Hopkinson]]"
+  - "[[Marion Maude Hopkinson]]"
   - "[[Ralph Lowell Hopkinson Sr.]]"
 direct_line: true
-direct_line_predecessor: "[[people/Lowell Herbert Hopkinson|Lowell Herbert Hopkinson]]"
+direct_line_predecessor: "[[Lowell Herbert Hopkinson]]"
 direct_line_successor: "[[Ralph Lowell Hopkinson Sr.]]"
 family_lines:
   - Hopkinson
@@ -57,14 +57,14 @@ tags:
 > **Born:** October 4, 1868, Groveland, Massachusetts  
 > **Died:** November 1, 1897, Groveland, Massachusetts  
 > **Buried:** Riverview Cemetery, Holly 1, plot 290, Groveland  
-> **Parents:** [[people/Lowell Herbert Hopkinson|Lowell Herbert Hopkinson]] and [[people/Margaret Metcalf|Margaret Metcalf]]  
+> **Parents:** [[Lowell Herbert Hopkinson]] and [[Margaret (Metcalf) Hopkinson]]  
 > **Wife:** [[Flora (Barnhill) Hopkinson]]  
-> **Children:** [[people/Marion Maude Hopkinson|Marion Maude Hopkinson]] and [[Ralph Lowell Hopkinson Sr.]]  
+> **Children:** [[Marion Maude Hopkinson]] and [[Ralph Lowell Hopkinson Sr.]]  
 > **Occupation:** Not yet confirmed  
 > **Direct-line position:** [[Lowell Herbert Hopkinson]] → **Harry Francis Hopkinson** → [[Ralph Lowell Hopkinson Sr.]]  
 > **Evidence status:** Birth, parentage, wife, children, death, and burial confirmed; marriage details, occupation, and cause of death unresolved
 
-**Harry Francis Hopkinson** was born at Groveland, Massachusetts, on October 4, 1868, the son of [[people/Lowell Herbert Hopkinson|Lowell Herbert Hopkinson]] and [[people/Margaret Metcalf|Margaret Metcalf]].[^1] He married [[Flora (Barnhill) Hopkinson]] and became the father of two documented children, Marion Maude and Ralph L. Hopkinson.[^2][^3]
+**Harry Francis Hopkinson** was born at Groveland, Massachusetts, on October 4, 1868, the son of [[Lowell Herbert Hopkinson]] and [[Margaret (Metcalf) Hopkinson]].[^1] He married [[Flora (Barnhill) Hopkinson]] and became the father of two documented children, Marion Maude and Ralph L. Hopkinson.[^2][^3]
 
 Harry died at Groveland on November 1, 1897, only twenty-nine years old.[^4] His brief adult life is presently known principally through municipal vital records, the town's annual report, and later records concerning his widow and children. No reliable record yet found identifies his occupation or cause of death.
 
@@ -75,9 +75,9 @@ His death was followed ninety-six days later by the death of his five-year-old d
 | Event | Date and place | Status | Sources |
 |---|---|---|---|
 | Birth | October 4, 1868, Groveland, Massachusetts | **Confirmed** | Groveland birth transcription[^1] |
-| Parents | [[Lowell Herbert Hopkinson]] and Margaret Metcalf | **Confirmed** | Groveland birth transcription[^1] |
+| Parents | [[Lowell Herbert Hopkinson]] and [[Margaret (Metcalf) Hopkinson]] | **Confirmed** | Groveland birth transcription[^1] |
 | Marriage | Probably about 1890, apparently associated with Haverhill, Massachusetts | **Strong inference** for approximate date and place; original return unresolved | Marginal annotation in Harry's birth entry[^1] |
-| Wife | Flora Barnhill | **Confirmed** | Groveland records of the couple's children[^2][^3] |
+| Wife | [Flora (Barnhill) Hopkinson] | **Confirmed** | Groveland records of the couple's children[^2][^3] |
 | Daughter | Marion Maude Hopkinson, born June 16, 1892, Groveland | **Confirmed** | Groveland birth transcription[^2] |
 | Son | [[Ralph Lowell Hopkinson Sr.]], born February 11, 1894, Groveland | **Confirmed**; later census date conflicts | Groveland birth entry and 1901 census[^3][^6] |
 | Death | November 1, 1897, Groveland | **Confirmed** | Groveland death transcription and annual report[^4][^7] |
@@ -154,9 +154,9 @@ Harry was buried at **Riverview Cemetery** in Groveland. The town cemetery datab
 
 Harry occupies the direct line between his father and son:
 
-**[[people/Lowell Herbert Hopkinson|Lowell Herbert Hopkinson]] → Harry Francis Hopkinson → [[Ralph Lowell Hopkinson Sr.]]**
+**[[Lowell Herbert Hopkinson]] → Harry Francis Hopkinson → [[Ralph Lowell Hopkinson Sr.]]**
 
-Through Lowell, Harry inherited the Hopkinson surname and the documented colonial Hopkinson ancestry that passed through [[people/Ann Matilda Hopkinson|Ann Matilda Hopkinson]]. The larger ancestry should not be described as an uninterrupted male-line or Y-chromosome Hopkinson descent.
+Through Lowell, Harry inherited the Hopkinson surname and the documented colonial Hopkinson ancestry that passed through [[Ann Matilda Hopkinson]]. The larger ancestry should not be described as an uninterrupted male-line or Y-chromosome Hopkinson descent.
 
 ## Evidence assessment
 
@@ -221,8 +221,8 @@ Through Lowell, Harry inherited the Hopkinson surname and the documented colonia
 
 ## Related people
 
-- [[people/Lowell Herbert Hopkinson|Lowell Herbert Hopkinson]] — father and direct-line predecessor
-- [[people/Margaret Metcalf|Margaret Metcalf]] — mother
-- [[people/Flora Barnhill|Flora Barnhill]] — wife
-- [[people/Marion Maude Hopkinson|Marion Maude Hopkinson]] — daughter
-- [[people/Ralph L. Hopkinson Sr.|Ralph L. Hopkinson Sr.]] — son and direct-line successor
+- [[Lowell Herbert Hopkinson]] — father and direct-line predecessor
+- [[Margaret (Metcalf) Hopkinson]] — mother
+- [[Flora (Barnhill) Hopkinson]] — wife
+- [[Marion Maude Hopkinson]] — daughter
+- [[Ralph Lowell Hopkinson Sr.]] — son and direct-line successor
