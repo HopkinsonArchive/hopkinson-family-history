@@ -1,6 +1,6 @@
 ---
 title: Ralph Lowell Hopkinson Jr.
-updated: 07/21/2026 12:10 AM
+updated: 07/21/2026 12:13 AM
 quartz-properties-collapse: true
 page_url: https://hopkinsonarchive.github.io/hopkinson-family-history/people/ralph-lowell-hopkinson-jr.
 aliases:
@@ -25,16 +25,16 @@ burial_place: North Purchase Cemetery, Attleboro, Bristol County, Massachusetts,
 cemetery_section: C
 cemetery_plot: Lot 133
 parents:
-  - "[[people/Ralph L. Hopkinson Sr.|Ralph L. Hopkinson Sr.]]"
-  - "[[Alma Irene (Palardy) Hopkinson|Alma Irene (Palardy) Hopkinson]]"
+  - "[[Ralph Lowell Hopkinson Sr.]]"
+  - "[[Alma Irene (Palardy) Hopkinson]]"
 spouses:
-  - "[[people/Lillian M. Higson Hopkinson|Lillian M. Higson Hopkinson]]"
+  - "[[Lillian May (Higson) Hopkinson]]"
 children:
-  - "[[Dale Hopkinson|Dale Hopkinson]]"
-  - "[[people/Ralph L. Hopkinson III|Ralph L. Hopkinson III]]"
+  - "[[Dale Hopkinson]]"
+  - "[[Ralph Lowell Hopkinson III]]"
 direct_line: true
-direct_line_predecessor: "[[people/Ralph L. Hopkinson Sr.|Ralph L. Hopkinson Sr.]]"
-direct_line_successor: "[[Dale Hopkinson|Dale Hopkinson]]"
+direct_line_predecessor: "[[Ralph Lowell Hopkinson Sr.]]"
+direct_line_successor: "[[Dale Hopkinson]]"
 family_lines:
   - Hopkinson
   - Palardy
@@ -279,9 +279,9 @@ Through Ralph Sr., Harry Francis Hopkinson, and Lowell Herbert Hopkinson, Ralph 
 
 ## Related people
 
-- [[people/Ralph L. Hopkinson Sr.|Ralph Lowell Hopkinson Sr.]] — father and direct-line predecessor
-- [[Alma Irene (Palardy) Hopkinson|Alma Irene (Palardy) Hopkinson]] — mother
-- [[people/Lillian M. Higson Hopkinson|Lillian May Higson Hopkinson]] — wife
-- [[Dale Hopkinson|Dale Hopkinson]] — son and direct-line successor
-- [[people/Ralph L. Hopkinson III|Ralph L. Hopkinson III]] — son
+- [[Ralph Lowell Hopkinson Sr.]] — father and direct-line predecessor
+- [[Alma Irene (Palardy) Hopkinson]] — mother
+- [[Lillian May (Higson) Hopkinson]] — wife
+- [[Dale Hopkinson]] — son and direct-line successor
+- [[Ralph Lowell Hopkinson III]] — son
 - Two living daughters — identities withheld from the public archive
