@@ -157,6 +157,12 @@
       "commit": "0d448f38a24c568c5539ff2cd57d813293430ccd",
       "installedAt": "2026-07-19T19:17:27.106Z"
     },
+    "hopkinson-archive-background": {
+      "source": "./hopkinson-archive-background",
+      "resolved": "C:\\Users\\theGe\\Proton Drive\\seth.hopkinson\\My files\\App Related\\obsidian\\HopkinsonArchive\\hopkinson-family-history\\hopkinson-archive-background",
+      "commit": "local",
+      "installedAt": "2026-07-22T01:11:31.747Z"
+    },
     "latex": {
       "source": "github:quartz-community/latex",
       "resolved": "https://github.com/quartz-community/latex.git",

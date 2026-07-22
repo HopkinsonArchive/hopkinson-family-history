@@ -285,9 +285,6 @@ plugins:
       intensity: 1
       defaultVariant: default
     order: 50
-    layout:
-      position: beforeBody
-      priority: -1000
 layout:
   groups:
     toolbar:
