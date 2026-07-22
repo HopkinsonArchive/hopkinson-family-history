@@ -12,30 +12,44 @@ article img.quartz-lightbox-trigger {
 
 /* =========================================================
    LIGHTBOX OVERLAY
-   The overlay itself is the scroll container. A separate
-   stage controls centering without creating unreachable
-   negative overflow in native-size mode.
+   Covers the entire browser viewport and provides scrolling
+   when an image is displayed at its native dimensions.
    ========================================================= */
 
 .quartz-image-lightbox {
+  /* Keep the overlay attached to the browser viewport. */
   position: fixed;
   inset: 0;
+
+  /*
+   * Include padding inside the fixed viewport box. Without
+   * border-box, inset: 0 plus padding makes the overlay larger
+   * than the viewport and can clip native-size image edges.
+   */
+  box-sizing: border-box;
+
+  /* Keep the lightbox above Quartz navigation and popovers. */
   z-index: 10000;
 
-  display: block;
+  /* Center fit-to-screen images horizontally and vertically. */
+  display: grid;
+  place-items: center;
+
+  /* Permit scrolling when the image exceeds the viewport. */
   overflow: auto;
-  box-sizing: border-box;
-  padding: 0;
 
-  overscroll-behavior: contain;
-  -webkit-overflow-scrolling: touch;
+  /* Leave space around images and the close button. */
+  padding: 2rem;
 
+  /* Darken the page behind the displayed image. */
   background: rgb(0 0 0 / 92%);
 
+  /* Hide the overlay until it receives the is-open class. */
   opacity: 0;
   visibility: hidden;
   pointer-events: none;
 
+  /* Fade the lightbox in and out. */
   transition:
     opacity 160ms ease,
     visibility 160ms ease;
@@ -44,6 +58,7 @@ article img.quartz-lightbox-trigger {
 
 /* =========================================================
    OPEN LIGHTBOX STATE
+   Makes the overlay visible and interactive.
    ========================================================= */
 
 .quartz-image-lightbox.is-open {
@@ -54,117 +69,114 @@ article img.quartz-lightbox-trigger {
 
 
 /* =========================================================
-   IMAGE STAGE
-   In fit mode, this stage matches the viewport and centers
-   the image. In native-size mode, it expands to contain the
-   complete natural-size image while retaining scrollable
-   padding on every edge.
-   ========================================================= */
-
-.quartz-image-lightbox__stage {
-  display: grid;
-  place-items: center;
-
-  width: 100%;
-  min-width: 100%;
-  height: 100%;
-  min-height: 100%;
-
-  box-sizing: border-box;
-  padding: 2rem;
-}
-
-
-/* =========================================================
    FIT-TO-SCREEN IMAGE STATE
+   This is the default state when the lightbox first opens.
+   Large images are reduced enough to fit inside the viewport.
    ========================================================= */
 
 .quartz-image-lightbox__image {
   display: block;
-  flex: none;
 
+  /* Preserve the image's original aspect ratio. */
   width: auto;
   height: auto;
 
+  /* Keep the initial view inside the browser viewport. */
   max-width: calc(100vw - 4rem);
   max-height: calc(100vh - 4rem);
 
+  /* Prevent distortion when fitting the image to the screen. */
   object-fit: contain;
+
+  /* Indicate that clicking will switch to native size. */
   cursor: zoom-in;
 
+  /* Separate the image visually from the dark backdrop. */
   border-radius: 0.25rem;
   box-shadow: 0 1rem 4rem rgb(0 0 0 / 65%);
 }
 
 
 /* =========================================================
-   NATIVE-SIZE STAGE
-   width/height: max-content makes the scrollable area expand
-   to the full image dimensions. min-width/min-height keep
-   smaller images centered in the viewport.
+   NATIVE-SIZE OVERLAY STATE
+   Removes grid centering so oversized images can extend
+   beyond the viewport and be inspected by scrolling.
    ========================================================= */
 
-.quartz-image-lightbox.is-actual-size
-  .quartz-image-lightbox__stage {
-  width: max-content;
-  min-width: 100%;
+.quartz-image-lightbox.is-actual-size {
+  /* Allow the image to occupy its full natural dimensions. */
+  display: block;
 
-  height: max-content;
-  min-height: 100%;
-
-  place-items: center;
+  /* Center images that are narrower than the viewport. */
+  text-align: center;
 }
 
 
 /* =========================================================
    NATIVE-SIZE IMAGE STATE
-   No viewport maximums are applied. The stage supplies the
-   surrounding padding, so no image edge becomes unreachable.
+   Displays the original image at one CSS pixel per image
+   pixel, without viewport-based maximum dimensions.
    ========================================================= */
 
 .quartz-image-lightbox.is-actual-size
   .quartz-image-lightbox__image {
+  /* Remove all fit-to-screen restrictions. */
   width: auto;
   height: auto;
-
   max-width: none;
   max-height: none;
 
-  margin: 0;
-  padding: 0;
+  /*
+   * Keep horizontal centering for images narrower than the
+   * viewport, but remove extra vertical margins that can
+   * distort the scrollable bounds.
+   */
+  margin: 0 auto;
 
-  object-fit: none;
+  /* Indicate that clicking returns to fit-to-screen mode. */
   cursor: zoom-out;
 }
 
 
 /* =========================================================
    CLOSE BUTTON
+   Remains fixed in the upper-right corner while the image
+   and overlay are scrolled.
    ========================================================= */
 
 .quartz-image-lightbox__close {
+  /* Keep the close control visible during overlay scrolling. */
   position: fixed;
   top: 1rem;
   right: 1rem;
-  z-index: 1;
 
+  /* Center the multiplication-sign icon. */
   display: grid;
   place-items: center;
 
+  /* Give the button a consistent circular click target. */
   width: 2.75rem;
   height: 2.75rem;
   padding: 0;
 
+  /* Make the control readable against the dark background. */
   color: white;
   font: inherit;
   font-size: 2rem;
   line-height: 1;
 
+  /* Style the control as an interactive circular button. */
   cursor: pointer;
   background: rgb(25 25 25 / 85%);
   border: 1px solid rgb(255 255 255 / 40%);
   border-radius: 50%;
 }
+
+
+/* =========================================================
+   CLOSE BUTTON HOVER STATE
+   Provides visible feedback for pointer users.
+   ========================================================= */
 
 .quartz-image-lightbox__close:hover {
   background: rgb(55 55 55 / 95%);
@@ -173,6 +185,8 @@ article img.quartz-lightbox-trigger {
 
 /* =========================================================
    KEYBOARD FOCUS
+   Makes both image triggers and the close button visibly
+   accessible when navigating with the keyboard.
    ========================================================= */
 
 .quartz-image-lightbox__close:focus-visible,
@@ -184,6 +198,8 @@ article img.quartz-lightbox-trigger:focus-visible {
 
 /* =========================================================
    PAGE SCROLL LOCK
+   Prevents the underlying Quartz page from scrolling while
+   the lightbox is open. The overlay itself remains scrollable.
    ========================================================= */
 
 html.quartz-lightbox-open,
@@ -194,28 +210,37 @@ html.quartz-lightbox-open body {
 
 /* =========================================================
    MOBILE VIEWPORT ADJUSTMENTS
+   Reduces unused padding on narrow screens.
    ========================================================= */
 
 @media (max-width: 600px) {
-  .quartz-image-lightbox__stage {
+  .quartz-image-lightbox {
+    /* Preserve more screen space for the image on mobile. */
     padding: 1rem;
   }
 
   .quartz-image-lightbox__image {
+    /* Fit the initial image view within the mobile viewport. */
     max-width: calc(100vw - 2rem);
     max-height: calc(100vh - 2rem);
   }
 
   .quartz-image-lightbox.is-actual-size
     .quartz-image-lightbox__image {
+    /* Keep native-size mode unrestricted on mobile. */
     max-width: none;
     max-height: none;
+
+    /* Avoid changing the native-size scrollable bounds. */
+    margin: 0 auto;
   }
 }
 
 
 /* =========================================================
    REDUCED-MOTION SUPPORT
+   Removes the fade transition for visitors who request less
+   animation through their operating-system preferences.
    ========================================================= */
 
 @media (prefers-reduced-motion: reduce) {
@@ -238,28 +263,7 @@ const lightboxScript = String.raw`
     let overlay = document.getElementById(overlayId)
 
     if (overlay instanceof HTMLElement) {
-      const existingStage = overlay.querySelector(
-        ".quartz-image-lightbox__stage",
-      )
-
-      const existingImage = overlay.querySelector(
-        ".quartz-image-lightbox__image",
-      )
-
-      const existingClose = overlay.querySelector(
-        ".quartz-image-lightbox__close",
-      )
-
-      if (
-        existingStage instanceof HTMLElement &&
-        existingImage instanceof HTMLImageElement &&
-        existingClose instanceof HTMLButtonElement
-      ) {
-        return overlay
-      }
-
-      // Remove an overlay created by an older plugin version.
-      overlay.remove()
+      return overlay
     }
 
     overlay = document.createElement("div")
@@ -269,9 +273,6 @@ const lightboxScript = String.raw`
     overlay.setAttribute("aria-modal", "true")
     overlay.setAttribute("aria-hidden", "true")
     overlay.setAttribute("aria-label", "Full-size image")
-
-    const stage = document.createElement("div")
-    stage.className = "quartz-image-lightbox__stage"
 
     const closeButton = document.createElement("button")
     closeButton.type = "button"
@@ -283,64 +284,10 @@ const lightboxScript = String.raw`
     fullImage.className = "quartz-image-lightbox__image"
     fullImage.alt = ""
 
-    stage.appendChild(fullImage)
-    overlay.append(stage, closeButton)
+    overlay.append(closeButton, fullImage)
     document.body.appendChild(overlay)
 
     return overlay
-  }
-
-  /**
-   * Returns the lightbox image from the supplied overlay.
-   */
-  const getFullImage = (overlay) => {
-    const image = overlay.querySelector(
-      ".quartz-image-lightbox__image",
-    )
-
-    return image instanceof HTMLImageElement ? image : null
-  }
-
-  /**
-   * Centers the viewport over the native-size image.
-   *
-   * The stage starts at a valid top-left scroll origin, so all
-   * four image edges remain reachable after centering.
-   */
-  const centerActualSize = (overlay) => {
-    overlay.scrollTo({
-      top: Math.max(
-        0,
-        (overlay.scrollHeight - overlay.clientHeight) / 2,
-      ),
-      left: Math.max(
-        0,
-        (overlay.scrollWidth - overlay.clientWidth) / 2,
-      ),
-      behavior: "auto",
-    })
-  }
-
-  /**
-   * Centers after layout has incorporated the natural image
-   * dimensions. Two animation frames avoid measuring the old
-   * fit-to-screen layout.
-   */
-  const scheduleActualSizeCenter = (overlay, fullImage) => {
-    const center = () => {
-      requestAnimationFrame(() => {
-        requestAnimationFrame(() => {
-          centerActualSize(overlay)
-        })
-      })
-    }
-
-    if (fullImage.complete && fullImage.naturalWidth > 0) {
-      center()
-      return
-    }
-
-    fullImage.addEventListener("load", center, { once: true })
   }
 
   /**
@@ -354,7 +301,7 @@ const lightboxScript = String.raw`
       // Do not recursively decorate the image inside the lightbox.
       if (image.closest("#" + overlayId)) return
 
-      // Allow individual images to opt out.
+      // Allow individual images to opt out with data-no-lightbox="true".
       if (image.dataset.noLightbox === "true") return
 
       image.classList.add("quartz-lightbox-trigger")
@@ -382,7 +329,10 @@ const lightboxScript = String.raw`
    */
   const openImage = (sourceImage) => {
     const overlay = ensureOverlay()
-    const fullImage = getFullImage(overlay)
+
+    const fullImage = overlay.querySelector(
+      ".quartz-image-lightbox__image",
+    )
 
     const closeButton = overlay.querySelector(
       ".quartz-image-lightbox__close",
@@ -399,6 +349,7 @@ const lightboxScript = String.raw`
     // Every newly opened image begins fitted to the viewport.
     overlay.classList.remove("is-actual-size")
 
+    // Reset any scroll position left by a previously enlarged image.
     overlay.scrollTo({
       top: 0,
       left: 0,
@@ -441,7 +392,9 @@ const lightboxScript = String.raw`
       behavior: "auto",
     })
 
-    const fullImage = getFullImage(overlay)
+    const fullImage = overlay.querySelector(
+      ".quartz-image-lightbox__image",
+    )
 
     if (fullImage instanceof HTMLImageElement) {
       fullImage.removeAttribute("src")
@@ -464,18 +417,31 @@ const lightboxScript = String.raw`
 
     if (!(overlay instanceof HTMLElement)) return
 
-    const fullImage = getFullImage(overlay)
-
-    if (!(fullImage instanceof HTMLImageElement)) return
-
     const openingActualSize =
       !overlay.classList.contains("is-actual-size")
 
     overlay.classList.toggle("is-actual-size")
 
     if (openingActualSize) {
-      scheduleActualSizeCenter(overlay, fullImage)
+      /*
+       * Start near the center of the full-size image. This is
+       * useful when its natural dimensions exceed the screen.
+       */
+      requestAnimationFrame(() => {
+        overlay.scrollTo({
+          top: Math.max(
+            0,
+            (overlay.scrollHeight - overlay.clientHeight) / 2,
+          ),
+          left: Math.max(
+            0,
+            (overlay.scrollWidth - overlay.clientWidth) / 2,
+          ),
+          behavior: "auto",
+        })
+      })
     } else {
+      // Return the fitted image to the normal centered view.
       overlay.scrollTo({
         top: 0,
         left: 0,
@@ -498,20 +464,13 @@ const lightboxScript = String.raw`
 
       const overlay = document.getElementById(overlayId)
 
-      if (!(overlay instanceof HTMLElement)) return
-
-      const stage = overlay.querySelector(
-        ".quartz-image-lightbox__stage",
-      )
-
       /*
        * Close when the visitor presses the close button or clicks
-       * an empty part of the dark backdrop/stage.
+       * directly on the dark backdrop.
        */
       if (
         target.closest(".quartz-image-lightbox__close") ||
-        target === overlay ||
-        target === stage
+        target === overlay
       ) {
         closeImage()
         return
