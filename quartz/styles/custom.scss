@@ -143,3 +143,36 @@ article img {
   margin: 2rem;
   cursor: zoom-out;
 }
+/* Keep property tags horizontal and wrap them as complete chips */
+.note-properties-table {
+  table-layout: auto;
+}
+
+.note-properties-row .note-properties-value {
+  min-width: 0;
+}
+
+.note-properties-tags {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 0.4rem 0.5rem;
+  width: 100%;
+}
+
+.note-properties-tags .tag-link {
+  display: inline-flex;
+  align-items: center;
+  width: max-content;
+  max-width: 100%;
+  white-space: nowrap;
+  word-break: normal;
+  overflow-wrap: normal;
+  padding: 0.22rem 0.5rem;
+  border-radius: 0.35rem;
+}
+
+/* Prevent separators from occupying their own narrow columns */
+.note-properties-tags .note-properties-separator {
+  display: none;
+}
