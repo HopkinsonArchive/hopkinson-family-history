@@ -272,6 +272,11 @@ plugins:
       darkMode: auto
       exportPadding: 20
     order: 50
+  - source: ./plugins/image-lightbox
+    enabled: true
+    layout:
+      position: afterBody
+      priority: 100
 layout:
   groups:
     toolbar:
