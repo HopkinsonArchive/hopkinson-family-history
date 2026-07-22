@@ -114,3 +114,32 @@ article img[alt$="|R" i] {
 article img {
   vertical-align: middle;
 }
+.quartz-image-lightbox {
+  position: fixed;
+  inset: 0;
+  z-index: 10000;
+
+  display: grid;
+  place-items: center;
+
+  overflow: auto;
+  padding: 2rem;
+  background: rgb(0 0 0 / 92%);
+}
+.quartz-image-lightbox__image {
+  cursor: zoom-in;
+}
+
+.quartz-image-lightbox.is-actual-size {
+  display: block;
+  text-align: center;
+}
+
+.quartz-image-lightbox.is-actual-size .quartz-image-lightbox__image {
+  max-width: none;
+  max-height: none;
+  width: auto;
+  height: auto;
+  margin: 2rem;
+  cursor: zoom-out;
+}
