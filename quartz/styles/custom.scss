@@ -1,19 +1,24 @@
 @use "./variables.scss" as *;
 
-// put your custom CSS here!
+// Put custom CSS below.
+
 body[data-slug="index"] .article-title {
   display: none;
 }
 
+
 /* =========================================================
    IMAGE ALIGNMENT
+
    - Centers image embeds by default.
    - Allows |L and |R parameters to override centering.
    - Supports Obsidian Reading View, Live Preview, and Quartz.
    ========================================================= */
 
+
 /* ---------------------------------------------------------
    DEFAULT: CENTER IMAGE ROWS
+
    Multiple images on the same Markdown line are centered
    together as one row.
    --------------------------------------------------------- */
@@ -28,30 +33,32 @@ body[data-slug="index"] .article-title {
   text-align: center;
 }
 
-/* Center image paragraphs in Quartz. */
+/* Center ordinary image paragraphs in Quartz. */
 article p:has(img) {
   text-align: center;
 }
 
+
 /* ---------------------------------------------------------
    LEFT OR RIGHT OVERRIDE
-   Remove centering from any row containing an L or R image.
-   The case-insensitive "i" allows L/l and R/r.
+
+   Remove centering from rows containing an L or R image.
+   The case-insensitive flag permits L/l and R/r.
    --------------------------------------------------------- */
 
-/* Restore normal alignment for Obsidian paragraphs containing |L. */
+/* Obsidian Reading View: left-aligned image row. */
 .markdown-rendered p:has(.image-embed[alt$="|L" i]) {
-  text-align: initial;
   display: flow-root;
+  text-align: initial;
 }
 
-/* Restore normal alignment for Obsidian paragraphs containing |R. */
+/* Obsidian Reading View: right-aligned image row. */
 .markdown-rendered p:has(.image-embed[alt$="|R" i]) {
-  text-align: initial;
   display: flow-root;
+  text-align: initial;
 }
 
-/* Restore normal alignment for Live Preview lines containing |L or |R. */
+/* Obsidian Live Preview: left- or right-aligned image row. */
 .markdown-source-view.mod-cm6
   .cm-line:has(
     .image-embed[alt$="|L" i],
@@ -60,50 +67,51 @@ article p:has(img) {
   text-align: initial;
 }
 
-/* Restore normal alignment for Quartz paragraphs containing |L or |R. */
+/* Quartz: left- or right-aligned image row. */
 article p:has(
   img[alt$="|L" i],
   img[alt$="|R" i]
 ) {
-  text-align: initial;
   display: flow-root;
+  text-align: initial;
 }
+
 
 /* ---------------------------------------------------------
    LEFT ALIGNMENT
-   Float images marked with |L to the left.
    --------------------------------------------------------- */
 
-/* Left-align Obsidian image embeds. */
+/* Obsidian Reading View and Live Preview. */
 .markdown-rendered .image-embed[alt$="|L" i],
 .markdown-source-view.mod-cm6 .image-embed[alt$="|L" i] {
   float: left;
   margin: 0 1rem 0.75rem 0;
 }
 
-/* Left-align corresponding Quartz images. */
+/* Quartz. */
 article img[alt$="|L" i] {
   float: left;
   margin: 0 1rem 0.75rem 0;
 }
 
+
 /* ---------------------------------------------------------
    RIGHT ALIGNMENT
-   Float images marked with |R to the right.
    --------------------------------------------------------- */
 
-/* Right-align Obsidian image embeds. */
+/* Obsidian Reading View and Live Preview. */
 .markdown-rendered .image-embed[alt$="|R" i],
 .markdown-source-view.mod-cm6 .image-embed[alt$="|R" i] {
   float: right;
   margin: 0 0 0.75rem 1rem;
 }
 
-/* Right-align corresponding Quartz images. */
+/* Quartz. */
 article img[alt$="|R" i] {
   float: right;
   margin: 0 0 0.75rem 1rem;
 }
+
 
 /* ---------------------------------------------------------
    IMAGE BASELINE
@@ -114,36 +122,108 @@ article img[alt$="|R" i] {
 article img {
   vertical-align: middle;
 }
-.quartz-image-lightbox {
-  position: fixed;
-  inset: 0;
-  z-index: 10000;
 
-  display: grid;
-  place-items: center;
 
-  overflow: auto;
-  padding: 2rem;
-  background: rgb(0 0 0 / 92%);
-}
-.quartz-image-lightbox__image {
-  cursor: zoom-in;
+/* =========================================================
+   LIGHTBOX TRUE-SIZE CORRECTION
+
+   The lightbox plugin owns all normal overlay styling.
+
+   This section overrides only native-size mode. The image is
+   explicitly anchored at the upper-left of the scrollable
+   coordinate system so no part enters unreachable negative
+   overflow.
+   ========================================================= */
+
+#quartz-image-lightbox.quartz-image-lightbox.is-actual-size {
+  display: block !important;
+
+  overflow: auto !important;
+  box-sizing: border-box !important;
+
+  padding: 0 !important;
+
+  text-align: left !important;
+  place-items: initial !important;
+  align-items: initial !important;
+  justify-content: initial !important;
+
+  overscroll-behavior: contain;
+  -webkit-overflow-scrolling: touch;
 }
 
-.quartz-image-lightbox.is-actual-size {
-  display: block;
-  text-align: center;
+#quartz-image-lightbox.quartz-image-lightbox.is-actual-size
+  > .quartz-image-lightbox__image {
+  /*
+   * A left float gives the image a real positive scroll origin.
+   * It prevents text-align, grid alignment, or automatic margins
+   * from centering an image wider than the viewport.
+   */
+  display: block !important;
+  float: left !important;
+  clear: both !important;
+
+  position: relative !important;
+  inset: auto !important;
+  top: auto !important;
+  right: auto !important;
+  bottom: auto !important;
+  left: auto !important;
+
+  width: auto !important;
+  height: auto !important;
+
+  min-width: 0 !important;
+  min-height: 0 !important;
+  max-width: none !important;
+  max-height: none !important;
+
+  /*
+   * Fixed left margin rather than automatic margins.
+   * At scrollLeft 0, the image's left edge will be 32px from
+   * the viewport instead of approximately -2461px.
+   */
+  margin: 2rem 0 2rem 2rem !important;
+  padding: 0 !important;
+
+  transform: none !important;
+  translate: none !important;
+
+  object-fit: none !important;
+  object-position: left top !important;
+
+  cursor: zoom-out !important;
 }
 
-.quartz-image-lightbox.is-actual-size .quartz-image-lightbox__image {
-  max-width: none;
-  max-height: none;
-  width: auto;
-  height: auto;
-  margin: 2rem;
-  cursor: zoom-out;
+
+/* ---------------------------------------------------------
+   MOBILE TRUE-SIZE MODE
+   --------------------------------------------------------- */
+
+@media (max-width: 600px) {
+  #quartz-image-lightbox.quartz-image-lightbox.is-actual-size {
+    padding: 0 !important;
+  }
+
+  #quartz-image-lightbox.quartz-image-lightbox.is-actual-size
+    > .quartz-image-lightbox__image {
+    margin: 1rem 0 1rem 1rem !important;
+
+    width: auto !important;
+    height: auto !important;
+    max-width: none !important;
+    max-height: none !important;
+  }
 }
-/* Keep property tags horizontal and wrap them as complete chips */
+
+
+/* =========================================================
+   PROPERTY TAGS
+
+   Keep each tag horizontal while allowing the complete set
+   of tags to wrap across multiple rows.
+   ========================================================= */
+
 .note-properties-table {
   table-layout: auto;
 }
@@ -156,23 +236,29 @@ article img {
   display: flex;
   flex-wrap: wrap;
   align-items: center;
-  gap: 0.4rem 0.5rem;
+
   width: 100%;
+  gap: 0.4rem 0.5rem;
 }
 
 .note-properties-tags .tag-link {
   display: inline-flex;
+  flex: 0 0 auto;
   align-items: center;
+
   width: max-content;
   max-width: 100%;
+
+  padding: 0.22rem 0.5rem;
+
   white-space: nowrap;
   word-break: normal;
   overflow-wrap: normal;
-  padding: 0.22rem 0.5rem;
+
   border-radius: 0.35rem;
 }
 
-/* Prevent separators from occupying their own narrow columns */
+/* Separators are unnecessary because flex gaps provide spacing. */
 .note-properties-tags .note-properties-separator {
   display: none;
 }
