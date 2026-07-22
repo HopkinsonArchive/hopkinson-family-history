@@ -1,6 +1,6 @@
 ---
 title: Lowell Herbert Hopkinson
-updated: 07/21/2026 7:42 PM
+updated: 07/21/2026 10:08 PM
 quartz-properties-collapse: true
 page_url: https://hopkinsonarchive.github.io/hopkinson-family-history/people/lowell-herbert-hopkinson
 aliases:
@@ -148,7 +148,6 @@ Lowell and Margaret established their family in Groveland. The currently reporte
 An 1899 glass-plate photograph cataloged by Historic New England as **“Lowell H. Hopkinson's house, Groveland”** preserves the setting associated with his final years. The catalog title establishes the contemporary association; it does not by itself prove legal ownership or identify the property's street address.[^house-photo]
 
 ![[assets/lowell-h-hopkinsons-house-groveland-ma.jpg|Lowell H. Hopkinson's house in Groveland, Massachusetts, photographed in 1899|525]]
-
 *“Lowell H. Hopkinson's house, Groveland,” photographed by Dr. Louis Augustus Woodbury on August 13, 1899. Historic New England, GUSN-394359.[^house-photo]*
 
 ## Occupation and economic life
