@@ -1,6 +1,6 @@
 ---
 title: Caleb Hopkinson Jr.
-updated: 07/21/2026 1:12 AM
+updated: 07/21/2026 11:59 PM
 quartz-properties-collapse: true
 page_url: https://hopkinsonarchive.github.io/hopkinson-family-history/people/caleb-hopkinson-jr.
 aliases:
@@ -165,7 +165,7 @@ The existing page also preserved a report that a 1732 estate division named wido
 No inspected record assigns Caleb an occupation. Landholding and estate transmission do not by themselves justify calling him a farmer, husbandman, yeoman, or tradesman.
 
 ## Death and burial
-![[caleb-hopkinson-jr.-grave.jpeg]]
+![[caleb-hopkinson-jr.-grave.jpeg|525]]
 Caleb died on November 9, 1730. Bradford’s Second Congregational Church recorded that he was “bro’t to his end by the turning over of a Cart on him.”[^1] The wording directly confirms the cause but does not say where the accident occurred, what the cart carried, what Caleb was doing, whether he died immediately, or whether the accident was occupational.
 
 His gravestone was recorded at the Ancient Burying Ground in East Bradford, now Groveland. The published inscription reads:

@@ -1,6 +1,6 @@
 ---
 title: Harry Francis Hopkinson
-updated: 07/21/2026 12:46 AM
+updated: 07/21/2026 11:58 PM
 quartz-properties-collapse: true
 page_url: https://hopkinsonarchive.github.io/hopkinson-family-history/people/harry-francis-hopkinson
 aliases:
@@ -140,7 +140,7 @@ The 1901 census places Flora and Ralph in the Shubenacadie household of Isaac an
 
 ## Death and burial
 
-![[harry-francis-hopkinson-grave.jpg]]
+![[harry-francis-hopkinson-grave.jpg|525]]
 
 Harry died in Groveland on **November 1, 1897**. The town death transcription describes him as married and gives his age as **29 years and 28 days**.[^4] That age agrees exactly with the interval from his recorded birth on October 4, 1868.
 

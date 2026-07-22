@@ -1,6 +1,6 @@
 ---
 title: Ralph Lowell Hopkinson Sr.
-updated: 07/21/2026 12:31 AM
+updated: 07/21/2026 11:59 PM
 quartz-properties-collapse: true
 page_url: https://hopkinsonarchive.github.io/hopkinson-family-history/people/ralph-lowell-hopkinson-sr.
 aliases:
@@ -177,7 +177,7 @@ His confirmed public service was municipal: he served as a permanent Attleboro f
 
 ## Death and burial
 
-![[Ralph-Lowell-Hopkinson-Sr.-Grave.jpg]]
+![[Ralph-Lowell-Hopkinson-Sr.-Grave.jpg|525]]
 
 Ralph died in 1946 at the age of fifty-two. A later cemetery memorial reports May 28, 1946 at Attleboro, and the *Attleboro Sun* published his obituary on that date.[^10][^12] Because the original death certificate and a clean image of the complete obituary have not yet been examined, the exact date and place are classified as a **strong inference** rather than confirmed.
 

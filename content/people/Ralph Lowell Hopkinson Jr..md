@@ -1,6 +1,6 @@
 ---
 title: Ralph Lowell Hopkinson Jr.
-updated: 07/21/2026 12:15 AM
+updated: 07/21/2026 11:58 PM
 quartz-properties-collapse: true
 page_url: https://hopkinsonarchive.github.io/hopkinson-family-history/people/ralph-lowell-hopkinson-jr.
 aliases:
@@ -175,7 +175,7 @@ The 1938 yearbook's description of Ralph as a prominent DeMolayan documents an a
 Lillian's obituary records that Ralph and Lillian jointly chaired the annual bazaar and other fundraising committees at All Saints Episcopal Church. This establishes public community activity by the couple, although the exact years remain unresolved.[^3]
 
 ## Death and burial
-![[Ralph-Lowell-Hopkinson-Sr.-Grave.jpg]]
+![[Ralph-Lowell-Hopkinson-Sr.-Grave.jpg|525]]
 Ralph's death on **December 14, 2000**, is supported by Lillian's obituary and the FamilySearch profile and is therefore treated as **Confirmed**.[^3][^5]
 
 FamilySearch reports the death place as **Webster, Worcester County, Massachusetts**, and displays six linked sources for the death conclusion. Because the saved Details page does not identify those sources, Webster remains an **Unverified** reported place rather than a fully confirmed conclusion. Ralph's original death certificate or obituary should resolve his death place, residence, occupation, and cause of death.[^5]

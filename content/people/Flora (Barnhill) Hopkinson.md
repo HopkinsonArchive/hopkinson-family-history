@@ -1,1 +1,1 @@
-![[Ralph-Lowell-Hopkinson-Sr.-Grave.jpg]]
+![[Ralph-Lowell-Hopkinson-Sr.-Grave.jpg|525]]

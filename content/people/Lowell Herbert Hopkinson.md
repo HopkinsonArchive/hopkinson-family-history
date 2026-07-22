@@ -1,6 +1,6 @@
 ---
 title: Lowell Herbert Hopkinson
-updated: 07/21/2026 10:08 PM
+updated: 07/21/2026 11:57 PM
 quartz-properties-collapse: true
 page_url: https://hopkinsonarchive.github.io/hopkinson-family-history/people/lowell-herbert-hopkinson
 aliases:
@@ -200,7 +200,7 @@ ALS was described as a distinct neurological disease by Jean-Martin Charcot in t
 Modern research links ALS pathobiology with excitotoxicity, oxidative stress, mitochondrial dysfunction, disturbed protein homeostasis, and regulated cell-death pathways. Those mechanisms make the family's biological hypothesis intelligible, but they cannot establish that wartime trauma, imprisonment, infection, or stress caused Lowell's condition.[^als-review]
 
 ## Death and burial
-![[lowell-herbert-hopkinson-grave.jpg]]
+![[lowell-herbert-hopkinson-grave.jpg|525]]
 Lowell is reported to have died in Groveland on May 2, 1904, at age sixty-seven, and to have been buried in Riverview Cemetery. These details currently rest on later compiled or memorial sources rather than an original death return, cemetery register, gravestone transcription made for this project, or contemporary obituary. The date is therefore left out of the machine-readable `death_date` field and classified as **Unverified**. His cause of death, cemetery section, and plot remain unresolved.[^death-burial]
 
 ## Direct-line position
